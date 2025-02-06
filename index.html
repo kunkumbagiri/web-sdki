@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website SDKI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <!-- Preloader -->
+    <div id="preloader"></div>
+    <div class="preloader">
+        <img src="assets/img/logo.png" alt="Logo Universitas Bhakti Kencana" class="logo">
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+    </div>
+
+    <!-- Main Header -->
+    <h1 id="mainHeader">Dokumentasi SDKI</h1>
+
+    <!-- Main Content (Kategori) -->
+    <div id="main" class="container">
+        <a href="#" class="card respirasi" onclick="loadDetail('respirasi', event)">Respirasi</a>
+        <a href="#" class="card sirkulasi" onclick="loadDetail('sirkulasi', event)">Sirkulasi</a>
+        <a href="#" class="card nutrisi" onclick="loadDetail('nutrisi dan Cairan', event)">Nutrisi dan Cairan</a>
+        <a href="#" class="card eliminasi" onclick="loadDetail('eliminasi', event)">Eliminasi</a>
+        <a href="#" class="card aktivitas" onclick="loadDetail('aktivitas dan Istirahat', event)">Aktivitas dan Istirahat</a>
+        <a href="#" class="card neurosensori" onclick="loadDetail('neurosensori', event)">Neurosensori</a>
+        <a href="#" class="card reproduksi" onclick="loadDetail('reproduksi dan Seksualitas', event)">Reproduksi dan Seksualitas</a>
+        <a href="#" class="card nyeri" onclick="loadDetail('nyeri dan Kenyamanan', event)">Nyeri dan Kenyamanan</a>
+        <a href="#" class="card integritas" onclick="loadDetail('integritas dan Ego', event)">Integritas dan Ego</a>
+        <a href="#" class="card kebersihan" onclick="loadDetail('kebersihan Diri', event)">Kebersihan Diri</a>
+        <a href="#" class="card penyuluhan" onclick="loadDetail('penyuluhan dan Pembelajaran', event)">Penyuluhan dan Pembelajaran</a>
+        <a href="#" class="card interaksi" onclick="loadDetail('interaksi Sosial', event)">Interaksi Sosial</a>
+        <a href="#" class="card keamanan" onclick="loadDetail('keamanan dan Proteksi', event)">Keamanan dan Proteksi</a>
+    </div>
+        <a href="#" class="card about" id="aboutCard" onclick="loadAbout(event)">Tentang Pembuat</a>
+
+
+    <!-- Detail Page -->
+    <div id="details" class="detail-container">
+        <h1 id="detailTitle"></h1>
+        <div id="detailList"></div>
+        <button class="back-button" onclick="goBack()">Kembali</button>
+    </div>
+
+<!-- About Modal -->
+   <div id="aboutModal" class="about-modal" style="display: none;">
+       <div class="modal-overlay" onclick="closeAboutModal()"></div>
+       <div class="modal-content">
+           <p>Nama: Kunkun Kumbagiri Rahayu</p>
+           <p>Email: kkumbagiri@gmail.com</a></p>
+           <button class="close-modal" onclick="closeAboutModal()">Tutup</button>
+       </div>
+   </div>
+    <!-- Script -->
+    <script src="assets/js/script.js"></script>
+</body>
+</html>

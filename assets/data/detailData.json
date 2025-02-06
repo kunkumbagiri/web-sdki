@@ -1,0 +1,5633 @@
+{
+  "Bersihan Jalan Napas Tidak Efektif": {
+    "kodeDiagnosa": "D.0001",
+    "definisi": "Ketidakmampuan membersihkan sekret atau obstruksi jalan napas untuk mempertahankan jalan napas tetap paten.",
+    "penyebab": {
+      "fisiologis": [
+        "Spasme jalan napas",
+        "Hipersekresi jalan napas",
+        "Disfungsi neuromuskuler",
+        "Benda asing dalam jalan napas",
+        "Adanya jalan napas buatan",
+        "Sekresi yang tertahan",
+        "Hiperplasia dinding jalan napas",
+        "Proses infeksi",
+        "Respon alergi",
+        "Efek agen farmakologis (mis. anastesi)"
+      ],
+      "situasional": [
+        "Merokok aktif",
+        "Merokok pasif",
+        "Terpajan polutan"
+      ]
+    },
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Batuk tidak efektif",
+        "Tidak mampu batuk",
+        "Sputum berlebih",
+        "Mengi, wheezing dan / atau ronkhi kering",
+        "Mekonium di jalan napas pada Neonatus"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Dispnea",
+        "Sulit bicara",
+        "Ortopnea"
+      ],
+      "objektif": [
+        "Gelisah",
+        "Sianosis",
+        "Bunyi napas menurun",
+        "Frekuensi napas berubah",
+        "Pola napas berubah"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Cedera Kepala",
+      "Stroke",
+      "Cedera Medula Spinalis",
+      "Guillain Barre Syndrome",
+      "Penyakit Parkinson",
+      "Keracunan Obat dan Alkohol",
+      "Pembesaran Uterus",
+      "Miestenia Gravis",
+      "Fistula Trakeoesofagus",
+      "Strikura Esofagus",
+      "Sklrerosis Multiple",
+      "Labiopalatoskizis",
+      "Atresia Esofagus",
+      "Laringomalasia",
+      "Prematuritas"
+    ]
+  },
+  "Gangguan Penyapihan Ventilator": {
+    "kodeDiagnosa": "D.0002",
+    "definisi": "Ketidakmampuan beradaptasi dengan pengurangan bantuan ventilator mekanik yang dapat menghambat dan memperlama proses penyapihan.",
+    "penyebab": {
+      "fisiologis": [
+        "Hipersekresi jalan napas",
+        "Ketidakcukupan energi",
+        "Hambatan upaya napas (misal nyeri saat bernafas, kelemahan otot pernafasan, efek sedasi)"
+      ],
+      "psikologis": [
+        "Kecemasan",
+        "Perasaan tidak berdaya",
+        "Kurang terpapar informasi tentang proses penyapihan",
+        "Penurunan motivasi"
+      ],
+      "situasional": [
+        "Ketidakadekuatan dukungan sosial",
+        "Ketidaktepatan kecepatan proses penyapihan",
+        "Riwayat kegagalan berulang dalam upaya penyapihan",
+        "Riwayat ketergantungan ventilator lebih dari 4 hari"
+      ]
+    },
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Frekuensi napas meningkat",
+        "Penggunaan otot bantu napas",
+        "Napas megap-megap (gasping)",
+        "Upaya napas dan bantuan ventilator tidak sinkron",
+        "Nafas Dangkal",
+        "Agitasi",
+        "Nilai gas darah arteri abnormal"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Lelah",
+        "Kuatir mesin rusak",
+        "Fokus meningkat pada pernafasan"
+      ],
+      "objektif": [
+        "Auskultasi suara inspirasi menurun",
+        "Warna kulit abnormal (mis. pucat, sianosis)",
+        "Napas paradoks abdominal",
+        "Diaforesis",
+        "Ekspresi wajah takut",
+        "Tekanan darah meningkat",
+        "Frekuensi nadi meningkat",
+        "Kesadaran menurun"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Cedera kepala",
+      "Coronary artery bypass graft (CABG)",
+      "Gagal napas",
+      "Cardiac arrest",
+      "Displasia bronkopulmonal"
+    ]
+  },
+  "Gangguan Pertukaran Gas": {
+    "kodeDiagnosa": "D.0003",
+    "definisi": "Kelebihan atau kekurangan oksigenasi dan atau eliminasi karbondioksida pada membran alveolus-kapiler.",
+    "penyebab": [
+      "Ketidakseimbangan ventilasi-perfusi",
+      "Perubahan membran alveolus-kapiler"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Dispnea"
+      ],
+      "objektif": [
+        "PCO2 meningkat / menurun",
+        "PO2 menurun",
+        "Takikardia",
+        "pH arteri meningkat/menurun",
+        "Bunyi napas tambahan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Pusing",
+        "Penglihatan kabur"
+      ],
+      "objektif": [
+        "Sianosis",
+        "Diaforesis",
+        "Gelisah",
+        "Napas cuping hidung",
+        "Pola napas abnormal (cepat / lambat, regular/irregular, dalam/dangkal)",
+        "Warna kulit abnormal (mis. pucat, kebiruan)",
+        "Kesadaran menurun"
+      ]
+    },
+      "kondisiKlinisTerkait" : [
+        "Penyakit paru obstruktif kronis (PPOK)",
+        "Gagal jantung kongestif",
+        "Asma",
+        "Pneumonia",
+        "Tuberkulosis paru",
+        "Penyakit membran hialin",
+        "Asfiksia",
+        "Persistent pulmonary hypertension of newborn (PPHN)",
+        "Prematuritas",
+        "Infeksi saluran napas"
+        ]
+  },
+  "Gangguan Ventilasi Spontan": {
+    "kodeDiagnosa": "D.0004",
+    "definisi": "Penurunan cadangan energi yang mengakibatkan individu tidak mampu bernapas secara adekuat.",
+    "penyebab": [
+      "Gangguan metabolisme",
+      "Kelelahan otot pernafasan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Dispnea"
+      ],
+      "objektif": [
+        "Penggunaan otot atas meningkat",
+        "Volume tidal menurun",
+        "PCO2 meningkat",
+        "PO2 menurun",
+        "SaO2 menurun"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak tersedia",
+      "objektif": [
+        "Gelisah",
+        "Takikardia"
+      ]
+    },
+      "kondisiKlinisTerkait" : [
+        "Penyakit paru obstruktif kronis (PPOK)",
+        "Gagal jantung kongestif",
+        "Asma",
+        "Pneumonia",
+        "Tuberkulosis paru",
+        "Penyakit membran hialin",
+        "Asfiksia",
+        "Persistent pulmonary hypertension of newborn (PPHN)",
+        "Prematuritas",
+        "Infeksi saluran napas"
+        ]
+  },
+  "Pola Napas Tidak Efektif": {
+    "kodeDiagnosa": "D.0005",
+    "definisi": "Inspirasi dan/atau ekspirasi yang tidak memberikan ventilasi adekuat",
+    "penyebab": [
+      "Depresi pusat pernapasan",
+      "Hambatan upaya napas (mis. nyeri saat bernapas, kelemahan otot pernapasan)",
+      "Deformitas dinding dada",
+      "Deformitas tulang dada",
+      "Gangguan neuromuskular",
+      "Gangguan neurologis (mis elektroensefalogram [EEG] positif, cedera kepala gangguan kejang)",
+      "Maturitas neurologis",
+      "Penurunan energi",
+      "Obesitas",
+      "Posisi tubuh yang menghambat ekspansi paru",
+      "Sindrom hipoventilasi",
+      "Kerusakan inervasi diafragma (kerusakan saraf CS ke atas)",
+      "Cedera pada medula spinalis",
+      "Efek agen farmakologis",
+      "Kecemasan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Dispnea"
+      ],
+      "objektif": [
+        "Penggunaan otot bantu pernapasan",
+        "Fase ekspirasi memanjang",
+        "Pola napas abnormal (mis. takipnea, bradipnea, hiperventilasi Kussmaul, Cheyne-Stokes)"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Ortopnea"
+      ],
+      "objektif": [
+        "Pernapasan pursed-lip",
+        "Pernapasan cuping hidung",
+        "Diameter thoraks anterior-posterior meningkat",
+        "Ventilasi semenit menurun",
+        "Kapasitas vital menurun",
+        "Tekanan ekspirasi menurun",
+        "Tekanan inspirasi menurun",
+        "Ekskursi dada berubah"
+      ]
+    },
+      "kondisiKlinisTerkait": [
+        "Depresi sistem saraf pusat",
+        "Cedera Kepala",
+        "Trauma thoraks",
+        "Gullain Bare Syndrome",
+        "Multiple Sclerosis",
+        "Myasthenia Gravis",
+        "Stroke",
+        "Kuadriplegi",
+        "Intoksikasi Alkohol"
+        ]
+    },
+  "Risiko Aspirasi": {
+    "kodeDiagnosa": "D.0006",
+    "definisi": "Risiko mengalami masuknya sekresi gastrointestinal, sekresi orofaring, benda cair, atau padat ke dalam saluran trakeobronkial akibat disfungsi mekanisme protektif saluran napas.",
+    "faktorRisiko": [
+      "Penurunan tingkat kesadaran",
+      "Penurunan refleks muntah dan atau batuk",
+      "Gangguan menelan",
+      "Disfagia",
+      "Kerusakan mobilitas fisik",
+      "Peningkatan residu lambung",
+      "Peningkatan tekanan intragastrik",
+      "Penurunan motilitas gastrointestinal",
+      "Sfingter esofagus bawah inkompeten",
+      "Perlambatan pengosongan lambung",
+      "Terpasang selang nasogastrik",
+      "Terpasang trakeostomi atau endotracheal tube",
+      "Trauma/pembedahan leher, mulut, dan atau wajah",
+      "Efek agen farmakologis",
+      "Ketidakmampuan koordinasi menghisap, menelan dan bernapas"
+    ],
+    "kondisiKlinisTerkait": [
+      "Cedera kepala",
+      "Stroke",
+      "Cedera medula spinalis",
+      "Gullaine barre syndrome",
+      "Penyakit parkinson",
+      "Keracunan obat dan alkohol",
+      "Pembesaran uterus",
+      "Miestenia gravis",
+      "Fistula trakeoesofagus",
+      "Striktura esofagus",
+      "Sklerosis multipel",
+      "Labiopalatoskizis",
+      "Atresia esofagus",
+      "Laringomalasia",
+      "Prematuritas"
+    ]
+  },
+  "Gangguan Sirkulasi Spontan": {
+    "kodeDiagnosa": "D.0007",
+    "definisi": "Ketidakmampuan untuk mempertahankan sirkulasi yang adekuat untuk menunjang kehidupan.",
+    "penyebab": [
+      "Abnormalitas kelistrikan jantung.",
+      "Abnormalitas struktur jantung.",
+      "Penurunan fungsi ventrikel"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Tidak berespon"
+      ],
+      "objektif": [
+        "Frekuensi nadi <50 kali / menit atau >150 kali / menit.",
+        "Tekanan darah sistolik <60 mmHg atau >200 mmHg.",
+        "Frekuensi nafas <6 kali/menit atau >30 kali/menit.",
+        "Kesadaran menurun atau tidak sadar"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Suhu tubuh <34,5 derajat Celcius.",
+        "Tidak ada produksi urin dalam 6 jam.",
+        "Saturasi oksigen <85%.",
+        "Gambaran EKG menunjukkan aritmia letal (mis. Ventricular Tachycardia [VT], Ventricular Fibrillatio [VF], Asistol, Pulseless Electrical Activity [PEA]).",
+        "Gambaran EKG menunjukkan aritmia mayor (mis. AV block derajat 2 tipe 2, AV block total, takiaritmia / bradiaritmia, Supraventricular Tachycardia [SVT], Ventricular Extrasystole [VES], simptomatik).",
+        "ETCO2 <35 mmHg."
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Henti Jantung",
+      "Bradikardia",
+      "Takikardia",
+      "Sindrom koroner akut",
+      "Gagal Jantung",
+      "Kardiomiopati",
+      "Miokarditis",
+      "Disritmia",
+      "Trauma",
+      "Perdarahan (mis. perdarahan gastrointestinal, ruptur aorta, perdarahan intrakranial)",
+      "Keracunan",
+      "Overdosis",
+      "Tenggelam",
+      "Emboli paru"
+    ]
+  },
+  "Penurunan Curah Jantung": {
+    "kodeDiagnosa": "D.0008",
+    "definisi": "Ketidakadekuatan jantung memompa darah untuk memenuhi kebutuhan metabolisme tubuh.",
+    "penyebab": [
+      "Perubahan irama jantung.",
+      "Perubahan frekuensi jantung.",
+      "Perubahan kontraktilitas.",
+      "Perubahan preload.",
+      "Perubahan afterload."
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Perubahan irama jantung: Palpitasi.",
+        "Perubahan preload: Lelah.",
+        "Perubahan afterload: Dispnea.",
+        "Perubahan kontraktilitas: Paroxysmal nocturnal dyspnea (PND); Ortopnea; Batuk."
+      ],
+      "objektif": [
+        "Perubahan irama jantung: Bradikardia / Takikardia. Gambaran EKG aritmia atau gangguan konduksi.",
+        "Perubahan preload: Edema, Distensi vena jugularis, Central venous pressure (CVP) meningkat/menurun, Hepatomegali.",
+        "Perubahan afterload: Tekanan darah meningkat / menurun, Nadi perifer teraba lemah, Capillary refill time > 3 detik, Oliguria, Warna kulit pucat dan / atau sianosis.",
+        "Perubahan kontraktilitas: Terdengar suara jantung S3 dan /atau S4, Ejection fraction (EF) menurun."
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Gagal jantung kongestif",
+      "Sindrom koroner akut",
+      "Stenosis mitral",
+      "Regurgitasi mitral",
+      "Stenosis aorta",
+      "Regurgitasi aorta",
+      "Stenosis pulmonal",
+      "Regurgitasi trikuspidal",
+      "Regurgitasi pulmonal",
+      "Aritmia",
+      "Penyakit jantung bawaan"
+    ]
+  },
+  "Perfusi Perifer Tidak Efektif": {
+    "kodeDiagnosa": "D.0009",
+    "definisi": "Penurunan sirkulasi darah pada level kapiler yang dapat mengganggu metabolisme tubuh.",
+    "penyebab": [
+      "Hiperglikemia",
+      "Penurunan konsentrasi gemoglobin",
+      "Peningkatan tekanan darah",
+      "Kekurangan volume cairan",
+      "Penurunan aliran arteri dan / atau vena",
+      "Kurang terpapar informasi tentang faktor pemberat (mis. merokok, gaya hidup monoton, trauma, obesitas, asupan garam, imobilitas)",
+      "Kurang terpapar informasi tentang proses penyakit (mis. diabetes melitus, hiperlipidemia)",
+      "Kurang aktivitas fisik"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia",
+      "objektif": [
+        "Pengisian kapiler >3 detik.",
+        "Nadi perifer menurun atau tidak teraba.",
+        "Akral teraba dingin.",
+        "Warna kulit pucat.",
+        "Turgor kulit menurun."
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Parastesia",
+        "Nyeri ekstremitas (klaudikasi intermiten)"
+      ],
+      "objektif": [
+        "Edema",
+        "Penyembuhan luka lambat",
+        "Indeks ankle-brachial < 0,90",
+        "Bruit femoral"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Tromboflebitis",
+      "Diabetes melitus",
+      "Anemia",
+      "Gagal Jantung kongenital",
+      "Kelainan jantung kongenital",
+      "Thrombosis arteri",
+      "Varises",
+      "Trombosis vena dalam",
+      "Sindrom kompartemen"
+    ]
+  },
+    "Risiko Gangguan Sirkulasi Spontan": {
+        "kodeDiagnosa": "D.0010",
+        "definisi": "Berisiko mengalami ketidakmampuan untuk mempertahankan sirkulasi yang adekuat untuk menunjang kehidupan.",
+        "faktorRisiko": [
+            "Kekurangan volume cairan",
+            "Hipoksia",
+            "Hipotermia",
+            "Hipokalemia/hiperkalemia",
+            "Hipoglikemia/hiperglikemia",
+            "Asidosis",
+            "Toksin",
+            "Tamponade jantung",
+            "Tension pneumothorax",
+            "Trombosis jantung",
+            "Trombosis paru (emboli paru)"
+        ],
+        "kondisiKlinisTerkait": [
+            "Bradikardia",
+            "Takikardia",
+            "Sindrom koroner akut",
+            "Gagal jantung",
+            "Kardiomiopati",
+            "Miokarditis",
+            "Disritmia",
+            "Trauma",
+            "Perdarahan",
+            "Keracunan",
+            "Overdosis",
+            "Tenggelam",
+            "Emboli paru"
+        ]
+    },
+    "Risiko Penurunan Curah Jantung": {
+        "kodeDiagnosa": "D.0011",
+        "definisi": "Berisiko mengalami pemompaan jantung yang tidak adekuat untuk memenuhi kebutuhan metabolisme tubuh.",
+        "faktorRisiko": [
+            "Perubahan afterload",
+            "Perubahan frekuensi jantung",
+            "Perubahan irama jantung",
+            "Perubahan kontraktilitas",
+            "Perubahan preload"
+        ],
+        "kondisiKlinisTerkait": [
+            "Gagal jantung kongestif",
+            "Sindrom koroner akut",
+            "Gangguan katup jantung (stenosis / regurgitasi aorta, pulmonalis, trikuspidalis, atau mitralis)",
+            "Atrial / ventricular septal defect",
+            "Aritmia"
+        ]
+},
+    "Risiko Perdarahan": {
+        "kodeDiagnosa": "D.0012",
+        "definisi": "Berisiko mengalami kehilangan darah baik internal (terjadi di dalam tubuh) maupun eksternal (terjadi hingga keluar tubuh).",
+        "faktorRisiko": [
+            "Aneurisma",
+            "Gangguan gastrointestinal (misal ulkus, polip, varises)",
+            "Gangguan fungsi hati (misal sirosis hepatitis)",
+            "Komplikasi kehamilan (misal ketuban pecah sebelum waktunya, plasenta previa/abrupsio, kehamilan kembar)",
+            "Komplikasi pasca partum (misal atoni uterus, retensi plasenta)",
+            "Gangguan koagulasi (misal trombositopenia)",
+            "Efek agen farmakologis",
+            "Tindakan pembedahan",
+            "Trauma",
+            "Kurang terpapar informasi tentang pencegahan perdarahan",
+            "Proses keganasan"
+        ],
+        "kondisiKlinisTerkait": [
+            "Aneurisma",
+            "Koagulasi intravaskuler diseminata",
+            "Gangguan fungsi hati (misal sirosis hepatitis)",
+            "Komplikasi kehamilan (misal ketuban pecah sebelum waktunya, plasenta previa/abrupsio, kehamilan kembar)",
+            "Komplikasi pasca partum (misal atoni uterus, retensi plasenta)",
+            "Gangguan koagulasi (misal trombositopenia)",
+            "Efek agen farmakologis",
+            "Tindakan Pembedahan",
+            "Trauma",
+            "Kurang terpapar informasi tentang pencegahan perdarahan",
+            "Proses Keganasan"
+        ]
+},
+    "Risiko Perfusi Gastrointestinal Tidak Efektif": {
+        "kodeDiagnosa": "D.0013",
+        "definisi": "Berisiko mengalami penurunan sirkulasi gastrointestinal.",
+        "faktorRisiko": [
+            "Perdarahan gastrointestinal akut",
+            "Trauma abdomen",
+            "Sindroma kompartemen abdomen",
+            "Aneurisma aorta abdomen",
+            "Varises gastroesofagus",
+            "Penurunan kinerja vertikel kiri",
+            "Koagulopati (mis. anemia sel sabit, koagulopati intravaskuler diseminata)",
+            "Penurunan konsentrasi hemoglobin",
+            "Keabnormalan masa protombin dan/atau masa tromboplastin parsial",
+            "Disfungsi hati (mis. sirosis, hepatitis)",
+            "Disfungsi ginjal (mis. ginjal polikistik, stenosis arteri ginjal, gagal ginjal)",
+            "Disfungsi gastrointestinal (mis. ulkus duodenum atau ulkus lambung, kolitis iskemik, pankreatitis iskemik)",
+            "Hiperglikemia",
+            "Ketidakstabilan hemodinamik",
+            "Efek agen farmakologis",
+            "Usia >60 tahun",
+            "Efek samping tindakan (cardiopulmonary bypass, anastesi, pembedahan lambung)"
+        ],
+        "kondisiKlinisTerkait": [
+            "Varises gastroesofagus",
+            "Aneurisma aorta abdomen",
+            "Diabetes melitus",
+            "Sirosis hepatis",
+            "Perdarahan gastrointestinal akut",
+            "Gagal jantung kongestif",
+            "Koagulasi intravaskuler diseminata",
+            "Ulkus duodenum atau ulkus lambung",
+            "Kolitis iskemik",
+            "Pankreatitis iskemik",
+            "Ginjal polikistik",
+            "Stenosis arteri ginjal",
+            "Gagal ginjal",
+            "Sindroma kompartemen abdomen",
+            "Trauma abdomen",
+            "Anemia",
+            "Pembedahan Jantung"
+        ]
+},
+    "Risiko Perfusi Miokard Tidak Efektif": {
+        "kodeDiagnosa": "D.0014",
+        "definisi": "Berisiko mengalami penurunan sirkulasi arteri koroner yang dapat mengganggu metabolisme miokard.",
+        "faktorRisiko": [
+            "Hipertensi",
+            "Hiperlipidemia",
+            "Hiperglikemia",
+            "Hipoksemia",
+            "Hipoksia",
+            "Kekurangan volume cairan",
+            "Pembedahan Jantung",
+            "Penyalahgunaan zat",
+            "Spasme arteri koroner",
+            "Peningkatan protein C-reaktif",
+            "Tamponade jantung",
+            "Efek agen farmakologis",
+            "Riwayat penyakit kardiovaskular pada keluarga",
+            "Kurang terpapar informasi tentang faktor risiko yang dapat diubah (misal merokok, gaya hidup kurang gerak, obesitas)"
+        ],
+        "kondisiKlinisTerkait": [
+            "Bedah Jantung",
+            "Tamponade jantung",
+            "Sindrom koroner akut",
+            "Diabetes mellitus",
+            "Hipertensi"
+        ],
+        "keterangan": "Diagnosis ini ditegakkan pada pasien yang belum berisiko mengalami gangguan pompa jantung. Jika pasien telah berisiko mengalami gangguan pompa jantung maka lebih dianjurkan untuk menegakkan diagnosis risiko penurunan curah jantung."
+},
+  "Risiko Perfusi Perifer Tidak Efektif": {
+    "kodeDiagnosa": "D.0015",
+    "definisi": "Berisiko mengalami penurunan sirkulasi darah pada level kaliper yang dapat mengganggu metabolisme tubuh",
+    "faktorRisiko": [
+      "Hiperglikemia",
+      "Gaya hidup kurang gerak",
+      "Hipertensi",
+      "Merokok",
+      "Prosedur endovaskuler",
+      "Trauma",
+      "Kurang terpapar informasi tentang faktor pemberat (mis. merokok, gaya hidup kurang gerak, obesitas, imobilitas)"
+    ],
+    "kondisiKlinisTerkait": [
+      "Arterosklerosis",
+      "Raynaud’s disease",
+      "Trombosis arteri",
+      "Leriche’s syndrome",
+      "Aneurisma",
+      "Buerger’s disease",
+      "Varises",
+      "Diabetes melitus",
+      "Hipotensi",
+      "Kanker"
+    ]
+},
+  "Risiko Perfusi Renal Tidak Efektif": {
+    "kodeDiagnosa": "D.0016",
+    "definisi": "Berisiko mengalami penurunan sirkulasi darah ke ginjal",
+    "faktorRisiko": [
+      "Kekurangan volume cairan",
+      "Embolisme vaskuler",
+      "Vaskulitis",
+      "Hipertensi",
+      "Disfungsi ginjal",
+      "Hiperglikemia",
+      "Keganasan",
+      "Pembedahan jantung",
+      "Bypass kardiopulmonal",
+      "Hipoksemia",
+      "Hipoksia",
+      "Asidosis metabolik",
+      "Trauma",
+      "Sindrom kompartemen abdomen",
+      "Luka bakar",
+      "Sepsis",
+      "Sindrom respon inflamasi sistemik",
+      "Lanjut usia",
+      "Merokok",
+      "Penyalah gunaan zat"
+    ],
+    "kondisiKlinisTerkait": [
+      "Diabetes melitus",
+      "Hipertensi",
+      "Aterosklerosis",
+      "Syok",
+      "Keganasan",
+      "Luka bakar",
+      "Pembedahan jantung",
+      "Penyakit ginjal (mis. ginjal polikistik, stenosis artesi ginjal, gagal ginjal, glumeruloneftritis, nefritis intersisial, nekrosis kortikal bilateral, polinefritis)",
+      "Trauma"
+    ]
+},
+  "Risiko Perfusi Serebral Tidak Efektif": {
+    "kodeDiagnosa": "D.0017",
+    "definisi": "Berisiko mengalami penurunan sirkulasi darah ke otak",
+    "faktorRisiko": [
+      "Keabnormalan masa protrombin dan/atau masa tromboplastin parsial",
+      "Penurunan kinerja ventikel kiri",
+      "Aterosklrosis aorta",
+      "Diseksi arteri",
+      "Fibrilasi atrium",
+      "Tumor otak",
+      "Stenosis karotis",
+      "Miksoma atrium",
+      "Aneurisma serebri",
+      "Koagulopati (mis. anemia sel sabit)",
+      "Dilatasi kardiomiopati",
+      "Koagulasi (mis. anemia sel sabit)",
+      "Embolisme",
+      "Cedera kepala",
+      "Hiperkolesteronemia",
+      "Hipertensi",
+      "Endokarditis infektif",
+      "Katup prostetik mekanis",
+      "Stenosis mitral",
+      "Neoplasma otak",
+      "Infark miokard akut",
+      "Sindrom sick sinus",
+      "Penyalahgunaan zat",
+      "Terapi tombolitik",
+      "Efek samping tindakan (mis. tindakan operasi bypass)"
+    ],
+    "kondisiKlinisTerkait": [
+      "Stroke",
+      "Cedera kepala",
+      "Aterosklerotik aortik",
+      "Infark miokard akut",
+      "Diseksi arteri",
+      "Embolisme",
+      "Endokarditis infektif",
+      "Fibrilasi atrium",
+      "Hiperkolesterolemia",
+      "Hipertensi",
+      "Dilatasi kardiomiopati",
+      "Koagulasi intravaskular diseminata",
+      "Miksoma atrium",
+      "Neoplasma otak",
+      "Segmen ventrikel kiri akinetik",
+      "Sindrom sick sinus",
+      "Stenosis karotid",
+      "Stenosis mitral",
+      "Hidrosefalus",
+      "Infeksi otak (mis. meningitis, ensefalitis, abses serebri)"
+    ]
+},
+  "Berat Badan Lebih": {
+    "kodeDiagnosa": "D.0018",
+    "definisi": "Akumulasi lemak berlebih atau abnormal yang tidak sesuai dengan usia dan jenis kelamin",
+    "penyebab": [
+      "Kurang aktivitas fisik harian",
+      "Kelebihan konsumsi gula",
+      "Gangguan kebiasaan makan",
+      "Gangguan persepsi makan",
+      "Kelebihan konsumsi alkohol",
+      "Penggunaan energi kurang dari asupan",
+      "Sering mengemil",
+      "Sering memakan makanan berminyak/berlemak",
+      "Faktor keturunan (mis. distribusi jaringan adiposa, pengeluaran energi, aktivitas lipase lipoprotein, sintesis lipid, lipolisis)",
+      "Penggunaan makanan formula atau makanan campuran (pada bayi)",
+      "Asupan kalsium rendah (pada anak-anak)",
+      "Berat badan bertambah cepat (selama masa anak-anak, selama masa bayi, termasuk minggu pertama, 4 bulan pertama, dan tahun pertama)",
+      "Makanan padat sebagai sumber makanan utama pada usia <5 bulan"
+    ],
+    "gejalaTandaMayor": {
+      "objektif": [
+        "IMT >25 kg/m2 (pada dewasa) atau berat dan panjang badan lebih dari presentil 95 (pada anak <2 tahun) atau IMT pada presentil ke 85-95 (pada anak 2-18 tahun)"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "objektif": [
+        "Tebal lipatan kulit trisep >25 mm"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Gangguan genetik",
+      "Faktor keturunan",
+      "Hipotiroid",
+      "Diabetes melitus maternal"
+    ]
+},
+  "Defisit Nutrisi": {
+    "kodeDiagnosa": "D.0019",
+    "definisi": "Asupan nutrisi tidak cukup untuk memenuhi kebutuhan metabolisme.",
+    "penyebab": {
+      "fisiologis": [
+        "Ketidakmampuan menelan makanan",
+        "Ketidakmampuan mencerna makanan",
+        "Ketidakmampuan mengabsorbsi nutrien",
+        "Peningkatan kebutuhan metabolisme"
+      ],
+      "ekonomi": [
+        "Finansial tidak mencukupi"
+      ],
+      "psikologis": [
+        "Stres",
+        "Keengganan untuk makan"
+      ]
+    },
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Berat badan menurun minimal 10% di bawah rentang ideal."
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Cepat kenyang setelah makan",
+        "Kram/nyeri abdomen",
+        "Nafsu makan menurun"
+      ],
+      "objektif": [
+        "Bising usus hiperaktif",
+        "Otot pengunyah lemah",
+        "Otot menelan lemah",
+        "Membran mukosa pucat",
+        "Sariawan",
+        "Serum albumin turun",
+        "Rambut rontok berlebihan",
+        "Diare"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Stroke",
+      "Parkinson",
+      "Mobius syndrome",
+      "Celebral palsy",
+      "Cleft lip",
+      "Cleft palate",
+      "Amyotropic lateral sclerosis",
+      "Kerusakan neuromuskular",
+      "Luka bakar",
+      "Kanker",
+      "Infeksi",
+      "AIDS",
+      "Penyakit Crohn’s",
+      "Enterokolitis",
+      "Fibrosis kistik"
+    ]
+},
+  "Diare": {
+    "kodeDiagnosa": "D.0020",
+    "definisi": "Pengeluaran feses yang sering, lunak dan tidak terbentuk.",
+    "penyebab": {
+      "fisiologis": [
+        "Inflamasi gastrointestinal",
+        "Iritasi gastrointestinal",
+        "Proses infeksi",
+        "Malabsorsi"
+      ],
+      "psikologis": [
+        "Kecemasan",
+        "Tingkat stres tinggi"
+      ],
+      "situasional": [
+        "Terpapar kontaminan",
+        "Terpapar toksin",
+        "Penyalahgunaan laksatif",
+        "Penyalahgunaan zat",
+        "Program pengobatan (Agen tiroid, analgesik, pelunak feses, ferosultat, antasida, cimetidine dan antibiotik)",
+        "Perubahan air dan makanan",
+        "Bakteri pada air"
+      ]
+    },
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Defekasi lebih dari tiga kali dalam 24 jam",
+        "Feses lembek atau cair"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Urgency",
+        "Nyeri/kram abdomen"
+      ],
+      "objektif": [
+        "Frekuensi peristaltik meningkat",
+        "Bising usus hiperaktif"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kanker kolon",
+      "Divericulitis",
+      "Iritasi usus",
+      "Crohn’s disease",
+      "Ulkus peptikum",
+      "Gastritis",
+      "Spasme kolon",
+      "Kolitis ulseratif",
+      "Hipertiroidisme",
+      "Demam typoid",
+      "Malaria",
+      "Sigelosis",
+      "Kolera",
+      "Disentri",
+      "Hepatitis"
+    ]
+},
+  "Disfungsi Motilitas Gastrointestinal": {
+    "kodeDiagnosa": "D.0021",
+    "definisi": "Peningkatan, penurunan, tidak efektif atau kurangnya aktivitas peristaltik gastrointestinal.",
+    "penyebab": [
+      "Asupan enteral",
+      "Intoleransi makanan",
+      "Imobilisasi",
+      "Makanan kontaminan",
+      "Malnutrisi",
+      "Pembedahan",
+      "Efek agen farmakologis (mis. narkotik/opiat, antibiotik, laksatif, anestesia)",
+      "Proses penuaan",
+      "Kecemasan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengungkapkan flatus tidak ada",
+        "Nyeri/kram abdomen"
+      ],
+      "objektif": [
+        "Suara peristaltik berubah (tidak ada, hipoaktif, atau hiperaktif)"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Merasa mual"
+      ],
+      "objektif": [
+        "Residu lambung meningkat/menurun",
+        "Muntah",
+        "Regurgitasi",
+        "Pengosongan lambung cepat",
+        "Distensi abdomen",
+        "Diare",
+        "Feses kering dan sulit keluar",
+        "Feses keras"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Pembedahan abdomen atau usus",
+      "Malnutrisi",
+      "Kecemasan",
+      "Kanker empedu",
+      "Kolesistektomi",
+      "Infeksi pencernaan",
+      "Gastroesophageal reflux disease (GERD)",
+      "Dialisis peritoneal",
+      "Terapi radiasi",
+      "Multiple organ dysfunction syndrome"
+    ]
+},
+  "Hipervolemia": {
+    "kodeDiagnosa": "D.0022",
+    "definisi": "Peningkatan volume cairan intravaskular, interstisial, dan/atau intraselular.",
+    "penyebab": [
+      "Gangguan mekanisme regulasi",
+      "Kelebihan asupan cairan",
+      "Kelebihan asupan natrium",
+      "Gangguan aliran balik vena",
+      "Efek agen farmakologis (mis. kortikosteroid, chlorpropamide, tolbutamide, vincristine, tryptilines, carbamazepine)"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Ortopnea",
+        "Dispnea",
+        "Paroxysmal nocturnal dyspnea (PND)"
+      ],
+      "objektif": [
+        "Edema anasarka dan/atau edema perifer",
+        "Berat badan meningkat dalam waktu singkat",
+        "Jugular Venous Pressure (JVP) dan/atau Central Venous Pressure (CVP) meningkat",
+        "Refleks hepatojugular positif"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Distensi vena jugularis",
+        "Terdengar suara napas tambahan",
+        "Hepatomegali",
+        "Kadar Hb/Ht turun",
+        "Oliguria",
+        "Intake lebih banyak dari output (balans cairan positif)",
+        "Kongesti paru"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Penyakit ginjal (gagal ginjal akut/kronis, sindrom nefrotik)",
+      "Hipoalbuminemia",
+      "Gagal jantung kongestif",
+      "Kelainan hormon",
+      "Penyakit hati (sirosis, asites, kanker hati)",
+      "Penyakit vena perifer (varises vena, trombus vena, flebitis)",
+      "Imobilitas"
+    ]
+},
+  "Hipovolemia": {
+    "kodeDiagnosa": "D.0023",
+    "definisi": "Penurunan volume cairan intravaskular, interstisial, dan/atau intraselular.",
+    "penyebab": [
+      "Kehilangan cairan aktif",
+      "Kegagalan mekanisme regulasi",
+      "Peningkatan permeabilitas kapiler",
+      "Kekurangan intake cairan",
+      "Evaporasi"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Frekuensi nadi meningkat",
+        "Nadi teraba lemah",
+        "Tekanan darah menurun",
+        "Tekanan nadi menyempit",
+        "Turgor kulit menyempit",
+        "Membran mukosa kering",
+        "Volume urin menurun",
+        "Hematokrit meningkat"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Merasa lemah",
+        "Mengeluh haus"
+      ],
+      "objektif": [
+        "Pengisian vena menurun",
+        "Status mental berubah",
+        "Suhu tubuh meningkat",
+        "Konsentrasi urin meningkat",
+        "Berat badan turun tiba-tiba"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Penyakit Addison",
+      "Trauma/pendarahan",
+      "Luka bakar",
+      "AIDS",
+      "Penyakit Crohn",
+      "Muntah",
+      "Diare",
+      "Kolitis ulseratif",
+      "Hipoalbuminemia"
+    ]
+},
+  "Ikterik Neonatus": {
+    "kodeDiagnosa": "D.0024",
+    "definisi": "Kulit dan membran mukosa neonatus menguning setelah 24 jam kelahiran akibat bilirubin tidak terkonjugasi masuk ke dalam sirkulasi.",
+    "penyebab": [
+      "Penurunan berat badan abnormal (>7-8% pada bayi baru lahir yang menyusu ASI, >15% pada bayi cukup bulan)",
+      "Pola makan tidak ditetapkan dengan baik",
+      "Kesulitan transisi ke kehidupan ekstrauterin",
+      "Usia kurang dari 7 hari",
+      "Keterlambatan pengeluaran feses (mekonium)"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Profil darah abnormal (Hemolisis, bilirubin serum total >2mg/dL, bilirubin serum total pada rentang risiko tinggi menurut usia pada nomogram spesifik waktu)",
+        "Membran mukosa kuning",
+        "Kulit kuning",
+        "Sklera kuning"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": "Tidak tersedia."
+    },
+    "kondisiKlinisTerkait": [
+      "Neonatus",
+      "Bayi prematur"
+    ]
+},
+  "Kesiapan Peningkatan Keseimbangan Cairan": {
+    "kodeDiagnosa": "D.0025",
+    "definisi": "Pola ekuilibrium antara volume cairan dan komposisi kimia cairan tubuh yang cukup untuk memenuhi kebutuhan fisik dan dapat ditingkatkan.",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengekspresikan keinginan untuk meningkatkan keseimbangan cairan"
+      ],
+      "objektif": [
+        "Membran mukosa lembab",
+        "Asupan makanan dan cairan adekuat untuk kebutuhan harian",
+        "Turgor jaringan baik",
+        "Tidak ada tanda edema atau dehidrasi"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak tersedia.",
+      "objektif": [
+        "Urin berwarna kuning bening dengan berat jenis dalam rentang normal",
+        "Haluaran urin sesuai dengan asupan",
+        "Berat badan stabil"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Gagal jantung",
+      "Sindrom iritasi usus",
+      "Penyakit Addison",
+      "Makanan enteral atau parenteral"
+    ]
+  },
+  "Kesiapan Peningkatan Nutrisi": {
+    "kodeDiagnosa": "D.0026",
+    "definisi": "Pola asupan nutrisi yang cukup untuk memenuhi kebutuhan metabolisme dan dapat ditingkatkan.",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengekspresikan keinginan untuk meningkatkan nutrisi"
+      ],
+      "objektif": [
+        "Makan teratur dan adekuat"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Mengekspresikan pengetahuan tentang pilihan makanan dan cairan yang sehat",
+        "Mengikuti standar asupan nutrisi yang tepat (mis. piramida makanan, pedoman American Diabetic Association atau pedoman lainnya)"
+      ],
+      "objektif": [
+        "Penyiapan dan penyimpanan makanan dan minuman yang aman",
+        "Sikap terhadap makanan dan minuman sesuai dengan tujuan kesehatan"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Perilaku upaya peningkatan kesehatan"
+    ]
+},
+  "Ketidakstabilan Kadar Glukosa Darah":{
+  "kodeDiagnosa": "D.0027",
+  "definisi": "Variasi kadar glukosa darah naik/turun dari rentang normal",
+  "penyebab": {
+    "Hiperglikemia": [
+      "Disfungsi pankreas",
+      "Resistensi insulin",
+      "Gangguan toleransi glukosa darah",
+      "Gangguan glukosa darah puasa"
+    ],
+    "Hipoglikemia": [
+      "Penggunaan insulin atau obat glikemik oral",
+      "Hyperinsulinemia (mis. insulinoma)",
+      "Endokrinopati (mis. kerusakan adrenal atau pituitari)",
+      "Disfungsi hati",
+      "Disfungsi ginjal kronis",
+      "Efek agen farmakologis",
+      "Tindakan pembedahan neoplasma",
+      "Gangguan metabolik bawaan (mis. gangguan penyimpanan lisosomal, galaktosemia, gangguan penyimpanan glikogen)"
+    ]
+  },
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Hipoglikemia: Mengantuk, Pusing",
+      "Hiperglikemia: Lelah atau lesu"
+    ],
+    "objektif": [
+      "Hipoglikemia: Gangguan koordinasi, Kadar glukosa dalam darah/urin rendah",
+      "Hiperglikemia: Kadar glukosa dalam darah/urin tinggi"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Hipoglikemia: Palpitasi, Mengeluh lapar",
+      "Hiperglikemia: Mulut kering, Haus meningkat"
+    ],
+    "objektif": [
+      "Hipoglikemia: Gemetar, Kesadaran menurun, Perilaku aneh, Sulit bicara, Berkeringat",
+      "Hiperglikemia: Jumlah urin meningkat"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Diabetes melitus",
+    "Ketoasidosis diabetik",
+    "Hipoglikemia",
+    "Hiperglikemia",
+    "Diabetes gestasional",
+    "Penggunaan kortikosteroid",
+    "Nutrisi parenteral total (TPN)"
+  ]
+},
+  "Menyusui Efektif": {
+  "kodeDiagnosa": "D.0028",
+  "definisi": "Pemberian ASI secara langsung dari payudara kepada bayi dan anak yang dapat memenuhi kebutuhan nutrisi",
+  "penyebab": {
+    "Fisiologis": [
+      "Hormon oksitosin dan prolaktin adekuat",
+      "Payudara membesar, alveoli mulai terisi ASI",
+      "Tidak ada kelainan pada struktur payudara",
+      "Puting menonjol",
+      "Bayi aterm",
+      "Tidak ada kelainan bentuk pada mulut bayi"
+    ],
+    "Situasional": [
+      "Rawat gabung",
+      "Dukungan keluarga dan tenaga kesehatan adekuat",
+      "Faktor budaya"
+    ]
+  },
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Ibu merasa percaya diri selama proses menyusui"
+    ],
+    "objektif": [
+      "Bayi melekat pada payudara ibu dengan benar",
+      "Ibu mampu memposisikan bayi dengan benar",
+      "Miksi bayi lebih dari 8 kali dalam 24 jam",
+      "Berat badan bayi meningkat",
+      "ASI menetes/memancar",
+      "Suplai ASI adekuat",
+      "Puting tidak lecet setelah minggu kedua"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak tersedia",
+    "objektif": [
+      "Bayi tidur setelah menyusui",
+      "Payudara ibu kosong setelah menyusui",
+      "Bayi tidak rewel dan menangis setelah menyusui"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Status kesehatan ibu baik",
+    "Status kesehatan bayi baik"
+  ]
+},
+  "Menyusui Tidak Efektif": {
+  "kodeDiagnosa": "D.0029",
+  "definisi": "Kondisi dimana ibu dan bayi mengalami ketidakpuasan atau kesukaran pada proses menyusui",
+  "penyebab": {
+    "Fisiologis": [
+      "Ketidakadekuatan suplai ASI",
+      "Hambatan pada neonatus (mis. prematuritas, sumbing)",
+      "Anomali payudara (mis. puting yang masuk kedalam)",
+      "Ketidakadekuatan refleks oksitosin",
+      "Ketidakadekuatan refleks menghisap bayi",
+      "Payudara bengkak",
+      "Riwayat operasi payudara",
+      "Kelahiran kembar"
+    ],
+    "Situasional": [
+      "Tidak rawat gabung",
+      "Kurang terpapar informasi tentang pentingnya menyusui dan/atau metode menyusui",
+      "Kurangnya dukungan keluarga",
+      "Faktor budaya"
+    ]
+  },
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Kelelahan maternal",
+      "Kecemasan maternal"
+    ],
+    "objektif": [
+      "Bayi tidak mampu melekat pada payudara ibu",
+      "ASI tidak menetes/memancar",
+      "BAK bayi kurang dari 8 kali dalam 24 jam",
+      "Nyeri dan atau lecet terus menerus setelah minggu kedua"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia",
+    "objektif": [
+      "Intake bayi tidak adekuat",
+      "Bayi menghisap tidak terus menerus",
+      "Bayi menangis saat disusui",
+      "Bayi rewel dan menangis dalam jam-jam pertama setelah menyusui",
+      "Menolak untuk menghisap"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Abses payudara",
+    "Mastitis",
+    "Carpal tunnel syndrome"
+  ],
+  "keterangan": "Carpal tunnel syndrome merupakan salah satu masalah dalam menyusui dimana tangan ibu terasa nyeri dan tidak nyaman. Ibu mengalami kesulitan dalam memposisikan bayinya untuk menyusui."
+},
+  "Obesitas": {
+  "kodeDiagnosa": "D.0030",
+  "definisi": "Akumulasi lemak berlebih atau abnormal yang tidak sesuai dengan usia dan jenis kelamin, serta melampaui kondisi berat badan lebih (overweight)",
+  "penyebab": [
+    "Kurang aktivitas fisik harian",
+    "Kelebihan konsumsi gula",
+    "Gangguan kebiasaan makan",
+    "Gangguan persepsi makan",
+    "Kelebihan konsumsi alkohol",
+    "Penggunaan energi kurang dari asupan",
+    "Sering mengemil",
+    "Sering memakan makanan berminyak/berlemak",
+    "Faktor keturunan (mis. distribusi jaringan adiposa, pengeluaran energi, aktivitas lipase lipoprotein, sintesis lipid, lipolisis)",
+    "Penggunaan makanan formula atau makanan campuran pada bayi",
+    "Asupan kalsium rendah pada anak-anak",
+    "Berat badan bertambah cepat (selama masa anak-anak, selama masa bayi, termasuk minggu pertama, 4 bulan pertama, dan tahun pertama)",
+    "Makanan padat sebagai sumber makanan utama pada usia < 5 bulan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": "Tidak Tersedia",
+    "objektif": [
+      "IMT > 27 Kg/m2 (pada dewasa) atau lebih dari presentil ke 95 untuk usia dan jenis kelamin (pada anak)"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": [
+      "Tebal lipatan kulit trisep > 25 mm"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Gangguan genetik",
+    "Faktor keturunan",
+    "Hipotiroid",
+    "Diabetes melitus maternal"
+  ]
+},
+  "Risiko Berat Badan Lebih": {
+  "kodeDiagnosa": "D.0031",
+  "definisi": "Beresiko mengalami akumulasi lemak berlebih atau abnormal yang tidak sesuai dengan usia dan jenis kelamin",
+  "faktorRisiko": [
+    "Kurang aktivitas fisik harian",
+    "Kelebihan konsumsi gula",
+    "Gangguan kebiasaan makan",
+    "Gangguan persepsi makan",
+    "Kelebihan konsumsi alkohol",
+    "Penggunaan energi kurang dari asupan",
+    "Sering mengemil",
+    "Sering memakan makanan berminyak/berlemak",
+    "Faktor keturunan (mis. distribusi jaringan adiposa, pengeluaran energi, aktivitas lipase lipoprotein, sintesis lipid, lipolisis)",
+    "Penggunaan makanan formula atau makanan campuran pada bayi",
+    "Asupan kalsium rendah pada anak-anak",
+    "Berat badan bertambah cepat (selama masa anak-anak, selama masa bayi, termasuk minggu pertama, 4 bulan pertama, dan tahun pertama)",
+    "Makanan padat sebagai sumber makanan utama pada usia < 5 bulan"
+  ],
+  "kondisiKlinisTerkait": [
+    "Gangguan genetik",
+    "Hipotiroid",
+    "Diabetes melitus gestasional",
+    "Pola hidup kurang aktivitas"
+  ]
+},
+  "Risiko Defisit Nutrisi": {
+  "kodeDiagnosa": "D.0032",
+  "definisi": "Beresiko mengalami asupan nutrisi tidak cukup untuk memenuhi kebutuhan metabolisme",
+  "faktorRisiko": [
+    "Ketidakmampuan menelan makanan",
+    "Ketidakmampuan mencerna makanan",
+    "Ketidakmampuan mengabsorpsi nutrien",
+    "Peningkatan kebutuhan metabolisme",
+    "Faktor ekonomi (mis. finansial tidak mencukupi)",
+    "Faktor psikologis (mis. stress, keengganan untuk makan)"
+  ],
+  "kondisiKlinisTerkait": [
+    "Stroke",
+    "Parkinson",
+    "Mobius syndrome",
+    "Cerebral palsy",
+    "Clept lip",
+    "Clept palate",
+    "Amyotrophic lateral sclerosis",
+    "Kerusakan neuromuscular",
+    "Luka bakar",
+    "Kanker",
+    "Infeksi",
+    "AIDS",
+    "Penyakit Crohn’s",
+    "Enterokolitis",
+    "Fibrosis kistik"
+  ]
+},
+  "Risiko Disfungsi Motilitas Gastrointestinal" : {
+  "kodeDiagnosa": "D.0033",
+  "definisi": "Risiko peningkatan, penurunan atau tidak efektifnya aktivitas peristaltik pada sistem gastrointestinal",
+  "faktorRisiko": [
+    "Pembedahan abdomen",
+    "Penurunan sirkulasi gastrointestinal",
+    "Intoleransi makanan",
+    "Refluks gastrointestinal",
+    "Hiperglikemia",
+    "Imobilitas",
+    "Proses penuaan",
+    "Infeksi gastrointestinal",
+    "Efek agen farmakologis (mis. antibiotik, laksatif, narkotika/opiate)",
+    "Prematuritas",
+    "Kecemasan",
+    "Stress",
+    "Kurangnya sanitasi pada persiapan makanan"
+  ],
+  "kondisiKlinisTerkait": [
+    "Pembedahan abdomen atau usus",
+    "Malnutrisi",
+    "Anemia",
+    "Kecemasan",
+    "Kanker empedu",
+    "Kolesistektomi",
+    "Infeksi pencernaan",
+    "Gastroesophageal Refluks Disease (GERD)",
+    "Dialisis peritoneal",
+    "Terapi radiasi",
+    "Multiple organ dysfunction syndrome"
+  ]
+},
+  "Risiko Hipovolemia" : {
+  "kodeDiagnosa": "D.0034",
+  "definisi": "Beresiko mengalami penurunan volume cairan intravaskuler, interstisial, dan atau intraselular",
+  "faktorRisiko": [
+    "Kehilangan cairan secara aktif",
+    "Gangguan absorbsi cairan",
+    "Usia lanjut",
+    "Kelebihan berat badan",
+    "Status hipermetabolik",
+    "Kegagalan mekanisme regulasi",
+    "Evaporasi",
+    "Kekurangan intake cairan",
+    "Efek agen farmakologis"
+  ],
+  "kondisiKlinisTerkait": [
+    "Penyakit Addison",
+    "Trauma/perdarahan",
+    "Luka bakar",
+    "AIDS",
+    "Penyakit Crohn",
+    "Diare",
+    "Kolitis ulseratif"
+  ]
+},
+  "Risiko Ikterik Neonatus" : {
+  "kodeDiagnosa": "D.0035",
+  "definisi": "Beresiko mengalami kulit dan membran mukosa neonatus menguning setelah 24 jam kelahiran akibat bilirubin tak terkonjugasi masuk kedalam sirkulasi",
+  "faktorRisiko": [
+    "Penurunan berat badan abnormal (>7-8% pada bayi baru lahir yang menyusui ASI, >15% pada bayi cukup bulan)",
+    "Pola makan tidak ditetapkan dengan baik",
+    "Kesulitan transisi ke kehidupan ekstra uterin",
+    "Usia kurang dari 7 hari",
+    "Keterlambatan pengeluaran feses (mekonium)",
+    "Prematuritas (<37 minggu)"
+  ],
+  "kondisiKlinisTerkait": [
+    "Neonatus",
+    "Bayi prematur"
+  ]
+},
+"Risiko Ketidakseimbangan Cairan": {
+  "kodeDiagnosa": "D.0036",
+  "definisi": "Beresiko mengalami penurunan, peningkatan atau percepatan perpindahan cairan dari intravaskuler, interstisial, dan atau intaseluler",
+  "faktorRisiko": [
+    "Prosedur pembedahan mayor",
+    "Trauma/perdarahan",
+    "Luka bakar",
+    "Aferesis",
+    "Asites",
+    "Obstruksi intestinal",
+    "Peradangan pankreas",
+    "Penyakit ginjal dan kelenjar",
+    "Disfungsi intestinal"
+  ],
+  "kondisiKlinisTerkait": [
+    "Prosedur pembedahan mayor",
+    "Penyakit ginjal dan kelenjar",
+    "Perdarahan",
+    "Luka bakar"
+  ]
+},
+"Risiko Ketidakseimbangan Elektrolit" : {
+  "kodeDiagnosa": "D.0036",
+  "definisi": "Beresiko mengalami penurunan, peningkatan atau percepatan perpindahan cairan dari intravaskuler, interstisial, dan atau intaseluler",
+  "faktorRisiko": [
+    "Prosedur pembedahan mayor",
+    "Trauma/perdarahan",
+    "Luka bakar",
+    "Aferesis",
+    "Asites",
+    "Obstruksi intestinal",
+    "Peradangan pankreas",
+    "Penyakit ginjal dan kelenjar",
+    "Disfungsi intestinal"
+  ],
+  "kondisiKlinisTerkait": [
+    "Prosedur pembedahan mayor",
+    "Penyakit ginjal dan kelenjar",
+    "Perdarahan",
+    "Luka bakar"
+  ]
+},
+"Risiko Ketidakseimbangan Kadar Glukosa Darah" : {
+  "kodeDiagnosa": "D.0038",
+  "definisi": "Risiko terhadap variasi kadar glukosa darah dari rentang normal",
+  "faktorRisiko": [
+    "Kurang terpaparnya informasi tentang manajemen diabetes",
+    "Ketidaktepatan pemantauan glukosa darah",
+    "Kurang patuh pada rencana manajemen diabetes",
+    "Manajemen medikasi tidak terkontrol",
+    "Kehamilan",
+    "Periode pertumbuhan cepat",
+    "Stress berlebihan",
+    "Penambahan berat badan",
+    "Kurang dapat menerima diagnosis"
+  ],
+  "kondisiKlinisTerkait": [
+    "Diabetes melitus",
+    "Ketoasidosis diabetik",
+    "Hipoglikemia",
+    "Diabetes gestasional",
+    "Penggunaan kortikosteroid",
+    "Nutrisi parenteral total (TPN)"
+  ]
+},
+"Risiko Syok": {
+  "kodeDiagnosa": "D.0039",
+  "definisi": "Berisiko mengalami ketidakcukupan aliran darah ke jaringan tubuh, yang dapat mengakibatkan disfungsi seluler yang mengancam jiwa",
+  "faktorRisiko": [
+    "Hipoksemia",
+    "Hipoksia",
+    "Hipotensi",
+    "Kekurangan volume cairan",
+    "Sepsis",
+    "Sindrom respon inflamasi sistemik (systemic inflamatory response syndrome [SIRS])"
+  ],
+  "kondisiKlinisTerkait": [
+    "Perdarahan",
+    "Trauma multiple",
+    "Pneumothoraks",
+    "Infark miokard",
+    "Kardiomiopati",
+    "Cedera medula spinalis",
+    "Anafilaksis",
+    "Sepsis",
+    "Koagulasi intravaskuler diseminata",
+    "Sindrom respon inflamasi sistemik (systemic inflamatory response syndrome [SIRS])"
+  ],
+  "keterangan": "Diagnosa ini ditegakkan pada kondisi gawat darurat yang dapat mengancam jiwa dan intervensi diarahkan untuk penyelamatan jiwa."
+},
+"Gangguan Eliminasi Urin" : {
+  "kodeDiagnosa": "D.0040",
+  "definisi": "Disfungsi eliminasi urin",
+  "penyebab": [
+    "Penurunan kapasitas kandung kemih",
+    "Iritasi kandung kemih",
+    "Penurunan kemampuan menyadari tanda-tanda gangguan kandung kemih",
+    "Efek tindakan medis dan diagnostik (mis. operasi ginjal, operasi saluran kemih, anestesi, dan obat-obatan)",
+    "Kelemahan otot pelvis",
+    "Ketidakmampuan mengakses toilet (mis. imobilisasi)",
+    "Hambatan lingkungan",
+    "Ketidakmampuan mengkomunikasikan kebutuhan eliminasi",
+    "Outlet kandung kemih tidak lengkap (mis. anomaly saluran kemih kongenital)",
+    "Imaturitas (pada anak usia <3 tahun)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Desakan berkemih (urgensi)",
+      "Urin menetes (dribbling)",
+      "Sering buang air kecil",
+      "Nokturia",
+      "Mengompol",
+      "Enuresis"
+    ],
+    "objektif": [
+      "Distensi kandung kemih",
+      "Berkemih tidak tuntas (hesitancy)",
+      "Volume residu urin meningkat"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Infeksi ginjal dan saluran kemih",
+    "Hiperglikemi",
+    "Trauma",
+    "Kanker",
+    "Cedera/tumor/infeksi medula spinalis",
+    "Neuropati diabetikum",
+    "Neuropati alkoholik",
+    "Stroke",
+    "Parkinson",
+    "Skeloris multipel",
+    "Obat alpha adrenergik"
+  ],
+  "keterangan": "Diagnosa ini masih bersifat umum untuk ditegakan di klinik, sebaiknya penegakan diagnosis ini lebih spesifik pada inkontinensia atau retensi. Namun diagnosa ini dapat dipergunakan jika perawat belum berhasil mengidentifikasi faktor penyebab inkontinensia dan retensi urin."
+},
+"Inkontinensia Fekal" : {
+  "kodeDiagnosa": "D.0041",
+  "definisi": "Perubahan kebiasaan buang air besar dari pola normal yang ditandai dengan pengeluaran feses secara involunter (tidak disadari)",
+  "penyebab": [
+    "Kerusakan susunan saraf motorik bawah",
+    "Penurunan tonus otot",
+    "Gangguan kognitif",
+    "Penyalahgunaan laksatif",
+    "Kehilangan fungsi pengendalian sfingter rektum",
+    "Pascaoperasi pullthrough dan penutupan kolosomi",
+    "Ketidakmampuan mencapai kamar kecil",
+    "Diare kronis",
+    "Stress berlebihan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Tidak mampu mengontrol pengeluaran feses",
+      "Tidak mampu menunda defekasi",
+      "Feses keluar sedikit-sedikit dan sering"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": [
+      "Bau feses",
+      "Kulit perianal kemerahan"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Spina bifida",
+    "Atresia Ani",
+    "Penyakit Hirschsprung"
+  ]
+},
+"Inkontinensia Urin Berlanjut" : {
+  "kodeDiagnosa": "D.0042",
+  "definisi": "Pengeluaran urin tidak terkendali dan terus-menerus tanpa distensi atau perasaan penuh pada kandung kemih",
+  "penyebab": [
+    "Neuropati arkus refleks",
+    "Disfungsi neurologis",
+    "Kerusakan refleks kontraksi detrusor",
+    "Trauma",
+    "Kerusakan medulla spinalis",
+    "Kelainan anatomis (mis. Fistula)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Keluarnya urin konstan tanpa distensi",
+      "Nokturia lebih dari 2 kali sepanjang tidur"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Berkemih tanpa sadar",
+      "Tidak sadar inkontinesia urin"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Cedera kepala",
+    "Trauma",
+    "Tumor",
+    "Infeksi medula spinalis",
+    "Fistula saluran kemih"
+  ]
+},
+"Inkontinensia Urin Berlebih" : {
+  "kodeDiagnosa": "D.0043",
+  "definisi": "Kehilangan urin tidak terkendali akibat overdistensi kandung kemih",
+  "penyebab": [
+    "Blok spingter",
+    "Kerusakan atau ketidakadekuatan jalur aferen",
+    "Obstruksi jalan keluar (mis.impaksi fekal, efek agen farmakologis)",
+    "Ketidakadekuatan detrusor (mis. pada kondisi stress atau tidak nyaman, deconditioned voiding)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Residu volume urin setelah berkemih atau keluhan kebocoran sedikit urin",
+      "Nokturia"
+    ],
+    "objektif": [
+      "Kandung kemih distensi (bukan berhubungan dengan penyebab reversibel akut) atau kandung kemih distensi dengan sering, sedikit berkemih atau dribbling"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": [
+      "Residu urin 100 ml atau lebih"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Asma",
+    "Alergi",
+    "Penyakit neurologi: cedera/tumor/infeksi medula spinalis",
+    "Cedera kepala",
+    "Sklerosis multipel",
+    "Dimielinisasi saraf",
+    "Neuropati diabetikum",
+    "Neuropati alkohol",
+    "Striktura uretra/leher kandung kemih",
+    "Pembesaran prostat",
+    "Pembengkakan perineal"
+  ]
+},
+"Inkontinensia Urin Fungsional" :{
+  "kodeDiagnosa": "D.0044",
+  "kategori": "Fisiologis",
+  "subkategori": "Eliminasi",
+  "definisi": "Pengeluaran urin tidak terkendali karena kesulitan dan tidak mampu mencapai toilet pada waktu yang tepat",
+  "penyebab": [
+    "Ketidakmampuan atau penurunan mengenali tanda-tanda berkemih",
+    "Penurunan tonus kandung kemih",
+    "Hambatan mobilisasi",
+    "Faktor psikologis: penurunan perhatian pada tanda-tanda keinginan berkemih (depresi, bingung, delirium)",
+    "Hambatan lingkungan (toilet jauh, tempat tidur terlalu tinggi, lingkungan baru)",
+    "Kehilangan sensorik dan motorik (pada geriatri)",
+    "Gangguan penglihatan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengompol sebelum mencapai atau selama usaha mencapai toilet"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Mengompol di waktu pagi hari"
+    ],
+    "objektif": [
+      "Mampu mengosongkan kandung kemih lengkap"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Cedera kepala",
+    "Neuropati alkoholik",
+    "Penyakit Parkinson",
+    "Penyakit demielinisasi",
+    "Sklerosis multipel",
+    "Stroke",
+    "Demensia progresif",
+    "Depresi"
+  ]
+},
+"Inkontinensia Urin Refleks" : {
+  "kodeDiagnosa": "D.0045",
+  "definisi": "Pengeluaran urin tidak terkendali pada saat volume kandung kemih tertentu tercapai",
+  "penyebab": [
+    "Kerusakan konduksi impuls diatas arkus refleks",
+    "Kerusakan jaringan (mis. Terapi radiasi)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Tidak mengalami sensasi berkemih",
+      "Dribbling",
+      "Sering buang air kecil",
+      "Hesitancy",
+      "Nokturia",
+      "Enuresis"
+    ],
+    "objektif": [
+      "Volume urin residu meningkat"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Cedera/tumor/infeksi medulla spinalis",
+    "Cystitis",
+    "Pembedahan pelvis",
+    "Sklerosis multipel",
+    "Kanker kandung kemih atau pelvis",
+    "Penyakit Parkinson",
+    "Demensia"
+  ]
+},
+"Inkontinensia Urine Stress" : {
+  "kodeDiagnosa": "D.0046",
+  "definisi": "Kebocoran urin mendadak dan tidak dapat dikendalikan karena aktivitas yang meningkatkan tekanan intraabdominal",
+  "penyebab": [
+    "Kelemahan intrinsik spinkter uretra",
+    "Perubahan degenerasi/non degenerasi otot pelvis",
+    "Kekurangan estrogen",
+    "Peningkatan tekanan intraabdomen",
+    "Kelemahan otot pelvis"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengeluh keluar urin <50 ml saat tekanan abdominal meningkat (mis. saat berdiri, bersin, tertawa, berlari, atau mengangkat benda berat)"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Pengeluaran urin tidak tuntas",
+      "Urgensi miksi",
+      "Frekuensi berkemih meningkat"
+    ],
+    "objektif": [
+      "Overdistensi abdomen"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Obesitas",
+    "Kehamilan/melahirkan",
+    "Menopause",
+    "Infeksi saluran kemih",
+    "Operasi abdomen",
+    "Operasi prostat",
+    "Penyakit Alzheimer",
+    "Cedera medula spinalis"
+  ]
+},
+"Inkontinensia Urin Urgensi" :{
+  "kodeDiagnosa": "D.0047",
+  "definisi": "Keluarnya urin tidak terkendali sesaat setelah keinginan yang kuat untuk berkemih (kebelet)",
+  "penyebab": [
+    "Iritasi reseptor kontraksi kandung kemih",
+    "Penurunan kapasitas kandung kemih",
+    "Hiperaktivitas detrusor dengan kerusakan kontraktilitas kandung kemih",
+    "Efek agen farmakologis (mis. diuretik)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Keinginan berkemih yang kuat disertai dengan inkontinensia"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Riwayat penyakit peradangan pelvis dan atau vagina",
+    "Riwayat penggunaan kateter urin",
+    "Infeksi kandung kemih dan atau uretra",
+    "Gangguan neurogenik/tumor/infeksi",
+    "Penyakit Parkinson",
+    "Neuropati diabetikum",
+    "Operasi abdomen"
+  ]
+},
+"Kesiapan Peningkatan Eliminasi Urin": {
+  "kodeDiagnosa": "D.0048",
+  "definisi": "Pola fungsi sistem perkemihan yang cukup untuk memenuhi kebutuhan eliminasi yang dapat ditingkatkan",
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengungkapkan keinginan untuk meningkatkan eliminasi urin"
+    ],
+    "objektif": [
+      "Jumlah urin normal",
+      "Karakteristik urin normal"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": [
+      "Asupan cairan cukup"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Cedera medula spinalis",
+    "Sklerosis multipel",
+    "Kehamilan",
+    "Trauma pelvis",
+    "Pembedahan abdomen",
+    "Penyakit prostat"
+  ]
+},
+"Konstipasi": {
+  "kodeDiagnosa": "D.0049",
+  "definisi": "Penurunan defekasi normal yang disertai pengeluaran feses sulit dan tidak tuntas serta feses kering dan banyak",
+  "penyebab": {
+    "fisiologis": [
+      "Penurunan motilitas gastrointestinal",
+      "Ketidakadekuatan pertumbuhan gigi",
+      "Ketidakcukupan diet",
+      "Ketidakcukupan asupan serat",
+      "Ketidakcukupan asupan cairan",
+      "Aganglionik (mis. penyakit Hirschsprung)",
+      "Kelemahan otot abdomen"
+    ],
+    "psikologis": [
+      "Konfusi",
+      "Depresi",
+      "Gangguan emosional"
+    ],
+    "situasional": [
+      "Perubahan kebiasaan makan (mis. jenis makanan, jadwal makan)",
+      "Ketidakadekuatan toileting",
+      "Aktivitas fisik harian kurang dari yang dianjurkan",
+      "Penyalahgunaan laksatif",
+      "Efek agen farmakologis",
+      "Ketidakteraturan kebiasaan defekasi",
+      "Kebiasaan menahan dorongan defekasi",
+      "Perubahan lingkungan"
+    ]
+  },
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Defekasi kurang dari 2 kali seminggu",
+      "Pengeluaran feses lama dan sulit",
+      "Feses keras"
+    ],
+    "objektif": [
+      "Peristaltik usus menurun"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Mengejan saat defekasi"
+    ],
+    "objektif": [
+      "Distensi abdomen",
+      "Kelemahan umum",
+      "Teraba massa pada rektal"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Lesi/cedera pada medulla spinalis",
+    "Spina bifida",
+    "Stroke",
+    "Sklerosis multipel",
+    "Penyakit Parkinson",
+    "Demensia",
+    "Hiperparatiroidisme",
+    "Hipoparatiroidisme",
+    "Ketidakseimbangan elektrolit",
+    "Hemoroid",
+    "Obesitas",
+    "Pasca operasi obstruksi bowel",
+    "Kehamilan",
+    "Pembesaran prostat",
+    "Abses rektal",
+    "Fisura anorektal",
+    "Striktura anorektal",
+    "Prolapse rektal",
+    "Ulkus rektal",
+    "Rektokel",
+    "Tumor",
+    "Penyakit Hirschsprung",
+    "Impaksi feses"
+  ]
+},
+"Retensi Urin": {
+  "kodeDiagnosa": "D.0050",
+  "definisi": "Pengosongan kandung kemih yang tidak lengkap",
+  "penyebab": [
+    "Peningkatan tekanan uretra",
+    "Kerusakan arkus refleks",
+    "Blok spingter",
+    "Disfungsi neurologis (mis. trauma, penyakit saraf)",
+    "Efek agen farmakologis (mis. atropine, belladonna, psikotropik, antihistamin, opiate)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Sesasi penuh pada kandung kemih",
+      "Dysuria/anuria"
+    ],
+    "objektif": [
+      "Distensi kandung kemih"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Dribbling",
+      "Inkontinensia berlebih"
+    ],
+    "objektif": [
+      "Residu urin 150 ml atau lebih"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Benigna prostat hiperplasia",
+    "Pembengkakan perineal",
+    "Cedera medula spinalis",
+    "Rektokel",
+    "Tumor di saluran kemih"
+  ]
+},
+"Risiko Inkontinensia Urin Urgensi" : {
+  "kodeDiagnosa": "D.0051",
+  "definisi": "Berisiko mengalami pengeluaran urin yang tidak terkendali",
+  "faktorRisiko": [
+    "Efek samping obat, kopi dan alkohol",
+    "Hiperrefleks detrussor",
+    "Gangguan sistem saraf pusat",
+    "Kerusakan kontraksi kandung kemih: relaksasi spingter tidak terkendali",
+    "Ketidakefektifan kebiasaan berkemih",
+    "Kapasitas kandung kemih kecil"
+  ],
+  "kondisiKlinisTerkait": [
+    "Infeksi/tumor/batu saluran kemih dan atau ginjal",
+    "Gangguan sistem saraf pusat"
+  ]
+},
+"Risiko Konstipasi": {
+  "kodeDiagnosa": "D.0052",
+  "definisi": "Berisiko mengalami penurunan frekuensi normal defekasi disertai kesulitan dan pengeluaran feses tidak lengkap",
+  "penyebab": {
+    "fisiologis": [
+      "Penurunan motilitas gastrointestinal",
+      "Pertumbuhan gigi tidak adekuat",
+      "Ketidakcukupan diet",
+      "Ketidakcukupan asupan serat",
+      "Ketidakcukupan asupan cairan",
+      "Aganglionik (mis. penyakit Hirschsprung)",
+      "Kelemahan otot abdomen"
+    ],
+    "psikologis": [
+      "Konfusi",
+      "Depresi",
+      "Gangguan emosional"
+    ],
+    "situasional": [
+      "Perubahan kebiasaan makan (mis. jenis makanan, jadwal makan)",
+      "Ketidakadekuatan toileting",
+      "Aktivitas fisik harian kurang dari yang dianjurkan",
+      "Penyalahgunaan laksatif",
+      "Efek agen farmakologis",
+      "Ketidakteraturan kebiasaan defekasi",
+      "Kebiasaan menahan dorongan defekasi",
+      "Perubahan lingkungan"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Lesi/cedera pada medula spinalis",
+    "Spina bifida",
+    "Stroke",
+    "Sklerosis multipel",
+    "Penyakit Parkinson",
+    "Demensia",
+    "Hiperparatiroidisme",
+    "Hipoparatiroidisme"
+  ]
+},
+"Disorganisasi Perilaku Bayi": {
+  "kodeDiagnosa": "D.0053",
+  "definisi": "Disintegrasi respon fisiologis dan neurobehaviour bayi terhadap lingkungan",
+  "penyebab": [
+    "Keterbatasan lingkungan fisik",
+    "Ketidaktepatan sensori",
+    "Kelebihan stimulasi sensorik",
+    "Imaturitas sistem sensoris",
+    "Prematuritas",
+    "Prosedur invasif",
+    "Malnutrisi",
+    "Gangguan motorik",
+    "Kelainan kongenital",
+    "Kelainan genetik",
+    "Terpapar teratogenik"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": [
+      "Hiperekstensi ekstremitas",
+      "Jari-jari meregang atau tangan menggenggam",
+      "Respon abnormal terhadap stimulus sensorik",
+      "Gerakan tidak terkoordinasi"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": [
+      "Menangis",
+      "Tidak mampu menghambat respon terkejut",
+      "Iritabilitas",
+      "Gangguan refleks",
+      "Tonus motorik berubah",
+      "Tangan di wajah",
+      "Gelisah",
+      "Tremor",
+      "Tersentak",
+      "Aritmia",
+      "Bradikardia atau takikardia",
+      "Saturasi menurun",
+      "Tidak mau menyusu",
+      "Warna kulit berubah"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Hospitalisasi",
+    "Prosedur invasif",
+    "Prematuritas",
+    "Gangguan neurologis",
+    "Gangguan pernapasan",
+    "Gangguan kardiovaskuler"
+  ]
+},
+"Gangguan Mobilitas Fisik": {
+  "kodeDiagnosa": "D.0054",
+  "definisi": "Keterbatasan dalam gerakan fisik dari satu atau lebih ekstremitas secara mandiri",
+  "penyebab": [
+    "Kerusakan integritas struktur tulang",
+    "Perubahan metabolisme",
+    "Ketidakbugaran fisik",
+    "Penurunan kendali otot",
+    "Penurunan massa otot",
+    "Penurunan kekuatan otot",
+    "Keterlambatan perkembangan",
+    "Kekakuan sendi",
+    "Kontraktur",
+    "Malnutrisi",
+    "Gangguan muskuloskeletal",
+    "Gangguan neuromuskuler",
+    "Indeks masa tubuh di atas persentil ke-75 sesuai usia",
+    "Efek agen farmakologis",
+    "Program pembatasan gerak",
+    "Nyeri",
+    "Kurang terpapar informasi tentang aktivitas fisik",
+    "Kecemasan",
+    "Gangguan kognitif",
+    "Keengganan melakukan pergerakan",
+    "Gangguan sensoripersepsi"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengeluh sulit menggerakan ekstremitas"
+    ],
+    "objektif": [
+      "Kekuatan otot menurun",
+      "Rentang gerak (ROM) menurun"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Nyeri saat bergerak",
+      "Enggan melakukan pergerakan",
+      "Merasa cemas saat bergerak"
+    ],
+    "objektif": [
+      "Sendi kaku",
+      "Gerakan tidak terkoordinasi",
+      "Gerakan terbatas",
+      "Fisik lemah"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Stroke",
+    "Cedera medula spinalis",
+    "Trauma",
+    "Fraktur",
+    "Osteoarthritis",
+    "Osteomalasia",
+    "Keganasan"
+  ]
+},
+"Gangguan Pola Tidur": {
+  "kodeDiagnosa": "D.0055",
+  "definisi": "Gangguan kualitas dan kuantitas waktu tidur akibat faktor eksternal",
+  "penyebab": [
+    "Hambatan lingkungan (mis. kelembapan lingkungan sekitar, suhu lingkungan, pencahayaan, kebisingan, bau tidak sedap, jadwal pemantauan/pemeriksaan/tindakan)",
+    "Kurang kontrol tidur",
+    "Kurang privasi",
+    "Restraint fisik",
+    "Ketiadaan teman tidur",
+    "Tidak familiar dengan peralatan tidur"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengeluh sulit tidur",
+      "Mengeluh sering terjaga",
+      "Mengeluh tidak puas tidur",
+      "Mengeluh pola tidur berubah",
+      "Mengeluh istirahat tidak cukup"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Mengeluh kemampuan beraktivitas menurun"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Nyeri/kolik",
+    "Hipertiroidisme",
+    "Kecemasan",
+    "Penyakit paru obstruktif kronis",
+    "Kehamilan",
+    "Periode pasca partum",
+    "Kondisi pasca operasi"
+  ]
+},
+"Intoleransi Aktivitas": {
+  "kodeDiagnosa": "D.0056",
+  "definisi": "Ketidakcukupan energi untuk melakukan aktivitas sehari-hari",
+  "penyebab": [
+    "Ketidakseimbangan antara suplai dan kebutuhan oksigen",
+    "Tirah baring",
+    "Kelemahan",
+    "Imobilitas",
+    "Gaya hidup monoton"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengeluh lelah"
+    ],
+    "objektif": [
+      "Frekuensi jantung meningkat >20% dari kondisi istirahat"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Dispnea saat/setelah aktivitas",
+      "Merasa tidak nyaman setelah beraktivitas",
+      "Merasa lemah"
+    ],
+    "objektif": [
+      "Tekanan darah berubah >20% dari kondisi istirahat",
+      "Gambaran EKG menunjukkan aritmia saat/setelah aktivitas",
+      "Gambaran EKG menunjukkan iskemia",
+      "Sianosis"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Anemia",
+    "Gagal jantung kongestif",
+    "Penyakit jantung koroner",
+    "Penyakit katup jantung",
+    "Aritmia",
+    "Penyakit paru obstruktif kronis (PPOK)",
+    "Gangguan metabolik",
+    "Gangguan muskuloskeletal"
+  ]
+},
+"Keletihan": {
+  "kodeDiagnosa": "D.0057",
+  "definisi": "Penurunan kapasitas kerja fisik dan mental yang tidak pulih dengan istirahat",
+  "penyebab": [
+    "Gangguan tidur",
+    "Gaya hidup monoton",
+    "Kondisi fisiologis (mis. penyakit kronis, penyakit terminal, anemia, malnutrisi, kehamilan)",
+    "Program perawatan/pengobatan jangka panjang",
+    "Peristiwa hidup negatif",
+    "Stres berlebihan",
+    "Depresi"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Merasa energi tidak pulih walaupun telah tidur",
+      "Merasa kurang tenaga",
+      "Mengeluh lelah",
+      "Tidak mampu mempertahankan aktivitas rutin"
+    ],
+    "objektif": [
+      "Tampak lesu"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Merasa bersalah akibat tidak mampu menjalankan tanggung jawab",
+      "Libido menurun",
+      "Kebutuhan istirahat meningkat"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Anemia",
+    "Kanker",
+    "Hipotiroidisme/hipertiroidisme",
+    "AIDS",
+    "Depresi",
+    "Menopause"
+  ],
+  "keterangan": "Diagnosis keletihan merupakan perasaan subjektif yang tidak teratasi dengan istirahat dan intervensi keperawatan tidak difokuskan untuk meningkatkan daya tahan beraktivitas (endurance), melainkan untuk membantu klien beradaptasi dengan kondisi yang dialaminya. Sedangkan, intoleransi aktivitas difokuskan untuk meningkatkan toleransi dan daya tahan beraktivitas klien."
+},
+
+  "Kesiapan Peningkatan Tidur": {
+    "kodeDiagnosa": "D.0058",
+    "namaDiagnosa": "Kesiapan Peningkatan Tidur",
+    "definisi": "Pola penurunan kesadaran alamiah dan periodik yang memungkinkan istirahat adekuat, mempertahankan gaya hidup yang diinginkan dan dapat ditingkatkan",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengekspresikan keinginan untuk meningkatkan tidur",
+        "Mengekspresikan perasaan cukup istirahat setelah tidur"
+      ],
+      "objektif": [
+        "Jumlah waktu tidur sesuai dengan pertumbuhan perkembangan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Tidak menggunakan obat tidur"
+      ],
+      "objektif": [
+        "Menerapkan rutinitas tidur yang meningkatkan kebiasaan tidur"]
+    },
+    "kondisiKlinisTerkait": [
+      "Pemulihan pada pasca operasi",
+      "Nyeri kronis",
+      "Kehamilan (periode prenatal/postnatal)",
+      "Sleep apnea"
+    ]
+  },
+  "Risiko Disorganisasi Perilaku Bayi": {
+    "kodeDiagnosa": "D.0059",
+    "namaDiagnosa": "Risiko Disorganisasi Perilaku Bayi",
+    "definisi": "Berisiko mengalami disintegrasi respon fisiologis dan neurobehaviour bayi terhadap lingkungan",
+    "faktorRisiko": [
+      "Kelebihan stimulasi sensorik",
+      "Prematuritas",
+      "Prosedur invasif",
+      "Gangguan motorik",
+      "Kelainan kongenital",
+      "Kelainan genetik"
+    ],
+    "kondisiKlinisTerkait": [
+      "Hospitalisasi",
+      "Prosedur invasif",
+      "Prematuritas",
+      "Gangguan neurologis",
+      "Gangguan pernapasan",
+      "Gangguan kardiovaskuler"
+    ]
+},
+  "Risiko Intoleransi Aktivitas": {
+    "kodeDiagnosa": "D.0060",
+    "namaDiagnosa": "Risiko Intoleransi Aktivitas",
+    "definisi": "Berisiko mengalami ketidakcukupan energi untuk melakukan aktivitas sehari-hari",
+    "faktorRisiko": [
+      "Gangguan sirkulasi",
+      "Ketidakbugaran status fisik",
+      "Riwayat intoleransi aktivitas sebelumnya",
+      "Tidak berpengalaman dengan suatu aktivitas",
+      "Gangguan pernapasan"
+    ],
+    "kondisiKlinisTerkait": [
+      "Anemia",
+      "Gagal jantung kongestif",
+      "Penyakit katup jantung",
+      "Aritmia",
+      "Penyakit paru obstruktif kronis (PPOK)",
+      "Gangguan metabolik",
+      "Gangguan muskuloskeletal"
+    ]
+  },
+    "Disrefleksia Otonom":{
+    "kodeDiagnosa": "D.0061",
+    "namaDiagnosa": "Disrefleksia Otonom",
+    "definisi": "Respon sistem saraf simpatis yang terjadi secara spontan dan mengancam jiwa terhadap stimulus berbahaya akibat cedera medula spinalis pada T7 atau diatasnya",
+    "penyebab": [
+      "Cedera pada medula spinalis",
+      "Pembedahan medula spinalis T7 atau diatasnya",
+      "Proses keganasan pada medula spinalis"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Sakit kepala"
+      ],
+      "objektif": [
+        "Tekanan darah sistolik meningkat >20%",
+        "Bercak merah pada kulit diatas lokasi cedera",
+        "Diaforesis diatas lokasi cedera",
+        "Pucat dibawah lokasi cedera",
+        "Bradikardia dan atau takikardia"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Nyeri dada",
+        "Pandangan kabur",
+        "Sensasi logam di mulut",
+        "Kongesti konjungtiva",
+        "Kongesti nasal",
+        "Parestesia"
+      ],
+      "objektif": [
+        "Menggigil",
+        "Sindrom horner",
+        "Refleks pilomotorik",
+        "Dilatasi pupil",
+        "Penile erection",
+        "Semen emission"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Cedera medula spinalis",
+      "Fraktur",
+      "Trombosis vena dalam"
+    ]
+  },
+"Gangguan Memori": {
+    "kodeDiagnosa": "D.0062",
+    "namaDiagnosa": "Gangguan Memori",
+    "definisi": "Ketidakmampuan mengingat beberapa informasi atau perilaku",
+    "penyebab": [
+        "Ketidakadekuatan stimulasi intelektual",
+        "Gangguan sirkulasi ke otak",
+        "Gangguan volume cairan dan/atau elektrolit",
+        "Proses penuaan",
+        "Hipoksia",
+        "Gangguan neurologis (mis. EEG positif, cedera kepala, gangguan kejang)",
+        "Efek agen farmakologis",
+        "Penyalahgunaan zat",
+        "Faktor psikologis (mis. kecemasan, depresi, stres berlebihan, berduka, gangguan tidur)",
+        "Distraksi lingkungan"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Melaporkan pernah mengalami pengalaman lupa",
+            "Tidak mampu mempelajari keterampilan baru",
+            "Tidak mampu mengingat informasi faktual",
+            "Tidak mampu mengingat perilaku tertentu yang pernah dilakukan",
+            "Tidak mampu mengingat peristiwa"
+        ],
+        "objektif": "Tidak mampu melakukan kemampuan yang dipelajari sebelumnya"
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Lupa melakukan perilaku pada waktu yang telah dijadwalkan",
+            "Merasa mudah lupa"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "kondisiKlinisTerkait": [
+        "Stroke",
+        "Cedera kepala",
+        "Kejang",
+        "Penyakit Alzheimer",
+        "Depresi",
+        "Intoksikasi alkohol",
+        "Penyalahgunaan zat"
+    ]
+},
+"Gangguan Menelan": {
+    "kodeDiagnosa": "D.0063",
+    "namaDiagnosa": "Gangguan Menelan",
+    "definisi": "Fungsi menelan abnormal akibat defisit struktur atau fungsi oral, faring, atau esofagus",
+    "penyebab": [
+        "Gangguan serebrovaskular",
+        "Gangguan saraf kranialis",
+        "Paralisis serebral",
+        "Akalasia",
+        "Abnormalitas laring",
+        "Abnormalitas orofaring",
+        "Anomali jalan napas atas",
+        "Defek anatomik kongenital",
+        "Defek laring",
+        "Defek nasal",
+        "Defek rongga nasofaring",
+        "Defek trakea",
+        "Refluks gastroesofagus",
+        "Obstruksi mekanis",
+        "Prematuritas"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengeluh sulit menelan",
+            "Batuk sebelum menelan",
+            "Batuk setelah makan atau minum",
+            "Tersedak"
+        ],
+        "objektif": [
+            "Makanan tertinggal di rongga mulut"
+        ]
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Bolus masuk terlalu cepat",
+            "Refluks nasal",
+            "Tidak mampu membersihkan rongga mulut",
+            "Makanan jatuh dari mulut",
+            "Makanan terdorong keluar dari mulut",
+            "Sulit mengunyah",
+            "Muntah sebelum menelan",
+            "Bolus terbentuk lama",
+            "Waktu makan lama",
+            "Porsi makanan tidak habis",
+            "Fase oral abnormal",
+            "Mengiler",
+            "Menolak makan",
+            "Mengeluh bangun di malam hari",
+            "Nyeri epigastrik"
+        ],
+        "objektif": [
+            "Muntah",
+            "Posisi kepala kurang elevasi",
+            "Menelan berulang-ulang",
+            "Hematemesis",
+            "Gelisah",
+            "Regurgitasi",
+            "Odinofagia",
+            "Bruksisme"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Stroke",
+        "Distrofi muskuler",
+        "Poliomielitis",
+        "Cerebral palsy",
+        "Penyakit Parkinson",
+        "Guillain Barre Syndrome",
+        "Myastenia gravis",
+        "Amyotropic lateral sclerosis",
+        "Neoplasma otak",
+        "Paralisis pita suara",
+        "Kerusakan saraf kranialis V, VII, IX, X, XI",
+        "Esofagitis"
+    ]
+},
+"Konfusi Akut": {
+    "kodeDiagnosa": "D.0064",
+    "namaDiagnosa": "Konfusi Akut",
+    "definisi": "Gangguan kesadaran, perhatian, kognitif, dan persepsi yang reversibel, berlangsung tiba-tiba dan singkat",
+    "penyebab": [
+        "Delirium",
+        "Demensia",
+        "Fluktuasi siklus tidur-bangun",
+        "Usia lebih dari 60 tahun",
+        "Penyalahgunaan zat"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Kurang motivasi untuk memulai/ menyelesaikan perilaku berorientasi tujuan"
+        ],
+        "objektif": [
+            "Kurang motivasi untuk memulai/ menyelesaikan perilaku terarah",
+            "Fluktuasi fungsi kognitif",
+            "Fluktuasi tingkat kesadaran",
+            "Fluktuasi aktivitas psikomotorik"
+        ]
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Salah persepsi",
+            "Halusinasi"
+        ],
+        "objektif": [
+            "Gelisah"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Cedera kepala",
+        "Stroke",
+        "Penyakit Alzheimer",
+        "Penyalahgunaan zat",
+        "Demensia",
+        "Delirium"
+    ]
+},
+"Konfusi Kronis": {
+    "kodeDiagnosa": "D.0065",
+    "kategori": "Fisiologis",
+    "subkategori": "Neurosensori",
+    "namaDiagnosa": "Konfusi Kronis",
+    "definisi": "Gangguan kesadaran, perhatian, kognitif, dan persepsi yang ireversibel, berlangsung lama, dan/atau progresif",
+    "penyebab": [
+        "Cedera otak (mis. kerusakan serebrovaskuler, penyakit neurologis, trauma, tumor)",
+        "Psikosis Korsakoff",
+        "Demensia multi infark"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Kurang motivasi untuk memulai/ menyelesaikan perilaku berorientasi tujuan",
+            "Kurang motivasi untuk memulai/ menyelesaikan perilaku terarah"
+        ],
+        "objektif": [
+            "Fungsi kognitif berubah progresif",
+            "Memori jangka pendek dan/atau panjang berubah",
+            "Interpretasi berubah",
+            "Fungsi sosial terganggu",
+            "Respon terhadap stimulus berubah"
+        ]
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Salah persepsi"
+        ],
+        "objektif": [
+            "Gangguan otak organik"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Cedera kepala",
+        "Tumor otak",
+        "Stroke",
+        "Penyakit Alzheimer",
+        "Penyalahgunaan zat",
+        "Demensia multi infark"
+    ]
+},
+"Penurunan Kapasitas Adaptif Intrakranial": {
+    "kodeDiagnosa": "D.0066",
+    "namaDiagnosa": "Penurunan Kapasitas Adaptif Intrakranial",
+    "definisi": "Gangguan mekanisme dinamika intrakranial dalam melakukan kompensasi terhadap stimulus yang dapat menurunkan kapasitas intrakranial",
+    "penyebab": [
+        "Lesi menempati ruang (mis. space-occupying lesion – akibat tumor, abses)",
+        "Gangguan metabolisme (mis. akibat hiponatremia, ensefalopati uremikum, ensefalopati hepatikum, ketoasidosis diabetik, septikemia)",
+        "Edema serebral (mis. akibat cedera kepala [hematoma epidural, hematoma subdural, hematoma subarachnoid, hematoma intraserebral], stroke iskemik, stroke hemoragik, hipoksia, ensefalopati iskemik, pascaoperasi)",
+        "Peningkatan tekanan vena (mis. akibat trombosis sinus vena serebral, gagal jantung, trombosis/obstruksi vena jugularis atau vena kava superior)",
+        "Obstruksi aliran cairan serebrospinalis (mis. hidrosefalus)",
+        "Hipertensi intrakranial idiopatik"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Sakit kepala"
+        ],
+        "objektif": [
+            "Tekanan darah meningkat dengan tekanan nadi (pulse pressure) melebar",
+            "Bradikardia",
+            "Pola napas ireguler",
+            "Tingkat kesadaran menurun",
+            "Respon pupil melambat atau tidak sama",
+            "Refleks neurologis terganggu"
+        ]
+    },
+    "gejalaTandaMinor": {
+        "subjektif": "Tidak Tersedia.",
+        "objektif": [
+            "Gelisah",
+            "Agitasi",
+            "Muntah (tanpa disertai mual)",
+            "Tampak lesu/lemah",
+            "Fungsi kognitif terganggu",
+            "Tekanan intrakranial (TIK) ≥ 20 mmHg",
+            "Papilledema",
+            "Postur deserebrasi (ekstensi)",
+            "Postur dekortikasi (fleksi)"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Cedera kepala",
+        "Iskemik serebral",
+        "Tumor serebral",
+        "Hidrosefalus",
+        "Hematoma kranial",
+        "Pembentukan arteriovenous",
+        "Edema vasogenik atau sitotoksik serebral",
+        "Hiperemia",
+        "Obstruksi aliran vena"
+    ]
+},
+"Risiko Disfungsi Neurovaskuler Perifer": {
+    "kodeDiagnosa": "D.0067",
+    "namaDiagnosa": "Risiko Disfungsi Neurovaskuler Perifer",
+    "definisi": "Berisiko mengalami gangguan sirkulasi, sensasi, dan pergerakan pada ekstremitas",
+    "faktorRisiko": [
+        "Hiperglikemia",
+        "Obstruksi vaskuler",
+        "Fraktur",
+        "Imobilisasi",
+        "Penekanan mekanis (mis. torniket, gips, balutan, restraint)",
+        "Pembedahan ortopedi",
+        "Trauma",
+        "Luka bakar"
+    ],
+    "kondisiKlinisTerkait": [
+        "Diabetes melitus",
+        "Obstruksi vaskuler",
+        "Fraktur",
+        "Pembedahan ortopedi",
+        "Trauma",
+        "Luka bakar"
+    ]
+},
+"Risiko Konfusi Akut": {
+    "kodeDiagnosa": "D.0068",
+    "namaDiagnosa": "Risiko Konfusi Akut",
+    "definisi": "Risiko mengalami gangguan kesadaran, perhatian, kognisi, dan persepsi yang reversibel dan terjadi dalam periode waktu singkat",
+    "faktorRisiko": [
+        "Usia di atas 60 tahun",
+        "Perubahan fungsi kognitif",
+        "Perubahan siklus tidur-bangun",
+        "Dehidrasi",
+        "Demensia",
+        "Riwayat stroke",
+        "Gangguan fungsi metabolik (mis. azotemia, penurunan hemoglobin, ketidakseimbangan elektrolit, peningkatan nitrogen urea darah (BUN)/kreatinin)",
+        "Gangguan mobilitas",
+        "Penggunaan restrain yang tidak tepat",
+        "Infeksi",
+        "Malnutrisi",
+        "Nyeri",
+        "Efek agen farmakologis",
+        "Deprivasi sensori",
+        "Penyalahgunaan zat"
+    ],
+    "kondisiKlinisTerkait": [
+        "Cedera kepala",
+        "Stroke",
+        "Penyakit Alzheimer",
+        "Penyalahgunaan zat",
+        "Demensia"
+    ]
+},
+"Disfungsi Seksual": {
+    "kodeDiagnosa": "D.0069",
+    "namaDiagnosa": "Disfungsi Seksual",
+    "definisi": "Perubahan fungsi seksual selama fase respon seksual berupa hasrat, terangsang, orgasme, dan atau relaksasi yang dirasa tidak memuaskan, tidak bermakna atau tidak adekuat",
+    "penyebab": [
+        "Perubahan fungsi/struktur tubuh (mis. kehamilan, baru melahirkan, obat-obatan, pembedahan, anomali, proses penyakit, trauma, radiasi)",
+        "Perubahan biopsikososial seksualitas",
+        "Ketiadaan model peran",
+        "Model peran tidak dapat mempengaruhi",
+        "Kurang privasi",
+        "Ketiadaan pasangan",
+        "Kesalahan informasi",
+        "Kelainan seksual (mis. hubungan penuh kekerasan)",
+        "Konflik nilai",
+        "Penganiayaan fisik (mis. kekerasan dalam rumah tangga)",
+        "Kurang terpapar informasi"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengungkapkan aktivitas seksual berubah",
+            "Mengungkapkan eksitasi seksual berubah",
+            "Merasa hubungan seksual tidak memuaskan",
+            "Mengungkapkan peran seksual berubah",
+            "Mengeluhkan hasrat seksual menurun",
+            "Mengungkapkan fungsi seksual berubah",
+            "Mengeluh nyeri saat berhubungan seksual (dispareunia)"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Mengungkapkan ketertarikan pada pasangan berubah",
+            "Mengeluh hubungan seksual terbatas",
+            "Mencari informasi tentang kemampuan mencapai kepuasan seksual"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "kondisiKlinisTerkait": [
+        "Gangguan endokrin, perkemihan, neuromuskuler, muskuloskeletal, kardiovaskuler",
+        "Trauma genital",
+        "Pembedahan pelvis",
+        "Kanker",
+        "Menopause",
+        "Gangguan psikiatrik seperti mania, depresi berat, demensia, gangguan kepribadian, penyalahgunaan atau penggunaan zat, gangguan kecemasan, dan schizophrenia"
+    ]
+},
+"Kesiapan Persalinan": {
+    "kodeDiagnosa": "D.0070",
+    "namaDiagnosa": "Kesiapan Persalinan",
+    "definisi": "Pola mempersiapkan, mempertahankan dan memperkuat proses kehamilan dan persalinan serta perawatan bayi baru lahir",
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Menyatakan keinginan untuk menerapkan gaya hidup yang tepat untuk persalinan",
+            "Menyatakan keinginan untuk menerapkan penatalaksanaan gejala ketidaknyamanan selama persalinan",
+            "Menyatakan rasa percaya diri menjalani persalinan"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "gejalaTandaMinor": {
+        "subjektif": "Tidak Tersedia.",
+        "objektif": [
+            "Menunjukan perilaku proaktif selama persiapan persalinan"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Status kesehatan ibu sehat",
+        "Status kesehatan janin sehat"
+    ]
+},
+"Pola Seksual Tidak Efektif": {
+    "kodeDiagnosa": "D.0071",
+    "namaDiagnosa": "Pola Seksual Tidak Efektif",
+    "definisi": "Kekhawatiran individu melakukan hubungan seksual yang berisiko menyebabkan perubahan kesehatan",
+    "penyebab": [
+        "Kurang privasi",
+        "Ketiadaan pasangan",
+        "Konflik orientasi seksual",
+        "Ketakutan hamil",
+        "Ketakutan terinfeksi penyakit menular seksual",
+        "Hambatan hubungan dengan pasangan",
+        "Kurang terpapar informasi tentang seksualitas"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengeluh sulit melakukan aktivitas seksual",
+            "Mengungkapkan aktivitas seksual berubah",
+            "Mengungkapkan perilaku seksual berubah",
+            "Orientasi seksual berubah"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Mengungkapkan hubungan dengan pasangan berubah",
+            "Konflik nilai"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "kondisiKlinisTerkait": [
+        "Mastektomi",
+        "Histerektomi",
+        "Kanker",
+        "Kondisi yang menyebabkan paralisis",
+        "Penyakit menular seksual (mis. sifilis, gonore, AIDS)"
+    ]
+},
+"Risiko Disfungsi Seksual": {
+    "kodeDiagnosa": "D.0072",
+    "namaDiagnosa": "Risiko Disfungsi Seksual",
+    "definisi": "Berisiko mengalami perubahan fungsi seksual selama fase respon seksual berupa hasrat, terangsang, orgasme, dan relaksasi yang dipandang tidak memuaskan, tidak bermakna atau tidak adekuat",
+    "penyebab": {
+        "biologis": [
+            "Gangguan neurologi",
+            "Gangguan urologi",
+            "Gangguan endokrin",
+            "Keganasan",
+            "Faktor ginekologi (mis. kehamilan, pasca persalinan)",
+            "Efek agen farmakologis"
+        ],
+        "psikologis": [
+            "Depresi",
+            "Kecemasan",
+            "Penganiayaan psikologis/ seksual",
+            "Penyalahgunaan obat/ zat"
+        ],
+        "situasional": [
+            "Konflik hubungan",
+            "Kurangnya privasi",
+            "Pola seksual pasangan menyimpang",
+            "Ketiadaan pasangan",
+            "Ketidakadekuatan edukasi",
+            "Konflik nilai personal dalam keluarga, budaya, dan agama"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Diabetes melitus",
+        "Penyakit jantung (mis. hipertensi, penyakit jantung koroner)",
+        "Penyakit paru (mis. TB, PPOK, asma)",
+        "Stroke",
+        "Kehamilan",
+        "Kanker",
+        "Gangguan endokrin, perkemihan, neuromuskuler, muskuloskeletal, kardiovaskuler",
+        "Trauma genital",
+        "Pembedahan pelvis",
+        "Menopause"
+    ]
+},
+"Risiko Kehamilan Tidak Dikehendaki": {
+    "kodeDiagnosa": "D.0073",
+    "namaDiagnosa": "Risiko Kehamilan Tidak Dikehendaki",
+    "definisi": "Berisiko mengalami kehamilan yang tidak diharapkan baik karena alasan waktu yang tidak tepat atau karena kehamilan tidak diinginkan",
+    "faktorRisiko": [
+        "Pemerkosaan",
+        "Hubungan seksual sedarah (incest)",
+        "Gangguan jiwa",
+        "Kegagalan penggunaan alat kontrasepsi",
+        "Kekerasan dalam rumah tangga (KDRT)",
+        "Tidak menggunakan alat kontrasepsi",
+        "Faktor sosial-ekonomi"
+    ],
+    "kondisiKlinisTerkait": [
+        "Penyakit menular seksual",
+        "Gangguan jiwa",
+        "Kegagalan penggunaan alat kontrasepsi",
+        "Kekerasan dalam rumah tangga (KDRT)"
+    ]
+},
+"Gangguan Rasa Nyaman": {
+    "kodeDiagnosa": "D.0074",
+    "namaDiagnosa": "Gangguan Rasa Nyaman",
+    "definisi": "Perasaan kurang senang, lega dan sempurna dalam dimensi fisik, psikospiritual, lingkungan dan sosial",
+    "penyebab": [
+        "Gejala penyakit",
+        "Kurang pengendalian situasional/lingkungan",
+        "Ketidakadekuatan sumber daya (mis. dukungan finansial, sosial, dan pengetahuan)",
+        "Kurangnya privasi",
+        "Gangguan stimulus lingkungan",
+        "Efek samping terapi (mis. medikasi, radiasi, kemoterapi)",
+        "Gangguan adaptasi kehamilan"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengeluh tidak nyaman",
+            "Gelisah"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Mengeluh sulit tidur",
+            "Tidak mampu rileks",
+            "Mengeluh kedinginan/ kepanasan",
+            "Merasa gatal",
+            "Mengeluh mual",
+            "Mengeluh lelah",
+            "Menunjukan gejala distres"
+        ],
+        "objektif": [
+            "Tampak merintih atau menangis",
+            "Pola eliminasi berubah",
+            "Postur tubuh berubah",
+            "Iritabilitas"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Penyakit kronis",
+        "Keganasan",
+        "Distres psikologis",
+        "Kehamilan"
+    ],
+    "keterangan": "Diagnosis gangguan rasa nyaman ditegakkan apabila rasa tidak nyaman muncul tanpa ada cedera jaringan. Apabila ketidaknyamanan muncul akibat kerusakan jaringan, maka diagnosis yang disarankan ialah nyeri akut atau kronis."
+},
+"Ketidaknyamanan Pasca Partum": {
+    "kodeDiagnosa": "D.0075",
+    "namaDiagnosa": "Ketidaknyamanan Pasca Partum",
+    "definisi": "Perasaan tidak nyaman yang berhubungan dengan kondisi setelah melahirkan",
+    "penyebab": [
+        "Trauma perineum selama persalinan dan kelahiran",
+        "Involusi uterus, proses pengembalian ukuran rahim ke ukuran semula",
+        "Pembengkakan payudara dimana alveoli mulai terisi ASI",
+        "Kekurangan dukungan dari keluarga dan tenaga kesehatan",
+        "Ketidaktepatan posisi duduk",
+        "Faktor budaya"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengeluh tidak nyaman"
+        ],
+        "objektif": [
+            "Tampak meringis",
+            "Terdapat kontraksi uterus",
+            "Luka episiotomi",
+            "Payudara bengkak"
+        ]
+    },
+    "gejalaTandaMinor": {
+        "subjektif": "Tidak Tersedia.",
+        "objektif": [
+            "Tekanan darah meningkat",
+            "Frekuensi nadi meningkat",
+            "Berkeringat berlebihan",
+            "Menangis/ merintih",
+            "Haemorrhoid"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Kondisi pasca persalinan"
+    ]
+},
+"Nausea": {
+    "kodeDiagnosa": "D.0076",
+    "namaDiagnosa": "Nausea",
+    "definisi": "Perasaan tidak nyaman pada bagian belakang tenggorok atau lambung yang dapat mengakibatkan muntah",
+    "penyebab": [
+        "Gangguan biokimiawi (mis. uremia, ketoasidosis diabetik)",
+        "Gangguan pada esofagus",
+        "Distensi lambung",
+        "Iritasi lambung",
+        "Gangguan pankreas",
+        "Peregangan kapsul limpa",
+        "Tumor terlokalisasi (mis. neuroma akustik, tumor otak primer atau sekunder, metastasis tulang di dasar tengkorak)",
+        "Peningkatan tekanan intrabdominal (mis. keganasan intraabdomen)",
+        "Peningkatan tekanan intrakranial",
+        "Peningkatan tekanan intraorbital (mis. glaukoma)",
+        "Mabuk perjalanan",
+        "Kehamilan",
+        "Aroma tidak sedap",
+        "Rasa makanan/ minuman yang tidak enak",
+        "Stimulus penglihatan tidak menyenangkan",
+        "Faktor psikologis (mis. kecemasan, ketakutan, stres)",
+        "Efek agen farmakologis",
+        "Efek toksin"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengeluh mual",
+            "Merasa ingin muntah",
+            "Tidak berminat makan"
+        ],
+        "objektif": "Tidak Tersedia."
+    },
+    "gejalaTandaMinor": {
+        "subjektif": [
+            "Merasa asam di mulut",
+            "Sensasi panas/ dingin",
+            "Sering menelan",
+            "Saliva meningkat"
+        ],
+        "objektif": [
+            "Pucat",
+            "Diaphoresis",
+            "Takikardia",
+            "Pupil dilatasi"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Meningitis",
+        "Labirinitis",
+        "Uremia",
+        "Ketoasidosis diabetik",
+        "Ulkus peptikum",
+        "Penyakit esofagus",
+        "Tumor intraabdomen",
+        "Penyakit Meniere",
+        "Neuroma akustik",
+        "Tumor otak",
+        "Kanker",
+        "Glaukoma"
+    ]
+},
+"Nyeri Akut": {
+    "kodeDiagnosa": "D.0077",
+    "definisi": "Pengalaman sensorik atau emosional yang berkaitan dengan kerusakan jaringan aktual atau fungsional, dengan onset mendadak atau lambat dan berintensitas ringan hingga berat yang berlangsung kurang dari 3 bulan",
+    "penyebab": [
+        "Agen pencedera fisiologis (mis. inflamasi, iskemia, neoplasma)",
+        "Agen pencedera kimiawi (mis. terbakar, bahan kimia iritan)",
+        "Agen pencedera fisik (mis. abses, amputasi, terbakar, terpotong mengangkat berat, prosedur operasi, trauma, latihan fisik berlebihan)"
+    ],
+    "gejalaTandaMayor": {
+        "subjektif": [
+            "Mengeluh nyeri",
+            "Bersikap protektif (mis. waspada, posisi menghindari nyeri)",
+            "Gelisah",
+            "Sulit tidur"
+        ],
+        "objektif": [
+            "Tampak meringis",
+            "Frekuensi nadi meningkat"
+        ]
+    },
+    "gejalaTandaMinor": {
+        "subjektif": "Tidak Tersedia.",
+        "objektif": [
+            "Tekanan darah meningkat",
+            "Pola napas berubah",
+            "Nafsu makan berubah",
+            "Proses berfikir terganggu",
+            "Menarik diri",
+            "Berfokus pada diri sendiri",
+            "Diaforesis"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+        "Kondisi pembedahan",
+        "Cedera traumatis",
+        "Infeksi",
+        "Sindrom koroner akut",
+        "Glaukoma"
+    ]
+},
+"Nyeri Kronis": {
+  "kodeDiagnosa": "D.0078",
+  "definisi": "Pengalaman sensorik atau emosional yang berkaitan dengan kerusakan jaringan aktual atau fungsional, dengan onset mendadak atau lambat dan berintensitas ringan hingga berat dan konstan yang berlangsung lebih dari 3 bulan.",
+  "penyebab": [
+    "Kondisi muskuloskeletal kronis",
+    "Kerusakan sistem saraf",
+    "Penekanan saraf",
+    "Infiltrasi tumor",
+    "Ketidakseimbangan neurotransmitter, neuromodulator, dan reseptor",
+    "Gangguan imunitas (mis. neuropati terkait HIV, virus varicella-zoster)",
+    "Gangguan fungsi metabolik",
+    "Riwayat posisi kerja statis",
+    "Peningkatan indeks masa tubuh",
+    "Kondisi pasca trauma",
+    "Tekanan emosional",
+    "Riwayat penganiayaan (mis. fisik, psikologis, seksual)",
+    "Riwayata penyalahgunaan obat/zat"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengeluh nyeri",
+      "Merasa depresi (tertekan)",
+      "Tidak mampu menuntaskan aktivitas"
+    ],
+    "objektif": [
+      "Tampak meringis",
+      "Gelisah"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Merasa takut mengalami cedera berujung"
+    ],
+    "objektif": [
+      "Bersikap protektif (mis. posisi menghindari nyeri)",
+      "Waspada",
+      "Pola tidur berubah",
+      "Anoreksia",
+      "Fokus menyempit",
+      "Berfokus pada diri sendiri"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Kondisi kronis (mis. arthritis reumatoid)",
+    "Infeksi",
+    "Cedera medula spinalis",
+    "Kondisi pasca trauma",
+    "Tumor"
+  ]
+},
+  "Nyeri Melahirkan" : {
+  "kodeDiagnosa": "D.0079",
+  "definisi": "Pengalaman sensorik dan emosional yang bervariasi dari menyenangkan sampai tidak menyenangkan yang berhubungan dengan persalinan.",
+  "penyebab": [
+    "Dilatasi serviks",
+    "Pengeluaran janin"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengeluh nyeri",
+      "Perineum terasa tertekan"
+    ],
+    "objektif": [
+      "Ekspresi wajah meringis",
+      "Berposisi meringankan nyeri",
+      "Uterus teraba membulat"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Mual",
+      "Nafsu makan menurun/ meningkat"
+    ],
+    "objektif": [
+      "Tekanan darah meningkat",
+      "Frekuensi nadi meningkat",
+      "Ketegangan otot meningkat",
+      "Pola tidur berubah",
+      "Fungsi berkemih berubah",
+      "Diaforesis",
+      "Gangguan perilaku",
+      "Perilaku ekspresif",
+      "Pupil dilatasi",
+      "Muntah",
+      "Fokus pada diri sendiri"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Proses persalinan"
+  ]
+},
+"Ansietas": {
+  "kodeDiagnosa": "D.0080",
+  "definisi": "Kondisi emosi dan pengalaman subyektif individu terhadap objek yang tidak jelas dan spesifik akibat antisipasi bahaya yang memungkinkan individu melakukan tindakan untuk menghadapi ancaman.",
+  "penyebab": [
+    "Krisis situasional",
+    "Kebutuhan tidak terpenuhi",
+    "Krisis maturasional",
+    "Ancaman terhadap konsep diri",
+    "Ancaman terhadap kematian",
+    "Kekhawatiran mengalami kegagalan",
+    "Disfungsi sistem keluarga",
+    "Hubungan orang tua-anak tidak memuaskan",
+    "Faktor keturunan (temperamen mudah teragitasi sejak lahir)",
+    "Penyalahgunaan zat",
+    "Terpapar bahaya lingkungan (mis. toksin, polutan, dan lain-lain)",
+    "Kurang terpapar informasi"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Merasa bingung",
+      "Merasa khawatir dengan akibat dari kondisi yang dihadapi",
+      "Sulit berkonsentrasi"
+    ],
+    "objektif": [
+      "Tampak gelisah",
+      "Tampak tegang",
+      "Sulit tidur"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Mengeluh pusing",
+      "Anoreksia",
+      "Palpitasi",
+      "Merasa tidak berdaya"
+    ],
+    "objektif": [
+      "Frekuensi napas meningkat",
+      "Frekuensi nadi meningkat",
+      "Tekanan darah meningkat",
+      "Diaforesis",
+      "Tremor",
+      "Muka tampak pucat",
+      "Suara bergetar",
+      "Kontak mata buruk",
+      "Sering berkemih",
+      "Berorientasi pada masa lalu"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Penyakit kronis progresif (mis. kanker, penyakit autoimun)",
+    "Penyakit akut",
+    "Hospitalisasi",
+    "Rencana operasi",
+    "Kondisi diagnosis penyakit belum jelas",
+    "Penyakit neurologis",
+    "Tahap tumbuh kembang"
+  ]
+},
+"Distres Spiritual": {
+  "kodeDiagnosa": "D.0082",
+  "definisi": "Gangguan pada keyakinan atau sistem nilai berupa kesulitan merasakan makna dan tujuan hidup melalui hubungan dengan diri, orang lain, lingkungan atau Tuhan",
+  "penyebab": [
+    "Menjelang ajal",
+    "Kondisi penyakit kronis",
+    "Kematian orang terdekat",
+    "Perubahan pola hidup",
+    "Kesepian",
+    "Pengasingan diri",
+    "Pengasingan sosial",
+    "Gangguan sosio-kultural",
+    "Peningkatan ketergantungan pada orang lain",
+    "Kejadian hidup yang tidak diharapkan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mempertanyakan makna/tujuan hidupnya",
+      "Menyatakan hidupnya terasa tidak/kurang bermakna",
+      "Merasa menderita/tidak berdaya"
+    ],
+    "objektif":  [
+    "Tidak mampu beribadah",
+    "Marah pada Tuhan"]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Menyatakan hidupnya terasa tidak/kurang tenang",
+      "Mengeluh tidak dapat menerima (kurang pasrah)",
+      "Merasa bersalah",
+      "Merasa terasing",
+      "Menyatakan telah diabaikan"
+    ],
+    "objektif": [
+     "Menolak berinteraksi dengan orang terdekat/pemimpin spiritual",
+    "Tidak mampu beraktivitas (mis. menyanyi, mendengarkan musik, menulis)",
+      "Koping tidak efektif",
+    "Tidak berminat pada alam/literatur spiritual"]
+  },
+  "kondisiKlinisTerkait": [
+    "Penyakit kronis (mis. arthritis rheumatoid, sklerosis multipel)",
+    "Penyakit terminal (mis. kanker)",
+    "Retardasi mental",
+    "Kehilangan bagian tubuh",
+    "Sudden infant death syndrome (SIDS)",
+    "Kelahiran mati, kematian janin, keguguran",
+    "Kemandulan",
+    "Gangguan psikiatrik"
+  ]
+},
+"Gangguan Citra Tubuh": {
+  "kodeDiagnosa": "D.0083",
+  "definisi": "Perubahan persepsi tentang penampilan, struktur, dan fungsi fisik individu",
+  "penyebab": [
+    "Perubahan struktur/bentuk tubuh (mis. amputasi, trauma, luka bakar, obesitas, jerawat)",
+    "Perubahan fungsi tubuh (mis. proses penyakit, kehamilan, kelumpuhan)",
+    "Perubahan fungsi kognitif",
+    "Ketidaksesuaian budaya, keyakinan atau sistem nilai",
+    "Transisi perkembangan",
+    "Gangguan psikososial",
+    "Efek tindakan/pengobatan (mis. pembedahan, kemoterapi, terapi radiasi)"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengungkapkan kecacatan/kehilangan bagian tubuh"
+    ],
+    "objektif": [
+      "Kehilangan bagian tubuh",
+      "Fungsi/struktur tubuh berubah/hilang"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Tidak mau mengungkapkan kecacatan/kehilangan bagian tubuh",
+      "Mengungkapkan perasaan negatif tentang perubahan tubuh",
+      "Mengungkapkan kekhawatiran pada penolakan/reaksi orang lain",
+      "Mengungkapkan perubahan gaya hidup"
+    ],
+    "objektif": [
+      "Menyembunyikan/menunjukkan bagian tubuh secara berlebihan",
+      "Menghindari melihat dan/atau menyentuh bagian tubuh",
+      "Fokus berlebihan pada perubahan tubuh",
+      "Respon nonverbal pada perubahan dan persepsi tubuh",
+      "Fokus pada penampilan dan kekuatan masa lalu",
+      "Hubungan sosial berubah"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Mastektomi",
+    "Amputasi",
+    "Jerawat",
+    "Parut atau luka bakar yang terlihat",
+    "Obesitas",
+    "Hiperpigmentasi pada kehamilan",
+    "Gangguan psikiatrik",
+    "Program terapi neoplasma",
+    "Alopecia chemically induced"
+  ]
+},
+"Gangguan Identitas Diri": {
+  "kodeDiagnosa": "D.0084",
+  "definisi": "Tidak mampu mempertahankan keutuhan persepsi terhadap identitas diri",
+  "penyebab": [
+    "Gangguan peran sosial",
+    "Tidak terpenuhinya tugas perkembangan",
+    "Gangguan neurologis",
+    "Ketidakadekuatan stimulasi sensori"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Persepsi terhadap diri berubah",
+      "Bingung dengan nilai-nilai budaya, tujuan hidup, jenis kelamin, dan/atau nilai-nilai ideal",
+      "Perasaan yang fluktuatif terhadap diri"
+    ],
+    "objektif": [
+      "Perilaku tidak konsisten",
+      "Hubungan yang tidak efektif",
+      "Strategi koping tidak efektif",
+      "Penampilan peran tidak efektif"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": "Tidak Tersedia.",
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Gangguan autistik",
+    "Gangguan orientasi seksual",
+    "Periode perkembangan remaja"
+  ]
+},
+"Gangguan Persepsi Sensori": {
+  "kodeDiagnosa": "D.0085",
+  "definisi": "Perubahan persepsi terhadap stimulus baik internal maupun eksternal yang disertai dengan respon yang berkurang, berlebihan atau terdistorsi",
+  "penyebab": [
+    "Gangguan penglihatan",
+    "Gangguan pendengaran",
+    "Gangguan penciuman",
+    "Gangguan perabaan",
+    "Hipoksia serebral",
+    "Penyalahgunaan zat",
+    "Usia lanjut",
+    "Pemajanan toksin lingkungan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mendengar suara bisikan atau melihat bayangan",
+      "Merasakan sesuatu melalui indera perabaan, penciuman, pengelihatan, atau pengecapan"
+    ],
+    "objektif": [
+      "Distorsi sensori",
+      "Respon tidak sesuai",
+      "Bersikap seolah melihat, mendengar, mengecap, meraba atau mencium sesuatu"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Menyatakan kesal"
+    ],
+    "objektif": [
+      "Menyendiri",
+      "Melamun",
+      "Konsentrasi buruk",
+      "Disorientasi waktu, tempat, orang dan situasi",
+      "Curiga",
+      "Melihat ke satu arah",
+      "Mondar-mandir",
+      "Bicara sendiri"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Glaukoma",
+    "Katarak",
+    "Gangguan refraksi (myopia, hiperopia, astigmatisma, presbiopia)",
+    "Trauma okuler",
+    "Trauma pada saraf kranialis II, III, IV, dan VI akibat stroke, aneurisma intrakranial, trauma/tumor otak",
+    "Infeksi okuler",
+    "Presbiakusis",
+    "Malfungsi alat bantu dengar",
+    "Delirium",
+    "Demensia",
+    "Gangguan amnestik",
+    "Penyakit terminal",
+    "Gangguan psikotik"
+  ]
+},
+"Harga Diri Rendah Kronis": {
+  "kodeDiagnosa": "D.0086",
+  "definisi": "Evaluasi atau perasaan negatif terhadap diri sendiri atau kemampuan klien seperti tidak berarti, tidak berharga, tidak berdaya yang berlangsung dalam waktu yang lama dan terus-menerus",
+  "penyebab": [
+    "Terpapar situasi traumatis",
+    "Kegagalan berulang",
+    "Kurangnya pengakuan dari orang lain",
+    "Ketidakefektifan mengatasi masalah kehilangan",
+    "Gangguan psikiatri",
+    "Penguatan negatif berulang",
+    "Ketidaksesuaian budaya"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Menilai diri negatif (mis. tidak berguna, tidak tertolong)",
+      "Merasa malu/bersalah",
+      "Merasa tidak mampu melakukan apapun",
+      "Meremehkan kemampuan mengatasi masalah",
+      "Merasa tidak memiliki kelebihan atau kemampuan positif",
+      "Melebih-lebihkan penilaian negatif tentang diri sendiri",
+      "Menolak penilaian positif tentang diri sendiri",
+      "Enggan mencoba hal yang baru"
+    ],
+    "objektif": [
+      "Berjalan menunduk",
+      "Postur tubuh menunduk"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Merasa sulit berkonsentrasi",
+      "Sulit tidur",
+      "Mengungkapkan keputusasaan"
+    ],
+    "objektif": [
+      "Kontak mata kurang",
+      "Lesu dan tidak bergairah",
+      "Berbicara pelan dan lirih",
+      "Pasif",
+      "Perilaku tidak asertif",
+      "Mencari penguatan secara berlebihan",
+      "Bergantung pada pendapat orang lain",
+      "Sulit membuat keputusan"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Cedera traumatis",
+    "Pembedahan",
+    "Kehamilan",
+    "Stroke",
+    "Penyalahgunaan zat",
+    "Demensia",
+    "Penyakit kronis",
+    "Pengalaman tidak menyenangkan"
+  ]
+},
+"Harga Diri Rendah Situasional": {
+  "kodeDiagnosa": "D.0087",
+  "definisi": "Evaluasi atau perasaan negatif terhadap diri sendiri atau kemampuan klien sebagai respon terhadap situasi saat ini",
+  "penyebab": [
+    "Perubahan pada citra tubuh",
+    "Perubahan peran sosial",
+    "Ketidakadekuatan pemahaman",
+    "Perilaku tidak konsisten dengan nilai",
+    "Kegagalan hidup berulang",
+    "Riwayat kehilangan",
+    "Riwayat penolakan",
+    "Transisi perkembangan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Menilai diri negatif (mis. tidak berguna, tidak tertolong)",
+      "Merasa malu/bersalah",
+      "Melebih-lebihkan penilaian negatif tentang diri sendiri",
+      "Menolak penilaian positif tentang diri sendiri"
+    ],
+    "objektif": [
+      "Berbicara pelan dan lirih",
+      "Menolak berinteraksi dengan orang lain",
+      "Berjalan menunduk",
+      "Postur tubuh menunduk"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Sulit berkonsentrasi"
+    ],
+    "objektif": [
+      "Kontak mata kurang",
+      "Lesu dan tidak bergairah",
+      "Pasif",
+      "Tidak mampu membuat keputusan"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Cedera traumatis",
+    "Pembedahan",
+    "Kehamilan",
+    "Kondisi baru terdiagnosis (mis. diabetes melitus)",
+    "Stroke",
+    "Penyalahgunaan zat",
+    "Demensia",
+    "Pengalaman tidak menyenangkan"
+  ]
+},
+"Keputusasaan": {
+  "kodeDiagnosa": "D.0088",
+  "definisi": "Kondisi individu yang memandang adanya keterbatasan atau tidak tersedianya alternatif pemecahan pada masalah yang dihadapi",
+  "penyebab": [
+    "Stres jangka panjang",
+    "Penurunan kondisi fisiologis",
+    "Kehilangan kepercayaan pada kekuatan spiritual",
+    "Kehilangan kepercayaan terhadap nilai-nilai penting",
+    "Pembatasan aktivitas jangka panjang",
+    "Pengasingan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengungkapkan keputusasaan"
+    ],
+    "objektif": [
+      "Berperilaku pasif"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Sulit tidur",
+      "Selera makan menurun"
+    ],
+    "objektif": [
+      "Afek datar",
+      "Kurang inisiatif",
+      "Meninggalkan lawan bicara",
+      "Kurang terlibat aktivitas perawatan",
+      "Mengangkat bahu sebagai respon pada lawan bicara"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Penyakit kronis",
+    "Penyakit terminal",
+    "Penyakit yang tidak dapat disembuhkan"
+  ]
+},
+"Kesiapan Peningkatan Konsep Diri": {
+  "kodeDiagnosa": "D.0089",
+  "definisi": "Pola persepsi diri yang cukup untuk merasa sejahtera dan dapat ditingkatkan",
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengekspresikan keinginan untuk meningkatkan konsep diri",
+      "Mengekspresikan kepuasan dengan diri, harga diri, penampilan peran, citra tubuh dan identitas pribadi"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Merasa percaya diri",
+      "Menerima kelebihan dan keterbatasan"
+    ],
+    "objektif": [
+      "Tindakan sesuai dengan perasaan dan pikiran yang diekspresikan"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Perilaku upaya peningkatan kesehatan"
+  ]
+},
+"Kesiapan Peningkatan Koping Keluarga": {
+  "kodeDiagnosa": "D.0090",
+  "definisi": "Pola adaptasi anggota keluarga dalam mengatasi situasi yang dialami klien secara efektif dan menunjukan keinginan serta kesiapan untuk meningkatkan kesehatan keluarga dan klien",
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Anggota keluarga menetapkan tujuan untuk meningkatkan gaya hidup sehat",
+      "Anggota keluarga menetapkan sasaran untuk meningkatkan kesehatan"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Anggota keluarga mengidentifikasi pengalaman yang mengoptimalkan kesejahteraan",
+      "Anggota keluarga berupaya menjelaskan dampak krisis terhadap perkembangan",
+      "Anggota keluarga mengungkapkan minat dalam membuat kontak dengan orang lain yang mengalami situasi yang sama"
+    ],
+    "objektif": "Tidak Tersedia."
+  },
+  "kondisiKlinisTerkait": [
+    "Kelainan genetik (mis. sindrom down, fibrosis kistik)",
+    "Cedera traumatik (mis. amputasi, cedera spinal)",
+    "Kondisi kronis (mis. asma, AIDS, penyakit Alzheimer)"
+  ]
+},
+"Kesiapan Peningkatan Koping Komunitas": {
+  "kodeDiagnosa": "D.0091",
+  "definisi": "Pola adaptasi dan penyelesaian masalah komunitas yang memuaskan untuk memenuhi tuntutan atau kebutuhan masyarakat, serta dapat ditingkatkan untuk penatalaksanaan masalah saat ini dan mendatang",
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Perencanaan aktif oleh komunitas mengenai prediksi stressor",
+      "Pemecahan masalah aktif oleh komunitas saat menghadapi masalah"
+    ],
+    "objektif": [
+      "Terdapat sumber-sumber daya yang adekuat untuk mengatasi stresor"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Bersepakat bahwa komunitas bertanggung jawab terhadap penatalaksanaan stres"
+    ],
+    "objektif": [
+      "Berkomunikasi positif di antara anggota komunitas",
+      "Berkomunikasi positif di antara komunitas",
+      "Tersedia program untuk rekreasi",
+      "Tersedia program untuk relaksasi/ bersantai"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Penurunan tingkat penyakit, kecelakaan, atau kekerasan"
+  ]
+},
+"Ketidakberdayaan": {
+  "kodeDiagnosa": "D.0092",
+  "definisi": "Persepsi bahwa tindakan seseorang tidak akan mempengaruhi hasil secara signifikan, persepsi kurang kontrol pada situasi saat ini atau yang akan datang",
+  "penyebab": [
+    "Program perawatan/pengobatan yang kompleks atau jangka panjang",
+    "Lingkungan tidak mendukung perawatan/pengobatan",
+    "Interaksi interpersonal tidak memuaskan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Menyatakan frustasi atau tidak mampu melaksanakan aktivitas sebelumnya"
+    ],
+    "objektif": [
+      "Bergantung pada orang lain"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Merasa diasingkan",
+      "Menyatakan keraguan tentang kinerja peran",
+      "Menyatakan kurang kontrol",
+      "Menyatakan rasa malu",
+      "Merasa tertekan (depresi)"
+    ],
+    "objektif": [
+      "Tidak berpartisipasi dalam perawatan",
+      "Pengasingan"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Diagnosis yang tidak terduga atau baru",
+    "Peristiwa traumatis",
+    "Diagnosis penyakit kronis",
+    "Diagnosis penyakit terminal",
+    "Rawat inap"
+  ]
+},
+"Ketidakmampuan Koping Keluarga": {
+  "kodeDiagnosa": "D.0093",
+  "definisi": "Perilaku orang terdekat (anggota keluarga atau orang berarti) yang membatasi kemampuan dirinya dan klien untuk beradaptasi dengan masalah kesehatan yang dihadapi klien",
+  "penyebab": [
+    "Hubungan keluarga ambivalen",
+    "Pola koping yang berbeda diantara klien dan orang terdekat",
+    "Resistensi keluarga terhadap perawatan/pengobatan yang kompleks",
+    "Ketidakmampuan orang terdekat mengungkapkan perasaan"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Merasa diabaikan"
+    ],
+    "objektif": [
+      "Tidak memenuhi kebutuhan anggota keluarga",
+      "Tidak toleran",
+      "Mengabaikan anggota keluarga"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Terlalu khawatir dengan anggota keluarga",
+      "Merasa tertekan (depresi)"
+    ],
+    "objektif": [
+      "Perilaku menyerang (agresi)",
+      "Perilaku menghasut (agitasi)",
+      "Tidak berkomitmen",
+      "Menunjukan gejala psikosomatis",
+      "Perilaku menolak",
+      "Perawatan yang mengabaikan kebutuhan dasar klien",
+      "Mengabaikan perawatan/pengobatan anggota keluarga",
+      "Perilaku bermusuhan",
+      "Perilaku individualistik",
+      "Upaya membangun hidup bermakna terganggu",
+      "Perilaku sehat terganggu",
+      "Ketergantungan anggota keluarga meningkat",
+      "Realitas kesehatan anggota keluarga terganggu"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Penyakit Alzheimer",
+    "AIDS",
+    "Kelainan yang menyebabkan paralisis permanen",
+    "Kanker",
+    "Penyakit kronis (mis. kanker, arthritis reumatoid)",
+    "Penyalahgunaan zat",
+    "Krisis keluarga",
+    "Konflik keluarga yang belum terselesaikan"
+  ]
+},
+"Koping Defensif": {
+  "kodeDiagnosa": "D.0094",
+  "definisi": "Proyeksi evaluasi diri untuk melindungi diri dari ancaman terhadap harga diri",
+  "penyebab": [
+    "Konflik antara persepsi diri dan sistem nilai",
+    "Takut mengalami kegagalan",
+    "Takut mengalami penghinaan",
+    "Takut terhadap dampak situasi yang dihadapi",
+    "Kurangnya rasa percaya terhadap orang lain",
+    "Kurangnya kepercayaan diri",
+    "Kurangnya dukungan sistem pendukung (support system)",
+    "Harapan yang tidak realistis"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Menyalahkan orang lain",
+      "Menyangkal adanya masalah",
+      "Menyangkal kelemahan diri",
+      "Merasionalisasi kegagalan"
+    ],
+    "objektif": [
+      "Hipersensitif terhadap kritik"
+      ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Meremehkan orang lain"
+    ],
+    "objektif": [
+      "Melemparkan tanggung jawab",
+      "Tawa permusuhan",
+      "Sikap superior terhadap orang lain",
+      "Tidak dapat membedakan realitas",
+      "Kurang minat mengikuti perawatan/pengobatan",
+      "Sulit membangun atau mempertahankan hubungan"
+      ]
+  },
+  "kondisiKlinisTerkait": [
+    "Penyakit kronis",
+    "Penyalahgunaan zat",
+    "Attention deficit/hyperactivity disorder (ADHD)",
+    "Gangguan perilaku",
+    "Oppositional Defiant Disorder",
+    "Delirium",
+    "Demensia",
+    "Gangguan amnestik"
+  ]
+},
+"Koping Komunitas Tidak Efektif": {
+  "kodeDiagnosa": "D.0095",
+  "definisi": "Pola adaptasi aktivitas komunitas dan penyelesaian masalah yang tidak memuaskan untuk memenuhi tuntutan atau kebutuhan masyarakat",
+  "penyebab": [
+    "Paparan bencana (alam atau buatan manusia)",
+    "Riwayat bencana (alam atau buatan manusia)",
+    "Ketidakadekuatan sumber daya untuk pemecahan masalah",
+    "Ketidakcukupan sumber daya masyarakat (mis. istirahat, rekreasi, dukungan sosial)",
+    "Tidak adanya sistem masyarakat"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengungkapkan ketidakberdayaan komunitas"
+    ],
+    "objektif": [
+      "Komunitas tidak memenuhi harapan anggotanya",
+      "Konflik masyarakat meningkat",
+      "Insiden masalah masyarakat tinggi (mis. pembunuhan, pengrusakan, terorisme, perampokan, pelecehan, pengangguran, kemiskinan, penyakit mental)"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Mengungkapkan kerentanan komunitas"
+    ],
+    "objektif": [
+      "Partisipasi masyarakat kurang",
+      "Tingkat penyakit masyarakat meningkat",
+      "Stres meningkat"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Insiden kekerasan tinggi",
+    "Tingkat penyakit tinggi",
+    "Sedikitnya kesempatan atau lokasi untuk interaksi komunitas"
+  ]
+},
+"Koping Tidak Efektif": {
+  "kodeDiagnosa": "D.0096",
+  "definisi": "Ketidakmampuan menilai dan merespon dan/atau ketidakmampuan menggunakan sumber-sumber yang ada untuk mengatasi masalah",
+  "penyebab": [
+    "Ketidakpercayaan terhadap kemampuan diri mengatasi masalah",
+    "Ketidakadekuatan sistem pendukung",
+    "Ketidakadekuatan strategi koping",
+    "Ketidakteraturan atau kekacauan lingkungan",
+    "Ketidakcukupan persiapan untuk menghadapi stressor",
+    "Disfungsi sistem keluarga",
+    "Krisis situasional",
+    "Krisis maturasional",
+    "Kerentanan personalitas",
+    "Ketidakpastian"
+  ],
+  "gejalaTandaMayor": {
+    "subjektif": [
+      "Mengungkapkan tidak mampu mengatasi masalah"
+    ],
+    "objektif": [
+      "Tidak mampu memenuhi peran yang diharapkan (sesuai usia)",
+      "Menggunakan mekanisme koping yang tidak sesuai"
+    ]
+  },
+  "gejalaTandaMinor": {
+    "subjektif": [
+      "Tidak mampu memenuhi kebutuhan dasar",
+      "Kekhawatiran kronis",
+      "Penyalahgunaan zat",
+      "Memanipulasi orang lain untuk memenuhi keinginannya sendiri",
+      "Perilaku tidak asertif"
+    ],
+    "objektif": [
+      "Partisipasi sosial kurang"
+    ]
+  },
+  "kondisiKlinisTerkait": [
+    "Kondisi perawatan kritis",
+    "Attention Deficit/Hyperactivity Disorder (ADHD)",
+    "Gangguan perilaku",
+    "Oppositional Defiant Disorder",
+    "Gangguan kecemasan perpisahan",
+    "Delirium",
+    "Demensia",
+    "Gangguan amnestik",
+    "Intoksikasi zat",
+    "Putus zat"
+  ]
+},
+  "Penurunan Koping Keluarga": {
+    "kodeDiagnosa": "D.0097",
+    "definisi": "Ketidakadekuatan atau ketidakefektifan dukungan, rasa nyaman, bantuan, dan motivasi orang terdekat (anggota keluarga atau orang berarti) yang dibutuhkan klien untuk mengelola atau mengatasi masalah kesehatannya.",
+    "penyebab": [
+      "Situasi penyerta yang mempengaruhi orang terdekat",
+      "Krisis perkembangan yang dihadapi orang terdekat",
+      "Kelelahan orang terdekat dalam memberikan dukungan",
+      "Disorganisasi keluarga",
+      "Perubahan peran keluarga",
+      "Tidak tersedianya informasi bagi orang terdekat",
+      "Kurangnya saling mendukung",
+      "Tidak cukupnya dukungan yang diberikan klien pada orang terdekat",
+      "Orang terdekat kurang terpapar informasi",
+      "Salahnya/ tidak pahamnya informasi yang didapatkan orang terdekat",
+      "Orang terdekat terlalu fokus pada kondisi di luar keluarga",
+      "Penyakit kronis yang menghabiskan kemampuan dukungan orang terdekat",
+      "Krisis situasional yang dialami orang terdekat"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Klien mengeluh atau khawatir tentang respon orang terdekat pada masalah kesehatan"
+      ],
+      "objektif": [
+        "Orang terdekat menarik diri dari klien",
+        "Terbatasnya komunikasi orang terdekat dengan klien"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Orang terdekat menyatakan kurang terpapar informasi tentang upaya mengatasi masalah klien"
+      ],
+      "objektif": [
+        "Bantuan yang dilakukan orang terdekat menunjukkan hasil yang tidak memuaskan",
+        "Orang terdekat berperilaku protektif yang tidak sesuai dengan kemampuan atau kemandirian klien"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Penyakit Alzheimer",
+      "AIDS",
+      "Kelainan yang menyebabkan paralisis permanen",
+      "Kanker",
+      "Penyakit kronis (misalnya kanker, arthritis reumatoid)",
+      "Penyalahgunaan zat",
+      "Krisis keluarga",
+      "Konflik keluarga yang belum terselesaikan"
+    ]
+},
+  "PenyangkalanTidakEfektif": {
+    "kodeDiagnosa": "D.0098",
+    "definisi": "Upaya mengingkari pemahaman atau makna suatu peristiwa secara sadar atau tidak sadar untuk menurunkan kecemasan/ ketakutan yang dapat menyebabkan gangguan kesehatan.",
+    "penyebab": [
+      "Kecemasan",
+      "Ketakutan terhadap kematian",
+      "Ketakutan mengalami kehilangan kemandirian",
+      "Ketakutan terhadap perpisahan",
+      "Ketidakefektifan strategi koping",
+      "Ketidakpercayaan terhadap kemampuan mengatasi masalah",
+      "Ancaman terhadap realitas yang tidak menyenangkan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Tidak mengakui dirinya mengalami gejala atau bahaya (walaupun kenyataan sebaliknya)"
+      ],
+      "objektif": [
+        "Menunda mencari pertolongan pelayanan kesehatan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Mengaku tidak takut dengan kematian",
+        "Mengaku tidak takut dengan penyakit kronis",
+        "Tidak mengakui bahwa penyakit berdampak pada pola hidup"
+      ],
+      "objektif": [
+        "Melakukan pengobatan sendiri",
+        "Mengalihkan sumber gejala ke organ lain",
+        "Berperilaku acuh tak acuh saat membicarakan peristiwa penyebab stres",
+        "Menunjukkan afek yang tidak sesuai"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Penyakit kronis",
+      "Intoksikasi zat",
+      "Putus zat",
+      "Penyakit Alzheimer",
+      "Penyakit terminal"
+    ]
+},
+  "Risiko Distres Spiritual": {
+    "kodeDiagnosa": "D.0100",
+    "definisi": "Berisiko mengalami gangguan keyakinan atau sistem nilai pada individu atau kelompok berupa kekuatan, harapan, dan makna hidup.",
+    "faktorRisiko": [
+      "Perubahan hidup",
+      "Perubahan lingkungan",
+      "Bencana alam",
+      "Sakit kronis",
+      "Sakit fisik",
+      "Penyalahgunaan zat",
+      "Kecemasan",
+      "Perubahan dalam ritual agama",
+      "Perubahan dalam praktik spiritual",
+      "Konflik spiritual",
+      "Depresi",
+      "Ketidakmampuan memaafkan",
+      "Kehilangan",
+      "Harga diri rendah",
+      "Hubungan buruk",
+      "Konflik rasial",
+      "Berpisah dengan sistem pendukung",
+      "Stres"
+    ],
+    "kondisiKlinisTerkait": [
+      "Penyakit kronis (misalnya arthritis rheumatoid, sklerosis multipel)",
+      "Penyakit terminal (misalnya kanker)",
+      "Retardasi mental",
+      "Kehilangan ekstermitas",
+      "Sudden Infant Death Syndrome (SIDS)",
+      "Kelahiran mati, kematian janin, keguguran",
+      "Kemandulan"
+    ]
+},
+  "Risiko Harga Diri Rendah Kronis": {
+    "kodeDiagnosa": "D.0101",
+    "definisi": "Berisiko mengalami evaluasi atau perasaan negatif terhadap diri sendiri atau kemampuan klien yang berlangsung dalam waktu lama dan terus menerus.",
+    "faktorRisiko": [
+      "Gangguan psikiatrik",
+      "Kegagalan berulang",
+      "Ketidaksesuaian budaya",
+      "Ketidaksesuaian spiritual",
+      "Ketidakefektifan koping terhadap kehilangan",
+      "Kurang mendapat kasih sayang",
+      "Kurang keterlibatan dalam kelompok/ masyarakat",
+      "Kurang penghargaan dari orang lain",
+      "Ketidakmampuan menunjukkan perasaan",
+      "Perasaan kurang didukung orang lain",
+      "Pengalaman traumatik"
+    ],
+    "kondisiKlinisTerkait": [
+      "Penyakit kronis",
+      "Penyakit degeneratif",
+      "Gangguan perilaku",
+      "Gangguan perkembangan",
+      "Gangguan mental",
+      "Penyalahgunaan zat",
+      "Gangguan mood",
+      "Trauma",
+      "Pasca pembedahan",
+      "Kehilangan fungsi tubuh"
+    ]
+},
+  "RisikoHargaDiriRendahSituasional": {
+    "kodeDiagnosa": "D.0102",
+    "definisi": "Berisiko mengalami evaluasi atau perasaan negatif terhadap diri sendiri atau kemampuan klien sebagai respons terhadap situasi saat ini.",
+    "faktorRisiko": [
+      "Gangguan gambaran diri",
+      "Gangguan fungsi",
+      "Gangguan peran sosial",
+      "Harapan tidak realistis",
+      "Kurang pemahaman terhadap situasi",
+      "Penurunan kontrol terhadap lingkungan",
+      "Penyakit fisik",
+      "Perilaku tidak sesuai dengan nilai setempat",
+      "Kegagalan",
+      "Perasaan tidak berdaya",
+      "Riwayat kehilangan",
+      "Riwayat pengabaian",
+      "Riwayat penolakan",
+      "Riwayat penganiayaan (misalnya fisik, psikologis, seksual)",
+      "Transisi perkembangan"
+    ],
+    "kondisiKlinisTerkait": [
+      "Cedera traumatis",
+      "Pembedahan",
+      "Kehamilan",
+      "Kondisi baru terdiagnosis (misalnya diabetes melitus)",
+      "Stroke",
+      "Penyalahgunaan zat",
+      "Demensia"
+    ]
+},
+  "Risiko Ketidakberdayaan": {
+    "kodeDiagnosa": "D.0103",
+    "definisi": "Persepsi bahwa tindakan seseorang tidak akan mempengaruhi hasil secara signifikan; persepsi kurang kontrol pada situasi saat ini atau yang akan datang.",
+    "faktorRisiko": [
+      "Perjalanan penyakit yang berlangsung lama atau tidak dapat diprediksi",
+      "Harga diri rendah yang berlangsung lama",
+      "Status ekonomi rendah",
+      "Ketidakmampuan mengatasi masalah",
+      "Kurang dukungan sosial",
+      "Penyakit yang melemahkan secara progresif",
+      "Marginalisasi sosial",
+      "Kondisi terstigma",
+      "Penyakit terstigma",
+      "Kurang terpapar informasi",
+      "Kecemasan"
+    ],
+    "kondisiKlinisTerkait": [
+      "Diagnosis yang tidak terduga atau baru",
+      "Peristiwa traumatis",
+      "Diagnosis penyakit kronis",
+      "Diagnosis penyakit terminal",
+      "Rawat inap"
+    ]
+},
+  "Sindrom Pasca Trauma": {
+    "kodeDiagnosa": "D.0104",
+    "definisi": "Respon maladaptif yang berkelanjutan terhadap kejadian trauma.",
+    "penyebab": [
+      "Bencana",
+      "Peperangan",
+      "Riwayat korban perilaku kekerasan",
+      "Kecelakaan",
+      "Saksi pembunuhan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengungkapkan secara berlebihan atau menghindari pembicaraan kejadian trauma",
+        "Merasa cemas",
+        "Teringat kembali kejadian traumatis"
+      ],
+      "objektif": [
+        "Memori masa lalu terganggu",
+        "Menghindari aktivitas, tempat, atau orang yang membangkitkan kejadian trauma"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Tidak percaya pada orang lain",
+        "Mimpi buruk berulang",
+        "Ketakutan berulang",
+        "Menyalahkan diri sendiri"
+      ],
+      "objektif": [
+        "Minat berinteraksi dengan orang lain menurun",
+        "Konfusi atau disosiasi",
+        "Gangguan interpretasi realitas",
+        "Sulit berkonsentrasi",
+        "Waspada berlebihan",
+        "Pola hidup terganggu",
+        "Tidur terganggu",
+        "Merusak diri sendiri (misalnya konsumsi alkohol, penggunaan zat, percobaan bunuh diri, tindakan kriminal)"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Korban kekerasan",
+      "Post traumatic stress disorder (PTSD)",
+      "Korban bencana alam",
+      "Multiple personality disorder",
+      "Korban kekerasan seksual",
+      "Korban peperangan",
+      "Cedera multipel (kecelakaan lalu lintas)"
+    ]
+},
+  "Waham": {
+    "kodeDiagnosa": "D.0105",
+    "definisi": "Keyakinan yang keliru tentang isi pikiran yang dipertahankan secara kuat atau terus menerus namun tidak sesuai dengan kenyataan.",
+    "penyebab": [
+      "Faktor biologis: Kelainan genetik/keturunan, kelainan neurologis (misalnya gangguan sistem limbik, gangguan ganglia basalis, tumor otak)",
+      "Faktor psikodinamik (misalnya isolasi sosial, hipersensitif)",
+      "Maladaptasi",
+      "Stres berlebihan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengungkapkan isi waham"
+      ],
+      "objektif": [
+        "Menunjukkan perilaku sesuai isi waham",
+        "Isi pikir tidak sesuai realitas",
+        "Isi pembicaraan sulit dimengerti"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Merasa sulit berkonsentrasi",
+        "Merasa khawatir",
+        "Curiga berlebihan",
+        "Waspada berlebihan"
+      ],
+      "objektif": [
+        "Bicara berlebihan",
+        "Sikap menentang atau permusuhan",
+        "Wajah tegang",
+        "Pola tidur berubah",
+        "Tidak mampu mengambil keputusan",
+        "Flight of idea",
+        "Produktivitas kerja menurun",
+        "Tidak mampu merawat diri",
+        "Menarik diri"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Skizofrenia",
+      "Gangguan sistem limbik",
+      "Gangguan ganglia basalis",
+      "Tumor otak",
+      "Depresi"
+    ]
+},
+  "Gangguan Tumbuh Kembang": {
+    "kodeDiagnosa": "D.0106",
+    "definisi": "Kondisi individu mengalami gangguan kemampuan bertumbuh dan berkembang sesuai dengan kelompok usia.",
+    "penyebab": [
+      "Efek ketidakmampuan fisik",
+      "Keterbatasan lingkungan",
+      "Inkonsistensi respon",
+      "Pengabaian",
+      "Terpisah dari orang tua dan/atau orang terdekat",
+      "Defisiensi stimulus"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Tidak mampu melakukan keterampilan atau perilaku khas sesuai usia (fisik, bahasa, motorik, psikososial)",
+        "Pertumbuhan fisik terganggu"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Tidak mampu melakukan perawatan diri sesuai usia",
+        "Afek datar",
+        "Respon sosial lambat",
+        "Kontak mata terbatas",
+        "Nafsu makan menurun",
+        "Lesu",
+        "Mudah marah",
+        "Regresi",
+        "Pola tidur terganggu (pada bayi)"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Hipotiroidisme",
+      "Sindrom gagal tumbuh (Failure to Thrive Syndrome)",
+      "Leukemia",
+      "Defisiensi hormon pertumbuhan",
+      "Demensia",
+      "Delirium",
+      "Kelainan jantung bawaan",
+      "Penyakit kronis",
+      "Gangguan kepribadian (personality disorder)"
+    ]
+},
+  "Risiko Gangguan Perkembangan": {
+    "kodeDiagnosa": "D.0107",
+    "definisi": "Berisiko mengalami gangguan untuk berkembang sesuai dengan kelompok usianya.",
+    "faktorRisiko": [
+      "Ketidakadekuatan nutrisi",
+      "Ketidakadekuatan perawatan prenatal",
+      "Keterlambatan perawatan prenatal",
+      "Usia hamil di bawah 15 tahun",
+      "Usia hamil di atas 35 tahun",
+      "Kehamilan tidak terencana",
+      "Kehamilan tidak diinginkan",
+      "Gangguan endokrin",
+      "Prematuritas",
+      "Kelainan genetik/kongenital",
+      "Kerusakan otak (mis. perdarahan selama periode pascanatal, penganiayaan, kecelakaan)",
+      "Penyakit kronis",
+      "Infeksi",
+      "Efek samping terapi (mis. kemoterapi, terapi radiasi, agen farmakologis)",
+      "Penganiayaan (mis. fisik, psikologis, seksual)",
+      "Gangguan pendengaran",
+      "Gangguan penglihatan",
+      "Penyalahgunaan zat",
+      "Ketidakmampuan belajar",
+      "Anak adopsi",
+      "Kejadian bencana",
+      "Ekonomi lemah"
+    ],
+    "kondisiKlinisTerkait": [
+      "Hipotiroidisme",
+      "Sindrom gagal tumbuh (Failure to Thrive Syndrome)",
+      "Leukemia",
+      "Defisiensi hormon pertumbuhan",
+      "Demensia",
+      "Delirium",
+      "Kelainan jantung bawaan",
+      "Penyakit kronis",
+      "Gangguan kepribadian (personality disorder)"
+    ]
+},
+  "Risiko Gangguan Pertumbuhan": {
+    "kodeDiagnosa": "D.0108",
+    "definisi": "Berisiko mengalami gangguan untuk bertumbuh sesuai dengan kelompok usianya.",
+    "faktorRisiko": [
+      "Ketidakadekuatan nutrisi",
+      "Penyakit kronis",
+      "Nafsu makan tidak terkontrol",
+      "Prematuritas",
+      "Terpapar teratogen",
+      "Ketidakadekuatan nutrisi maternal",
+      "Proses infeksi",
+      "Proses infeksi maternal",
+      "Perilaku makan maladaptif",
+      "Penyalahgunaan zat",
+      "Kelainan genetik/kongenital",
+      "Penganiayaan (mis. fisik, psikologis, seksual)",
+      "Ekonomi lemah"
+    ],
+    "kondisiKlinisTerkait": [
+      "Hipotiroidisme",
+      "Sindrom gagal tumbuh (Failure to Thrive Syndrome)",
+      "Leukemia",
+      "Defisiensi hormon pertumbuhan",
+      "Demensia",
+      "Delirium",
+      "Kelainan jantung bawaan",
+      "Penyakit kronis",
+      "Gangguan kepribadian (personality disorder)"
+    ]
+},
+  "Defisit Perawatan Diri": {
+    "kodeDiagnosa": "D.0109",
+    "definisi": "Tidak mampu melakukan atau menyelesaikan aktivitas perawatan diri.",
+    "penyebab": [
+      "Gangguan muskuloskeletal",
+      "Gangguan neuromuskuler",
+      "Kelemahan",
+      "Gangguan psikologis dan/atau psikotik",
+      "Penurunan motivasi/minat"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Menolak melakukan perawatan diri",
+        "Minat melakukan perawatan diri kurang"
+      ],
+      "objektif": [
+        "Tidak mampu mandi/mengenakan pakaian/makan/ke toilet/berhias secara mandiri"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia",
+      "objektif": "Tidak Tersedia"
+    },
+    "kondisiKlinisTerkait": [
+      "Stroke",
+      "Cedera medula spinalis",
+      "Depresi",
+      "Arthritis reumatoid",
+      "Retardasi mental",
+      "Delirium",
+      "Demensia",
+      "Gangguan amnestik",
+      "Skizofrenia dan gangguan psikotik lain",
+      "Fungsi penilaian terganggu"
+    ],
+    "keterangan": [
+      "Diagnosis ini dispesifikkan menjadi salah satu atau lebih dari:",
+      "Mandi",
+      "Berpakaian",
+      "Makan",
+      "Toileting",
+      "Berhias"
+    ]
+},
+  "Defisit Kesehatan Komunitas": {
+    "kodeDiagnosa": "D.0110",
+    "definisi": "Terdapat masalah kesehatan atau faktor risiko yang dapat mengganggu kesejahteraan pada suatu kelompok.",
+    "penyebab": [
+      "Hambatan akses ke pemberi pelayanan kesehatan",
+      "Keterbatasan sumber daya",
+      "Program tidak memiliki anggaran yang cukup",
+      "Program tidak atau kurang didukung komunitas",
+      "Komunitas kurang puas dengan program yang dijalankan",
+      "Program tidak memiliki rencana evaluasi yang optimal",
+      "Program tidak memiliki data hasil yang memadai",
+      "Program tidak mengatasi seluruh masalah kesehatan komunitas"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia",
+      "objektif": [
+        "Terjadi masalah kesehatan yang dialami komunitas",
+        "Terdapat faktor risiko fisiologis dan/atau psikologis yang menyebabkan anggota komunitas menjalani perawatan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia",
+      "objektif": [
+        "Tidak tersedia program untuk meningkatkan kesejahteraan bagi komunitas",
+        "Tidak tersedia program untuk mencegah masalah kesehatan komunitas",
+        "Tidak tersedia program untuk mengurangi masalah kesehatan komunitas",
+        "Tidak tersedia program untuk mengatasi masalah kesehatan komunitas"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "HIV/AIDS",
+      "Penyalahgunaan zat",
+      "Penyakit menular seksual",
+      "Kehamilan di luar nikah",
+      "Gizi buruk",
+      "Infeksi saluran pernapasan atas (ISPA)",
+      "Severe Acute Respiratory Syndrome (SARS)"
+    ]
+},
+  "Defisit Pengetahuan": {
+    "kodeDiagnosa": "D.0111",
+    "definisi": "Ketiadaan atau kurangnya informasi kognitif yang berkaitan dengan topik tertentu.",
+    "penyebab": [
+      "Keterbatasan kognitif",
+      "Gangguan fungsi kognitif",
+      "Kekeliruan mengikuti anjuran",
+      "Kurang terpapar informasi",
+      "Kurang minat dalam belajar",
+      "Kurang mampu mengingat",
+      "Ketidaktahuan menemukan sumber informasi"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Menanyakan masalah yang dihadapi"
+      ],
+      "objektif": [
+        "Menunjukkan perilaku tidak sesuai anjuran",
+        "Menunjukkan persepsi yang keliru terhadap masalah"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Menjalani pemeriksaan yang tidak tepat",
+        "Menunjukkan perilaku berlebihan (mis. apatis, bermusuhan, agitasi, histeria)"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kondisi klinis yang baru dihadapi oleh klien",
+      "Penyakit akut",
+      "Penyakit kronis"
+    ],
+    "keterangan": {
+      "Diagnosis ini dispesifikkan berdasarkan topik tertentu yaitu": [
+        "Gaya hidup sehat",
+        "Keamanan diri",
+        "Keamanan fisik anak",
+        "Kehamilan dan persalinan",
+        "Kesehatan maternal pasca persalinan",
+        "Kesehatan maternal prekonsepsi",
+        "Keterampilan psikomotorik",
+        "Konservasi energi",
+        "Latihan toiletting",
+        "Manajemen arthritis rheumatoid",
+        "Manajemen asma",
+        "Manajemen berat badan",
+        "Manajemen demensia",
+        "Manajemen depresi",
+        "Manajemen disritmia",
+        "Manajemen gagal jantung",
+        "Manajemen gangguan lipid",
+        "Manajemen gangguan makan",
+        "Manajemen hipertensi",
+        "Manajemen kanker",
+        "Manajemen nyeri",
+        "Manajemen osteoporosis",
+        "Manajemen penyakit akut",
+        "Manajemen penyakit arteri perifer",
+        "Manajemen penyakit ginjal",
+        "Manajemen penyakit jantung",
+        "Manajemen penyakit kronis",
+        "Manajemen penyakit paru obstruktif kronis",
+        "Manajemen pneumonia",
+        "Manajemen proses penyakit",
+        "Manajemen sklerosis multipel",
+        "Manajemen stroke",
+        "Manajemen waktu",
+        "Manajemen penyakit jantung koroner",
+        "Medikasi",
+        "Mekanika tubuh",
+        "Menyusui",
+        "Menyusui dengan botol",
+        "Nutrisi bayi/anak",
+        "Pencegahan jatuh",
+        "Pencegahan kanker",
+        "Pencegahan konsepsi",
+        "Pencegahan stroke",
+        "Pencegahan trombus",
+        "Pengontrolan penggunaan zat",
+        "Peningkatan fertilitas",
+        "Peran menjadi orang tua",
+        "Perawatan bayi",
+        "Perawatan kaki",
+        "Perawatan ostomi",
+        "Perilaku sehat",
+        "Program aktivitas",
+        "Program diet",
+        "Program latihan",
+        "Prosedur tindakan",
+        "Seks aman",
+        "Seksualitas",
+        "Stimulasi bayi dan anak"
+      ]
+    }
+},
+  "Kesiapan Peningkatan Manajemen Kesehatan": {
+    "kodeDiagnosa": "D.0112",
+    "definisi": "Pola pengaturan dan pengintegrasian program kesehatan ke dalam kehidupan sehari-hari yang cukup untuk memenuhi tujuan kesehatan dan dapat ditingkatkan.",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengekspresikan keinginan untuk mengelola masalah kesehatan dan pencegahannya"
+      ],
+      "objektif": [
+        "Pilihan hidup sehari-hari tepat untuk memenuhi tujuan program kesehatan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Mengekspresikan tidak adanya hambatan yang berarti dalam mengintegrasikan program yang ditetapkan untuk mengatasi masalah kesehatan"
+      ],
+      "objektif": [
+        "Menggambarkan berkurangnya faktor risiko terjadinya masalah kesehatan",
+        "Tidak ditemukan adanya gejala masalah kesehatan atau penyakit yang tidak terduga"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Diabetes melitus",
+      "Penyakit jantung kongestif",
+      "Penyakit paru obstruktif kronis",
+      "Asma",
+      "Sklerosis multipel",
+      "Lupus sistemik",
+      "HIV positif",
+      "AIDS",
+      "Prematuritas"
+    ]
+  },
+  "Kesiapan Peningkatan Pengetahuan": {
+    "kodeDiagnosa": "D.0113",
+    "definisi": "Perkembangan informasi kognitif yang berhubungan dengan topik spesifik cukup untuk memenuhi tujuan kesehatan dan dapat ditingkatkan.",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengungkapkan minat dalam belajar",
+        "Menjelaskan pengetahuan tentang suatu topik",
+        "Menggambarkan pengalaman sebelumnya yang sesuai dengan topik"
+      ],
+      "objektif": [
+        "Perilaku sesuai dengan pengetahuan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": "Tidak Tersedia."
+    },
+    "kondisiKlinisTerkait": [
+      "Perilaku upaya peningkatan kesehatan"
+    ]
+  },
+  "Ketidakpatuhan": {
+    "kodeDiagnosa": "D.0114",
+    "definisi": "Perilaku individu dan/atau pemberi asuhan tidak mengikuti rencana perawatan/pengobatan yang disepakati dengan tenaga kesehatan, sehingga menyebabkan hasil perawatan/pengobatan tidak efektif.",
+    "penyebab": [
+      "Disabilitas (mis. penurunan daya ingat, defisit sensorik/motorik)",
+      "Efek samping program perawatan/pengobatan",
+      "Beban pembiayaan program perawatan/pengobatan",
+      "Lingkungan tidak terapeutik",
+      "Program terapi kompleks dan/atau lama",
+      "Hambatan mengakses pelayanan kesehatan (mis. gangguan mobilisasi, masalah transportasi, ketiadaan orang merawat anak di rumah, cuaca tidak menentu)",
+      "Program terapi tidak ditanggung asuransi",
+      "Ketidakadekuatan pemahaman (sekunder akibat defisit kognitif, kecemasan, gangguan penglihatan/pendengaran, kelelahan, kurang motivasi)"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Menolak menjalani perawatan/pengobatan",
+        "Menolak mengikuti anjuran"
+      ],
+      "objektif": [
+        "Perilaku tidak mengikuti program perawatan/pengobatan",
+        "Perilaku tidak menjalankan anjuran"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Tampak tanda/gejala penyakit/masalah kesehatan masih ada atau meningkat",
+        "Tampak komplikasi penyakit/masalah kesehatan menetap atau meningkat"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kondisi baru terdiagnosis penyakit",
+      "Kondisi penyakit kronis",
+      "Masalah kesehatan yang membutuhkan perubahan pola hidup"
+    ]
+  },
+  "Manajemen Kesehatan Keluarga Tidak Efektif": {
+    "kodeDiagnosa": "D.0115",
+    "definisi": "Pola penanganan masalah kesehatan dalam keluarga tidak memuaskan untuk memulihkan kondisi kesehatan anggota keluarga.",
+    "penyebab": [
+      "Kompleksitas sistem pelayanan kesehatan",
+      "Kompleksitas program perawatan/pengobatan",
+      "Konflik pengambilan keputusan",
+      "Kesulitan ekonomi",
+      "Banyak tuntutan",
+      "Konflik keluarga"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengungkapkan tidak memahami masalah kesehatan yang diderita",
+        "Mengungkapkan kesulitan menjalankan perawatan yang ditetapkan"
+      ],
+      "objektif": [
+        "Gejala penyakit anggota keluarga semakin memberat",
+        "Aktivitas keluarga mengatasi masalah kesehatan tidak tepat"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia",
+      "objektif": [
+        "Gagal melakukan tindakan untuk mengurangi faktor risiko"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "PPOK",
+      "Sklerosis multipel",
+      "Arthritis rheumatoid",
+      "Nyeri kronis",
+      "Penyalahgunaan zat",
+      "Gagal ginjal/hati tahap terminal"
+    ]
+},
+  "Manajemen Kesehatan Tidak Efektif": {
+    "kodeDiagnosa": "D.0116",
+    "definisi": "Pola pengaturan dan pengintegrasian penanganan masalah kesehatan ke dalam kebiasaan hidup sehari-hari tidak memuaskan untuk mencapai status kesehatan yang diharapkan.",
+    "penyebab": [
+      "Kompleksitas sistem pelayanan kesehatan",
+      "Kompleksitas program perawatan/pengobatan",
+      "Konflik pengambilan keputusan",
+      "Kurang terpapar informasi",
+      "Kesulitan ekonomi",
+      "Tuntutan berlebih (mis. individu, keluarga)",
+      "Konflik keluarga",
+      "Ketidakefektifan pola perawatan kesehatan keluarga",
+      "Ketidakcukupan petunjuk untuk bertindak",
+      "Kekurangan dukungan sosial"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengungkapkan kesulitan dalam menjalani program perawatan/pengobatan"
+      ],
+      "objektif": [
+        "Gagal melakukan tindakan untuk mengurangi faktor risiko",
+        "Gagal menerapkan program perawatan/pengobatan dalam kehidupan sehari-hari",
+        "Aktivitas hidup sehari-hari tidak efektif untuk memenuhi tujuan kesehatan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": "Tidak Tersedia."
+    },
+    "kondisiKlinisTerkait": [
+      "Kondisi kronis (mis. kanker, penyakit paru obstruktif kronis, sklerosis multipel, arthritis, gagal ginjal, hati atau jantung kronis)",
+      "Diagnosis baru yang mengharuskan perubahan gaya hidup"
+    ]
+},
+  "Pemeliharaan Kesehatan Tidak Efektif": {
+    "kodeDiagnosa": "D.0117",
+    "definisi": "Ketidakmampuan mengidentifikasi, mengelola, dan/atau menemukan bantuan untuk mempertahankan kesehatan.",
+    "penyebab": [
+      "Hambatan kognitif",
+      "Ketidaktuntasan proses berduka",
+      "Ketidakadekuatan keterampilan berkomunikasi",
+      "Kurangnya keterampilan motorik halus/kasar",
+      "Ketidakmampuan membuat penilaian yang tepat",
+      "Ketidakmampuan mengatasi masalah (individu atau keluarga)",
+      "Ketidakcukupan sumber daya (mis. keuangan, fasilitas)",
+      "Gangguan persepsi",
+      "Tidak terpenuhinya tugas perkembangan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Kurang menunjukkan perilaku adaptif terhadap perubahan lingkungan",
+        "Kurang menunjukkan pemahaman tentang perilaku sehat",
+        "Tidak mampu menjalankan perilaku sehat"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Memiliki riwayat perilaku mencari bantuan kesehatan yang kurang",
+        "Kurang menunjukkan minat untuk meningkatkan perilaku sehat",
+        "Tidak memiliki sistem pendukung (support system)"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kondisi kronis (mis. sklerosis multipel, arthritis, nyeri kronis)",
+      "Cedera otak",
+      "Stroke",
+      "Paralisis",
+      "Cedera medula spinalis",
+      "Laringektomi",
+      "Demensia",
+      "Penyakit Alzheimer",
+      "Keterlambatan perkembangan"
+    ]
+},
+  "Gangguan Interaksi Sosial": {
+    "kodeDiagnosa": "D.0118",
+    "definisi": "Kuantitas dan/atau kualitas hubungan sosial yang kurang atau berlebih.",
+    "penyebab": [
+      "Defisiensi bicara",
+      "Hambatan perkembangan/maturasi",
+      "Ketiadaan orang terdekat",
+      "Perubahan neurologis (mis. kelahiran prematur, distres fetal, persalinan cepat atau persalinan lama)",
+      "Disfungsi sistem keluarga",
+      "Ketidakteraturan atau kekacauan lingkungan",
+      "Penganiayaan atau pengabaian anak",
+      "Hubungan orang tua-anak tidak memuaskan",
+      "Model peran negatif",
+      "Impulsif",
+      "Perilaku menentang",
+      "Perilaku agresif",
+      "Keengganan berpisah dengan orang terdekat"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Merasa tidak nyaman dengan situasi sosial",
+        "Merasa sulit menerima atau mengkomunikasikan perasaan"
+      ],
+      "objektif": [
+        "Kurang responsif atau tertarik pada orang lain",
+        "Tidak berminat melakukan kontak emosi dan fisik"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Sulit mengungkapkan kasih sayang"
+      ],
+      "objektif": [
+        "Gejala cemas berat",
+        "Kontak mata kurang",
+        "Ekspresi wajah tidak responsif",
+        "Tidak kooperatif dalam bermain dan berteman dengan sebaya",
+        "Perilaku tidak sesuai usia"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Retardasi mental",
+      "Gangguan autistik",
+      "Attention Deficit/Hyperactivity Disorder (ADHD)",
+      "Gangguan perilaku",
+      "Oppositional Defiant Disorder",
+      "Gangguan Tourette",
+      "Gangguan kecemasan perpisahan",
+      "Sindrom Down"
+    ]
+},
+  "Gangguan Komunikasi Verbal": {
+    "kodeDiagnosa": "D.0119",
+    "definisi": "Penurunan, perlambatan, atau ketiadaan kemampuan untuk menerima, memproses, mengirim, dan/atau menggunakan sistem simbol.",
+    "penyebab": [
+      "Penurunan sirkulasi serebral",
+      "Gangguan neuromuskuler",
+      "Gangguan pendengaran",
+      "Gangguan muskuloskeletal",
+      "Kelainan palatum",
+      "Hambatan fisik (mis. terpasang trakheostomi, intubasi, krikotiroidektomi)",
+      "Hambatan individu (mis. ketakutan, kecemasan, merasa malu, emosional, kurang privasi)",
+      "Hambatan psikologis (mis. gangguan psikotik, gangguan konsep diri, harga diri rendah, gangguan emosi)",
+      "Hambatan lingkungan (mis. ketidakcukupan informasi, ketiadaan orang terdekat, ketidaksesuaian budaya, bahasa asing)"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Tidak mampu berbicara atau mendengar",
+        "Menunjukkan respon tidak sesuai"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Afasia",
+        "Disfasia",
+        "Apraksia",
+        "Disleksia",
+        "Disartria",
+        "Afonia",
+        "Dislalia",
+        "Pelo",
+        "Gagap",
+        "Tidak ada kontak mata",
+        "Sulit memahami komunikasi",
+        "Sulit mempertahankan komunikasi",
+        "Sulit menggunakan ekspresi wajah atau tubuh",
+        "Tidak mampu menggunakan ekspresi wajah atau tubuh",
+        "Sulit menyusun kalimat",
+        "Verbalisasi tidak tepat",
+        "Sulit mengungkapkan kata-kata",
+        "Disorientasi orang, ruang, waktu",
+        "Defisit penglihatan",
+        "Delusi"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Stroke",
+      "Cedera kepala",
+      "Trauma wajah",
+      "Peningkatan tekanan intrakranial",
+      "Hipoksia kronis",
+      "Tumor",
+      "Miastenia gravis",
+      "Sklerosis multipel",
+      "Distropi muskuler",
+      "Penyakit Alzheimer",
+      "Kuadriplegia",
+      "Labiopalatoskizis",
+      "Infeksi laring",
+      "Fraktur rahang",
+      "Skizofrenia",
+      "Delusi",
+      "Paranoid",
+      "Autisme"
+    ]
+},
+  "Gangguan Proses Keluarga": {
+    "kodeDiagnosa": "D.0120",
+    "definisi": "Perubahan dalam hubungan atau fungsi keluarga.",
+    "penyebab": [
+      "Perubahan status kesehatan anggota keluarga",
+      "Perubahan finansial keluarga",
+      "Perubahan status sosial keluarga",
+      "Perubahan interaksi dengan masyarakat",
+      "Krisis perkembangan",
+      "Transisi perkembangan",
+      "Peralihan pengambil keputusan dalam keluarga",
+      "Perubahan peran keluarga",
+      "Krisis situasional",
+      "Transisi situasional"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Keluarga tidak mampu beradaptasi terhadap situasi",
+        "Tidak mampu berkomunikasi secara terbuka diantara anggota keluarga"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Keluarga tidak mampu mengungkapkan perasaan secara leluasa"
+        ],
+      "objektif": [
+        "Keluarga tidak mampu memenuhi kebutuhan fisik/ emosional/ spiritual anggota keluarga",
+        "Keluarga tidak mampu mencari atau menerima bantuan secara tepat"
+        ]
+    },
+    "kondisiKlinisTerkait": [
+      "Hospitalisasi",
+      "Kondisi penyakit kronis",
+      "Prosedur pembedahan",
+      "Cedera traumatis",
+      "Penyalahgunaan zat",
+      "Penyakit Alzheimer",
+      "Kehamilan"
+    ]
+},
+  "Isolasi Sosial": {
+    "kodeDiagnosa": "D.0121",
+    "definisi": "Ketidakmampuan untuk membina hubungan yang erat, hangat, terbuka, dan interdependen dengan orang lain.",
+    "penyebab": [
+      "Keterlambatan perkembangan",
+      "Ketidakmampuan menjalin hubungan yang memuaskan",
+      "Ketidaksesuaian minat dengan tahap perkembangan",
+      "Ketidaksesuaian nilai-nilai dengan norma",
+      "Ketidaksesuaian perilaku sosial dengan norma",
+      "Perubahan penampilan fisik",
+      "Perubahan status mental",
+      "Ketidakadekuatan sumber daya personal (mis. disfungsi berduka, pengendalian diri buruk)"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Merasa ingin sendirian",
+        "Merasa tidak aman di tempat umum"
+      ],
+      "objektif": [
+        "Menarik diri",
+        "Tidak berminat/menolak berinteraksi dengan orang lain atau lingkungan"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Merasa berbeda dengan orang lain",
+        "Merasa asyik dengan pikiran sendiri",
+        "Merasa tidak mempunyai tujuan yang jelas"
+      ],
+      "objektif": [
+        "Afek datar",
+        "Afek sedih",
+        "Riwayat ditolak",
+        "Menunjukkan permusuhan",
+        "Tidak mampu memenuhi harapan orang lain",
+        "Kondisi difabel",
+        "Tindakan tidak berarti",
+        "Tidak ada kontak mata",
+        "Perkembangan terlambat",
+        "Tidak bergairah/lesu"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Penyakit Alzheimer",
+      "AIDS",
+      "Tuberkulosis",
+      "Kondisi yang menyebabkan gangguan mobilisasi",
+      "Gangguan psikiatrik (mis. depresi mayor dan schizophrenia)"
+    ]
+},
+  "Kesiapan Peningkatan Menjadi Orang Tua": {
+    "kodeDiagnosa": "D.0122",
+    "definisi": "Pola pemberian lingkungan bagi anak atau anggota keluarga yang cukup untuk memfasilitasi pertumbuhan dan perkembangan serta dapat ditingkatkan.",
+    "penyebab": "Tidak Tersedia.",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengekspresikan keinginan untuk meningkatkan peran menjadi orang tua"
+      ],
+      "objektif": [
+        "Tampak adanya dukungan emosi dan pengertian pada anak atau anggota keluarga"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Anak atau anggota keluarga lainnya mengekspresikan kepuasan dengan lingkungan rumah",
+        "Anak atau anggota keluarga mengungkapkan harapan yang realistis"
+      ],
+      "objektif": [
+        "Kebutuhan fisik dan emosi anak/anggota keluarga terpenuhi"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Perilaku upaya peningkatan kesehatan"
+    ]
+},
+  "Kesiapan Peningkatan Proses Keluarga": {
+    "kodeDiagnosa": "D.0123",
+    "definisi": "Pola fungsi keluarga yang cukup untuk mendukung kesejahteraan anggota keluarga dan dapat ditingkatkan.",
+    "penyebab": "Tidak Tersedia.",
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Mengekspresikan keinginan untuk meningkatkan dinamika keluarga"
+      ],
+      "objektif": [
+        "Menunjukkan fungsi keluarga dalam memenuhi kebutuhan fisik, sosial, dan psikologis anggota keluarga",
+        "Menunjukkan aktivitas untuk mendukung keselamatan dan pertumbuhan anggota keluarga",
+        "Peran keluarga fleksibel dan tepat dengan tahap perkembangan",
+        "Terlihat adanya respek dengan anggota keluarga"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Keluarga menunjukkan minat melakukan aktivitas hidup sehari-hari yang positif",
+        "Terlihat adanya kemampuan keluarga untuk pulih dari kondisi sulit",
+        "Tampak keseimbangan antara otonomi dan kebersamaan",
+        "Batasan-batasan anggota keluarga dipertahankan",
+        "Hubungan dengan masyarakat terjalin positif",
+        "Keluarga beradaptasi dengan perubahan"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kondisi kesehatan kronis (mis. asma, diabetes melitus, lupus sistemik, sklerosis multipel, AIDS)",
+      "Gangguan jiwa (mis. gangguan afektif, gangguan perhatian, sindrom down)"
+    ]
+},
+  "Ketegangan Peran Pemberi Asuhan": {
+    "kodeDiagnosa": "D.0124",
+    "definisi": "Kesulitan dalam melakukan peran pemberi asuhan dalam keluarga.",
+    "penyebab": [
+      "Beratnya penyakit penerima asuhan",
+      "Kronisnya penyakit penerima asuhan",
+      "Pemberi asuhan kurang mendapatkan waktu istirahat dan rekreasi",
+      "Persaingan komitmen peran pemberi asuhan",
+      "Ketidakadekuatan lingkungan fisik dalam pemberian asuhan",
+      "Keluarga atau pemberi asuhan jauh dari kerabat lain",
+      "Kompleksitas dan jumlah aktivitas pemberi asuhan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Khawatir klien akan kembali dirawat di rumah sakit",
+        "Khawatir tentang kelanjutan perawatan klien",
+        "Khawatir tentang ketidakmampuan pemberi asuhan dalam merawat klien"
+      ],
+      "objektif": "Tidak Tersedia."
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Sulit melakukan dan/atau menyelesaikan tugas merawat klien"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kondisi kronis (mis. cedera kepala berat, cedera medula spinalis, keterlambatan perkembangan)",
+      "Kondisi kelemahan progresif (mis. distrofi muskuler, sklerosis multipel, demensia, penyakit Alzheimer, PPOK tahap terminal, gagal ginjal, dialisis ginjal)",
+      "Penyalahgunaan zat",
+      "Kondisi akhir hayat (menjelang ajal)",
+      "Kondisi psikiatrik (mis. gangguan kepribadian, skizofrenia)"
+    ]
+},
+  "Penampilan Peran Tidak Efektif": {
+    "kodeDiagnosa": "D.0125",
+    "definisi": "Pola perilaku yang berubah atau tidak sesuai dengan harapan, norma, dan lingkungan.",
+    "penyebab": [
+      "Harapan peran tidak realistis",
+      "Hambatan fisik",
+      "Harga diri rendah",
+      "Perubahan citra tubuh",
+      "Ketidakadekuatan sistem pendukung (support system)",
+      "Stres",
+      "Perubahan peran",
+      "Faktor ekonomi"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": [
+        "Merasa bingung menjalankan peran",
+        "Merasa harapan tidak terpenuhi",
+        "Merasa tidak puas dalam menjalankan peran"
+      ],
+      "objektif": [
+        "Konflik peran",
+        "Adaptasi tidak adekuat",
+        "Strategi koping tidak efektif"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Merasa cemas"
+      ],
+      "objektif": [
+        "Depresi",
+        "Dukungan sosial kurang",
+        "Kurang bertanggung jawab menjalankan peran"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Penyakit keganasan organ reproduksi",
+      "Kondisi kronis",
+      "Pembedahan mayor",
+      "Penyalahgunaan zat",
+      "Cedera medula spinalis",
+      "Sindrom keletihan kronis",
+      "Depresi mayor"
+    ]
+},
+  "Pencapaian Peran Menjadi Orang Tua": {
+    "kodeDiagnosa": "D.0126",
+    "definisi": "Terjadinya proses interaktif antar anggota keluarga (suami-istri, anggota keluarga, dan bayi) yang ditunjukkan dengan perkembangan bayi yang optimal.",
+    "penyebab": "Tidak Tersedia.",
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Bounding attachment optimal",
+        "Perilaku positif menjadi orang tua",
+        "Saling berinteraksi dalam merawat bayi"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Mengungkapkan kepuasan dengan bayi"
+      ],
+      "objektif": [
+        "Melakukan stimulasi visual, taktil, atau pendengaran terhadap bayi"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Status kesehatan ibu",
+      "Status kesehatan bayi"
+    ]
+},
+  "Risiko Gangguan Perlekatan": {
+    "kodeDiagnosa": "D.0127",
+    "definisi": "Berisiko mengalami gangguan interaksi antara orang tua atau orang terdekat dengan bayi/anak yang dapat mempengaruhi proses asah, asih, dan asuh.",
+    "faktorRisiko": [
+      "Kekhawatiran menjalankan peran sebagai orang tua",
+      "Perpisahan antara ibu dan bayi/anak akibat hospitalisasi",
+      "Penghalang fisik (mis. inkubator, baby warmer)",
+      "Ketidakmampuan orang tua memenuhi kebutuhan bayi/anak",
+      "Perawatan dalam ruang isolasi",
+      "Prematuritas",
+      "Penyalahgunaan zat",
+      "Konflik hubungan antara orang tua dan anak",
+      "Perilaku bayi tidak terkoordinasi"
+    ],
+    "kondisiKlinisTerkait": [
+      "Hospitalisasi",
+      "Prematuritas",
+      "Penyakit kronis pada orang tua atau anak",
+      "Retardasi mental",
+      "Komplikasi maternal",
+      "Sakit selama periode hamil dan melahirkan",
+      "Post partum blues"
+    ]
+},
+  "Risiko Proses Pengasuhan Tidak Efektif": {
+    "kodeDiagnosa": "D.0128",
+    "definisi": "Berisiko mengalami proses kehamilan, persalinan, dan setelah melahirkan termasuk perawatan bayi baru lahir yang tidak sesuai dengan konteks norma.",
+    "faktorRisiko": [
+      "Kekerasan dalam rumah tangga",
+      "Kehamilan tidak diinginkan/direncanakan",
+      "Kurang terpapar informasi tentang proses persalinan/pengasuhan",
+      "Ketidakberdayaan maternal",
+      "Distres psikologis",
+      "Penyalahgunaan obat",
+      "Ketidakadekuatan manajemen ketidaknyamanan selama persalinan",
+      "Akses pelayanan kesehatan sulit dijangkau",
+      "Kurangnya minat/proaktif dalam proses persalinan",
+      "Ketidaksesuaian kondisi bayi dengan harapan",
+      "Ketidakamanan lingkungan untuk bayi"
+    ],
+    "kondisiKlinisTerkait": [
+      "Gangguan pertumbuhan janin",
+      "Gangguan kesehatan fisik dan psikologis ibu"
+    ]
+},
+  "Gangguan Integritas Kulit/Jaringan": {
+    "kodeDiagnosa": "D.0129",
+    "definisi": "Kerusakan kulit (dermis dan/atau epidermis) atau jaringan (membran mukosa, kornea, fasia, otot, tendon, tulang, kartilago, kapsul sendi, dan/atau ligamen).",
+    "penyebab": [
+      "Perubahan sirkulasi",
+      "Perubahan status nutrisi (kelebihan atau kekurangan)",
+      "Kekurangan/kelebihan volume cairan",
+      "Penurunan mobilitas",
+      "Bahan kimia iritatif",
+      "Suhu lingkungan yang ekstrem",
+      "Faktor mekanis (mis. penekanan pada tonjolan tulang, gesekan) atau faktor elektris (elektrodiatermi, energi listrik bertegangan tinggi)",
+      "Efek samping terapi radiasi",
+      "Kelembaban",
+      "Proses penuaan",
+      "Neuropati perifer",
+      "Perubahan pigmentasi",
+      "Perubahan hormonal",
+      "Kurang terpapar informasi tentang upaya mempertahankan/melindungi integritas jaringan"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Kerusakan jaringan dan/atau lapisan kulit"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Nyeri",
+        "Perdarahan",
+        "Kemerahan",
+        "Hematoma"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Imobilisasi",
+      "Gagal jantung kongestif",
+      "Gagal ginjal",
+      "Diabetes melitus",
+      "Imunodefisiensi (mis. AIDS)"
+    ]
+},
+  "Hipertermia": {
+    "kodeDiagnosa": "D.0130",
+    "definisi": "Suhu tubuh meningkat di atas rentang normal tubuh.",
+    "penyebab": [
+      "Dehidrasi",
+      "Terpapar lingkungan panas",
+      "Proses penyakit (mis. infeksi, kanker)",
+      "Ketidaksesuaian pakaian dengan suhu lingkungan",
+      "Peningkatan laju metabolisme",
+      "Respon trauma",
+      "Aktivitas berlebihan",
+      "Penggunaan inkubator"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Suhu tubuh di atas nilai normal"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Kulit merah",
+        "Kejang",
+        "Takikardi",
+        "Takipnea",
+        "Kulit terasa hangat"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Proses infeksi",
+      "Hipertiroid",
+      "Stroke",
+      "Dehidrasi",
+      "Trauma",
+      "Prematuritas"
+    ]
+},
+  "Hipotermia": {
+    "kodeDiagnosa": "D.0131",
+    "definisi": "Suhu tubuh berada di bawah rentang normal tubuh.",
+    "penyebab": [
+      "Kerusakan hipotalamus",
+      "Konsumsi alkohol",
+      "Berat badan ekstrem",
+      "Kekurangan lemak subkutan",
+      "Terpapar suhu lingkungan rendah",
+      "Malnutrisi",
+      "Pemakaian pakaian tipis",
+      "Penurunan laju metabolisme",
+      "Tidak beraktivitas",
+      "Transfer panas (mis. konduksi, konveksi, evaporasi, radiasi)",
+      "Trauma",
+      "Proses penuaan",
+      "Efek agen farmakologis",
+      "Kurang terpapar informasi tentang pencegahan hipotermia"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Kulit teraba dingin",
+        "Menggigil",
+        "Suhu tubuh di bawah nilai normal"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": "Tidak Tersedia.",
+      "objektif": [
+        "Akrosianosis",
+        "Bradikardi",
+        "Dasar kuku sianotik",
+        "Hipoglikemia",
+        "Hipoksia",
+        "Pengisian kapiler >3 detik",
+        "Konsumsi oksigen meningkat",
+        "Ventilasi menurun",
+        "Piloereksi",
+        "Takikardia",
+        "Vasokonstriksi perifer",
+        "Kutis memorata (pada neonatus)"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Hipotiroidisme",
+      "Anoreksia nervosa",
+      "Cedera batang otak",
+      "Prematuritas",
+      "Berat badan lahir rendah (BBLR)",
+      "Tenggelam"
+    ]
+},
+  "Perlambatan Pemulihan Pascabedah": {
+    "kodeDiagnosa": "D.0133",
+    "definisi": "Pemanjangan jumlah hari pascabedah untuk memulai dan melakukan aktivitas sehari-hari.",
+    "penyebab": [
+      "Skor klasifikasi status fisik American Society of Anesthesiologists (ASA) ≥3",
+      "Hiperglikemia",
+      "Edema pada lokasi pembedahan",
+      "Prosedur pembedahan ekstensif (luas)",
+      "Usia ekstrem",
+      "Riwayat perlambatan penyembuhan luka",
+      "Gangguan mobilitas",
+      "Malnutrisi",
+      "Obesitas",
+      "Infeksi luka perioperatif",
+      "Mual/ muntah persisten",
+      "Respon emosional pascaoperasi",
+      "Pemanjangan proses operasi",
+      "Gangguan psikologis pascaoperasi",
+      "Kontaminasi bedah",
+      "Trauma pada luka operasi",
+      "Efek agen farmakologis"
+    ],
+    "gejalaTandaMayor": {
+      "subjektif": "Mengeluh tidak nyaman",
+      "objektif": [
+        "Area luka operasi terbuka",
+        "Waktu penyembuhan yang memanjang"
+      ]
+    },
+    "gejalaTandaMinor": {
+      "subjektif": [
+        "Gangguan mobilitas",
+        "Tidak mampu melanjutkan pekerjaan",
+        "Memulai pekerjaan tertunda",
+        "Membutuhkan bantuan untuk perawatan diri"
+      ],
+      "objektif": "Selera makan hilang"
+    },
+    "kondisiKlinisTerkait": [
+      "Tindakan operasi besar",
+      "Trauma yang memerlukan intervensi bedah"
+    ]
+},
+  "Risiko Alergi": {
+    "kodeDiagnosa": "D.0134",
+    "definisi": "Berisiko mengalami stimulasi respon imunitas yang berlebihan akibat terpapar alergen.",
+    "faktorRisiko": [
+      "Makanan (mis. alpukat, pisang, kiwi, kacang, makanan olahan laut, buah tropis, jamur)",
+      "Terpapar zat alergen (mis. zat kimia, agen farmakologis)",
+      "Terpapar alergen lingkungan (mis. debu, serbuk sari)",
+      "Sengatan serangga"
+    ],
+    "kondisiKlinisTerkait": [
+      "Kondisi penurunan imunitas",
+      "Riwayat pembedahan",
+      "Riwayat alergi sebelumnya",
+      "Asma"
+    ]
+},
+  "Risiko Bunuh Diri": {
+    "kodeDiagnosa": "D.0135",
+    "definisi": "Berisiko melakukan upaya menyakiti diri sendiri untuk mengakhiri kehidupan.",
+    "faktorRisiko": [
+      "Gangguan perilaku (mis. euforia mendadak setelah depresi, perilaku mencari senjata berbahaya, membeli Obat dalam jumlah banyak, membuat surat warisan)",
+      "Demografi (mis. lansia, status perceraian, janda/ duda, ekonomi rendah, pengangguran)",
+      "Gangguan fisik (mis. nyeri kronis, penyakit terminal)",
+      "Masalah sosial (mis. berduka, tidak berdaya, putus asa, kesepian, kehilangan hubungan yang penting, isolasi sosial)",
+      "Gangguan psikologis (mis. penganiayaan masa kanak-kanak, riwayat bunuh diri sebelumnya, remaja homoseksual, gangguan psikiatrik, penyakit psikiatrik, penyalahgunaan zat)"
+    ],
+    "kondisiKlinisTerkait": [
+      "Sindrom otak akut/ kronis",
+      "Ketidakseimbangan hormon (mis. premenstrual syndrome, postpartum psychosis)",
+      "Penyalahgunaan zat",
+      "Post traumatic stress disorder (PTSD)",
+      "Penyakit kronis/ terminal (mis. kanker)"
+    ]
+},
+  "Risiko Cedera": {
+    "kodeDiagnosa": "D.0136",
+    "definisi": "Berisiko mengalami bahaya atau kerusakan fisik yang menyebabkan seseorang tidak lagi sepenuhnya sehat atau dalam kondisi baik.",
+    "faktorRisiko": {
+      "Eksternal": [
+        "Terpapar patogen",
+        "Terpapar zat kimia toksik",
+        "Terpapar agen nosokomial",
+        "Ketidakamanan transportasi"
+      ],
+      "Internal": [
+        "Ketidaknormalan profil darah",
+        "Perubahan orientasi afektif",
+        "Perubahan sensasi",
+        "Disfungsi autoimun",
+        "Disfungsi biokimia",
+        "Hipoksia jaringan",
+        "Kegagalan mekanisme pertahanan tubuh",
+        "Malnutrisi",
+        "Perubahan fungsi psikomotor",
+        "Perubahan fungsi kognitif"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Kejang",
+      "Sinkop",
+      "Vertigo",
+      "Gangguan penglihatan",
+      "Gangguan pendengaran",
+      "Penyakit Parkinson",
+      "Hipotensi",
+      "Kelainan nervus vestibularis",
+      "Retardasi mental"
+    ]
+},
+  "Risiko Cedera Pada Ibu": {
+    "kodeDiagnosa": "D.0137",
+    "definisi": "Berisiko mengalami bahaya atau kerusakan fisik pada ibu selama masa kehamilan sampai dengan proses persalinan.",
+    "faktorRisiko": [
+      "Besarnya ukuran janin",
+      "Malposisi janin (posisi posterior)",
+      "Induksi persalinan",
+      "Persalinan lama kala I, II dan III",
+      "Disfungsi uterus",
+      "Efek metode/ intervensi bedah selama persalinan",
+      "Kurangnya dukungan keluarga dan orang tua",
+      "Kurang adekuatnya observasi dan antisipasi",
+      "Keterlambatan pengambilan keputusan dan manajemen",
+      "Skrining dan perawatan prenatal yang tidak adekuat",
+      "Kecemasan berlebihan pada proses persalinan",
+      "Riwayat cedera pada persalinan sebelumnya",
+      "Usia ibu (<15 tahun atau >35 tahun)",
+      "Paritas banyak",
+      "Perubahan hormonal",
+      "Perubahan postur tubuh",
+      "Ketuban pecah",
+      "Proses infeksi",
+      "Penyakit penyerta",
+      "Masalah kontraksi"
+    ],
+    "kondisiKlinisTerkait": [
+      "Posisi tubuh lordosis",
+      "Kelelahan",
+      "Ketuban pecah",
+      "Penurunan kadar hemoglobin"
+    ]
+},
+  "Risiko Cedera Pada Janin": {
+    "kodeDiagnosa": "D.0138",
+    "definisi": "Berisiko mengalami bahaya atau kerusakan fisik pada janin selama proses kehamilan dan persalinan.",
+    "faktorRisiko": [
+      "Besarnya ukuran janin",
+      "Malposisi janin",
+      "Induksi persalinan",
+      "Persalinan lama kala I, II dan III",
+      "Disfungsi uterus",
+      "Kecemasan yang berlebihan tentang proses persalinan",
+      "Riwayat persalinan sebelumnya",
+      "Usia ibu (<15 tahun atau >35 tahun)",
+      "Paritas banyak",
+      "Efek metode/intervensi bedah selama persalinan",
+      "Nyeri pada abdomen",
+      "Nyeri pada jalan lahir",
+      "Penggunaan alat bantu persalinan",
+      "Kelelahan",
+      "Merokok",
+      "Efek agen farmakologis",
+      "Pengaruh budaya",
+      "Pola makan yang tidak sehat",
+      "Faktor ekonomi",
+      "Konsumsi alkohol",
+      "Terpapar agen teratogen"
+    ],
+    "kondisiKlinisTerkait": [
+      "Ketuban Pecah Sebelum Waktunya (KPSW)",
+      "Infeksi",
+      "Penyakit penyerta: Asma, hipertensi, penyakit menular seksual, AIDS",
+      "Masalah kontraksi",
+      "Efek pengobatan pada ibu"
+    ]
+},
+  "Risiko Gangguan Integritas Kulit/Jaringan": {
+    "kodeDiagnosa": "D.0139",
+    "definisi": "Berisiko mengalami kerusakan kulit (dermis dan/ atau epidermis) atau jaringan (membran mukosa, kornea, fasia, otot, tendon, tulang, kartilago, kapsul sendi dan/ atau ligamen).",
+    "faktorRisiko": [
+      "Perubahan sirkulasi",
+      "Perubahan status nutrisi (kelebihan atau kekurangan)",
+      "Kekurangan/ kelebihan volume cairan",
+      "Penurunan mobilitas",
+      "Bahan kimia iritatif",
+      "Suhu lingkungan yang ekstrem",
+      "Faktor mekanis (mis. penekanan, gesekan) atau faktor elektris (elektrodiatermi, energi listrik bertegangan tinggi)",
+      "Terapi radiasi",
+      "Kelembaban",
+      "Proses penuaan",
+      "Neuropati perifer",
+      "Perubahan pigmentasi",
+      "Perubahan hormonal",
+      "Penekanan pada tonjolan tulang",
+      "Kurang terpapar informasi tentang upaya mempertahankan/ melindungi integritas jaringan"
+    ],
+    "kondisiKlinisTerkait": [
+      "Imobilisasi",
+      "Gagal jantung kongestif",
+      "Gagal ginjal",
+      "Diabetes melitus",
+      "Imunodefisiensi (mis. AIDS)",
+      "Kateterisasi jantung"
+    ],
+    "keterangan": [
+      "Dispesifikkan menjadi kulit atau jaringan.",
+      "Kulit hanya terbatas pada dermis dan epidermis, sedangkan jaringan meliputi tidak hanya kulit tetapi juga mukosa, kornea, fasia, otot, tendon, tulang, kartilago, kapsul sendi dan/ atau ligamen."
+  ]
+},
+  "Risiko Hipotermia": {
+    "kodeDiagnosa": "D.0140",
+    "definisi": "Berisiko mengalami kegagalan termoregulasi yang dapat mengakibatkan suhu tubuh berada di bawah rentang normal.",
+    "faktorRisiko": [
+      "Berat badan ekstrem",
+      "Kerusakan hipotalamus",
+      "Konsumsi alkohol",
+      "Kurangnya lapisan lemak subkutan",
+      "Suhu lingkungan rendah",
+      "Malnutrisi",
+      "Pemakaian pakaian yang tipis",
+      "Penurunan laju metabolisme",
+      "Terapi radiasi",
+      "Tidak beraktivitas",
+      "Transfer panas (mis. konduksi, konveksi, evaporasi, radiasi)",
+      "Trauma",
+      "Prematuritas",
+      "Penuaan",
+      "Bayi baru lahir",
+      "Berat badan lahir rendah",
+      "Kurang terpapar informasi tentang pencegahan hipotermia",
+      "Efek agen farmakologis"
+    ],
+    "kondisiKlinisTerkait": [
+      "Berat badan ekstrem",
+      "Dehidrasi",
+      "Kurang mobilitas fisik"
+    ]
+},
+  "Risiko Hipotermia Perioperatif": {
+    "kodeDiagnosa": "D.0141",
+    "kategori": "Lingkungan",
+    "subkategori": "Keamanan dan Proteksi",
+    "definisi": "Berisiko mengalami penurunan suhu tubuh di bawah 36 derajat celcius secara tiba-tiba yang terjadi satu jam sebelum pembedahan hingga 24 jam setelah pembedahan.",
+    "faktorRisiko": [
+      "Prosedur pembedahan",
+      "Kombinasi anastesi regional dan umum",
+      "Skor American Society of Anestesiologist (ASA) > 1",
+      "Suhu pra-operasi rendah (<36 derajat C)",
+      "Berat badan rendah",
+      "Neuropati diabetik",
+      "Komplikasi kardiovaskuler",
+      "Suhu lingkungan rendah",
+      "Transfer panas (mis. volume tinggi infus yang tidak dihangatkan, irigasi >2 liter yang tidak dihangatkan)"
+    ],
+    "kondisiKlinisTerkait": [
+      "Tindakan Pembedahan"
+    ]
+},
+  "Risiko Infeksi": {
+    "kodeDiagnosa": "D.0142",
+    "definisi": "Berisiko mengalami peningkatan terserang organisme patogenik.",
+    "faktorRisiko": [
+      "Penyakit kronis (mis. diabetes melitus)",
+      "Efek prosedur invasif",
+      "Malnutrisi",
+      "Peningkatan paparan organisme patogen lingkungan"
+    ],
+      "KetidakadekuatanPertahananTubuhPrimer": [
+        "Gangguan peristaltik",
+        "Kerusakan integritas kulit",
+        "Perubahan sekresi pH",
+        "Penurunan kerja siliaris",
+        "Ketuban pecah lama",
+        "Ketuban pecah sebelum waktu",
+        "Merokok",
+        "Statis cairan tubuh"
+      ],
+      "KetidakadekuatanPertahananTubuhSekunder": [
+        "Penurunan hemoglobin",
+        "Imunonosupresi",
+        "Leukopenia",
+        "Supresi respon inflamasi",
+        "Vaksinasi tidak adekuat"
+      ],
+    "kondisiKlinisTerkait": [
+      "AIDS",
+      "Luka bakar",
+      "Penyakit paru obstruktif kronis",
+      "Diabetes melitus",
+      "Tindakan invasif",
+      "Kondisi penggunaan terapi steroid",
+      "Penyalahgunaan Obat",
+      "Ketuban Pecah Sebelum Waktunya (KPSW)",
+      "Kanker",
+      "Gagal ginjal",
+      "Imunosupresi",
+      "Lymphedema",
+      "Leukositopenia",
+      "Gangguan fungsi hati"
+    ]
+},
+  "Risiko Jatuh": {
+    "kodeDiagnosa": "D.0143",
+    "definisi": "Berisiko mengalami kerusakan fisik dan gangguan kesehatan akibat terjatuh.",
+    "faktorRisiko": [
+      "Usia ≥65 tahun (pada dewasa) atau ≤2 tahun (pada anak)",
+      "Riwayat jatuh",
+      "Anggota gerak bawah prostesis (buatan)",
+      "Penggunaan alat bantu berjalan",
+      "Penurunan tingkat kesadaran",
+      "Perubahan fungsi kognitif",
+      "Lingkungan tidak aman (mis. licin, gelap, lingkungan asing)",
+      "Kondisi pasca operasi",
+      "Hipotensi ortostatik",
+      "Perubahan kadar glukosa darah",
+      "Anemia",
+      "Kekuatan otot menurun",
+      "Gangguan pendengaran",
+      "Gangguan keseimbangan",
+      "Gangguan penglihatan (mis. glaukoma, katarak, ablasio retina, neuritis optikus)",
+      "Neuropati",
+      "Efek agen farmakologis (mis. sedasi, alkohol, anastesi umum)"
+    ],
+    "kondisiKlinisTerkait": [
+      "Osteoporosis",
+      "Kejang",
+      "Penyakit sebrovaskuler",
+      "Katarak",
+      "Glaukoma",
+      "Demensia",
+      "Hipotensi",
+      "Amputasi",
+      "Intoksikasi",
+      "Preeklampsi"
+    ]
+},
+  "Risiko Luka Tekan": {
+    "kodeDiagnosa": "D.0144",
+    "definisi": "Berisiko mengalami cedera lokal pada kulit dan/atau jaringan, biasanya pada tonjolan tulang akibat tekanan dan/atau gesekan.",
+    "faktorRisiko": [
+      "Skor skala Braden Q ≤16 (anak) atau Skor skala Braden < 18 (dewasa)",
+      "Perubahan fungsi kognitif",
+      "Perubahan sensasi",
+      "Skor ASA (American Society of Anesthesiologists) ≥2",
+      "Anemia",
+      "Penurunan mobilisasi",
+      "Penurunan kadar albumin",
+      "Penurunan oksigenasi jaringan",
+      "Penurunan perfusi jaringan",
+      "Dehidrasi",
+      "Kulit kering",
+      "Edema",
+      "Peningkatan suhu kulit 1 – 2 derajat Celcius",
+      "Periode imobilisasi yang lama di atas permukaan yang keras (mis. prosedur operasi ≥2 jam)",
+      "Usia ≥65 tahun",
+      "Berat badan lebih",
+      "Fraktur tungkai",
+      "Riwayat stroke",
+      "Riwayat luka tekan",
+      "Riwayat trauma",
+      "Hipertermi",
+      "Inkontinensia",
+      "Ketidakadekuatan nutrisi",
+      "Skor RAPS (Risk Assessment Pressure Score) rendah",
+      "Klasifikasi fungsional NYHA (New York Heart Association) ≥2",
+      "Efek agen farmakologis (mis. anestesi umum, vasopressor, antidepresan, norepinefrin)",
+      "Imobilisasi fisik",
+      "Penekanan di atas tonjolan tulang",
+      "Penurunan tebal lipatan kulit trisep",
+      "Kulit bersisik",
+      "Gesekan permukaan kulit"
+    ],
+    "kondisiKlinisTerkait": [
+      "Anemia",
+      "Gagal jantung kongestif",
+      "Trauma",
+      "Stroke",
+      "Malnutrisi",
+      "Obesitas",
+      "Fraktur tungkai",
+      "Cedera medula spinalis dan/atau kepala",
+      "Imobilisasi"
+    ]
+},
+  "Risiko Mutilasi Diri": {
+    "kodeDiagnosa": "D.0145",
+    "definisi": "Berisiko sengaja mencederai diri yang menyebabkan kerusakan fisik untuk memperoleh pemulihan ketegangan.",
+    "faktorRisiko": [
+      "Perkembangan remaja",
+      "Individu autistik",
+      "Gangguan kepribadian",
+      "Penyakit keturunan",
+      "Penganiayaan (mis. fisik, psikologis, seksual)",
+      "Gangguan hubungan interpersonal",
+      "Perceraian keluarga",
+      "Keterlambatan perkembangan",
+      "Riwayat perilaku mencederai diri",
+      "Ancaman kehilangan hubungan yang bermakna",
+      "Ketidakmampuan mengungkapkan ketegangan secara verbal",
+      "Ketidakmampuan mengatasi masalah",
+      "Harga diri rendah",
+      "Peningkatan ketegangan yang tidak dapat ditoleransi"
+    ],
+    "kondisiKlinisTerkait": [
+      "Gangguan kepribadian",
+      "Gangguan mental organik",
+      "Autisme",
+      "Skizofrenia",
+      "Depresi mayor",
+      "Dissociative Identity Disorder (DID)",
+      "Masokisme seksual",
+      "Gangguan afektif atau mania",
+      "Riwayat penganiayaan"
+    ]
+},
+  "Risiko Perilaku Kekerasan": {
+    "kodeDiagnosa": "D.0146",
+    "definisi": "Berisiko membahayakan secara fisik, emosi, dan/atau seksual pada diri sendiri atau orang lain.",
+    "faktorRisiko": [
+      "Pemikiran waham/ delusi",
+      "Curiga pada orang lain",
+      "Halusinasi",
+      "Berencana bunuh diri",
+      "Disfungsi sistem keluarga",
+      "Kerusakan kognitif",
+      "Disorientasi atau konfusi",
+      "Kerusakan kontrol impuls",
+      "Persepsi pada lingkungan tidak akurat",
+      "Alam perasaan depresi",
+      "Riwayat kekerasan pada hewan",
+      "Kelainan neurologis",
+      "Lingkungan tidak teratur",
+      "Penganiayaan atau pengabaian anak",
+      "Riwayat atau ancaman kekerasan terhadap diri sendiri atau orang lain atau destruksi properti orang lain",
+      "Impulsif",
+      "Ilusi"
+    ],
+    "kondisiKlinisTerkait": [
+      "Penganiayaan fisik, psikologis atau seksual",
+      "Sindrom otak organik (mis. penyakit Alzheimer)",
+      "Gangguan perilaku",
+      "Oppositional defiant disorder",
+      "Depresi",
+      "Serangan panik",
+      "Gangguan Tourette",
+      "Delirium",
+      "Demensia",
+      "Gangguan amnestik",
+      "Halusinasi",
+      "Upaya bunuh diri",
+      "Abnormalitas neurotransmitter otak"
+    ]
+},
+  "Risiko Perlambatan Pemulihan Pascabedah": {
+    "kodeDiagnosa": "D.0147",
+    "definisi": "Berisiko mengalami pemanjangan jumlah hari pascabedah untuk memulai dan melakukan aktivitas sehari-hari.",
+    "faktorRisiko": [
+      "Skor klasifikasi status fisik American Society of Anesthesiologists (ASA) ≥3",
+      "Hiperglikemia",
+      "Edema di lokasi pembedahan",
+      "Prosedur pembedahan ekstensif (luas)",
+      "Usia ekstrem",
+      "Riwayat perlambatan penyembuhan luka",
+      "Gangguan mobilitas",
+      "Mainutrisi",
+      "Obesitas",
+      "Infeksi luka perioperatif",
+      "Mual/muntah persisten",
+      "Respon emosional pasca operasi",
+      "Pemanjangan proses operasi",
+      "Gangguan psikologis pasca operasi",
+      "Kontaminasi bedah",
+      "Trauma luka operasi",
+      "Efek agen farmakologis"
+    ],
+    "kondisiKlinisTerkait": [
+      "Tindakan operasi besar",
+      "Trauma yang memerlukan intervensi bedah"
+    ]
+},
+  "Risiko Termoregulasi Tidak Efektif": {
+    "kodeDiagnosa": "D.0148",
+    "definisi": "Berisiko mengalami kegagalan mempertahankan suhu tubuh dalam rentang normal.",
+    "faktorRisiko": [
+      "Cedera otak akut",
+      "Dehidrasi",
+      "Pakaian yang tidak sesuai untuk suhu lingkungan",
+      "Peningkatan area permukaan tubuh terhadap rasio berat badan",
+      "Kebutuhan oksigen meningkat",
+      "Perubahan laju metabolisme",
+      "Proses penyakit (mis. infeksi)",
+      "Suhu lingkungan ekstrem",
+      "Suplai lemak subkutan tidak memadai",
+      "Proses penuaan",
+      "Berat badan ekstrem",
+      "Efek agen farmakologis (mis. sedasi)"
+    ],
+    "kondisiKlinisTerkait": [
+      "Cedera otak akut",
+      "Dehidrasi",
+      "Trauma"
+    ]
+},
+  "Termoregulasi Tidak Efektif": {
+    "kodeDiagnosa": "D.0149",
+    "definisi": "Kegagalan mempertahankan suhu tubuh dalam rentang normal.",
+    "penyebab": [
+      "Stimulasi pusat termoregulasi hipotalamus",
+      "Fluktuasi suhu lingkungan",
+      "Proses penyakit (mis. infeksi)",
+      "Proses penuaan",
+      "Dehidrasi",
+      "Ketidaksesuaian pakaian untuk suhu lingkungan",
+      "Peningkatan kebutuhan oksigen",
+      "Perubahan laju metabolisme",
+      "Suhu lingkungan ekstrem",
+      "Ketidakadekuatan suplai lemak subkutan",
+      "Berat badan ekstrem",
+      "Efek agen farmakologis (mis. sedasi)"
+    ],
+    "gejalaDanTandaMayor": {
+      "subjektif": [],
+      "objektif": [
+        "Kulit dingin/ hangat",
+        "Menggigil",
+        "Suhu tubuh fluktuatif"
+      ]
+    },
+    "gejalaDanTandaMinor": {
+      "subjektif": [],
+      "objektif": [
+        "Piloereksi",
+        "Pengisian kapiler >3 detik",
+        "Tekanan darah meningkat",
+        "Pucat",
+        "Frekuensi napas meningkat",
+        "Takikardia",
+        "Kejang",
+        "Kulit kemerahan",
+        "Dasar kuku sianotik"
+      ]
+    },
+    "kondisiKlinisTerkait": [
+      "Cedera medula spinalis",
+      "Infeksi/ sepsis",
+      "Pembedahan",
+      "Cedera otak akut",
+      "Trauma"
+    ]
+  }
+}
