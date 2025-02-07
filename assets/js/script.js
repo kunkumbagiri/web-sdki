@@ -219,7 +219,7 @@ if (subDetail.KetidakadekuatanPertahananTubuhSekunder?.length > 0) {
                <h3>Referensi:</h3>
                <p>PPNI (2016). Standar Diagnosis Keperawatan Indonesia: Definisi dan Indikator Diagnostik, Edisi 1. Jakarta: DPP PPNI.</p>
            </div>
-       `;a
+       `;
     // Menutup div
     htmlContent += `</div>`;
 
